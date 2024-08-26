@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 561e85a7fb114b1d976acce95d0b41ee
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c1778728d66e4b83b59a42405a90598a
+#The title of this activity
+title: Definir la estrategia de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Disponible y acordado mapa de ruta de tu programa AppSec
+#A one sentence description of the activity
+shortDescription: Publicar una estrategia unificada para la seguridad de las aplicaciones.
+#A multi-paragraph description of the activity
+longDescription: |
+  En función de la magnitud de los activos, las amenazas y la tolerancia al riesgo, desarrolle un plan estratégico de seguridad y un presupuesto para abordar las prioridades comerciales en torno a la seguridad de las aplicaciones. El plan cubre de 1 a 3 años e incluye hitos consistentes con los impulsores y riesgos comerciales de la organización. Proporciona iniciativas tácticas y estratégicas y sigue una hoja de ruta que hace visible su alineación con las prioridades y necesidades comerciales.
+
+  En el plan de acción, logra un equilibrio entre los cambios que requieren gastos financieros, los cambios de procesos y procedimientos y los cambios que afectan la cultura de la organización. Este equilibrio ayuda a lograr varios hitos al mismo tiempo y sin sobrecargar ni agotar los recursos disponibles o los equipos de desarrollo. Los hitos son lo suficientemente frecuentes como para ayudar a monitorear el éxito del programa y desencadenar ajustes oportunos en la plan de acción.
+
+  Para que el programa tenga éxito, el equipo de seguridad de la aplicación obtiene la aceptación de las partes interesadas de la organización y los equipos de desarrollo de aplicaciones. Un plan publicado está disponible para cualquier persona que deba apoyar o participar en su implementación.
+#Type Classification of the Document
+type: Activity
