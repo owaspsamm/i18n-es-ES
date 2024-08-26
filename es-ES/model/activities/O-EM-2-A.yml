@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Configuration Hardening, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Link to the practice level that this activity belongs to
+level: 354292b7198b48bb8c4909e0d7e29f68
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 84dcbc954d954d95b1fb37e032f05402
+#The title of this activity
+title: Establece las líneas base del hardening
+#Describe the benefit that is achieved by implementing this activity
+benefit: Hardening constante de los componentes de la pila de tecnología en su organización
+#A one sentence description of the activity
+shortDescription: Realizar un hardening consistente de las configuraciones, siguiendo las líneas de referencia establecidas y orientación.
+#A multi-paragraph description of the activity
+longDescription: |
+  Establecer líneas base de hardening de la configuración para todos los componentes en cada pila de tecnología utilizada. Para ayudar con la aplicación consistente de las líneas base de hardening, desarrolle guías de configuración para los componentes. Exigir a los equipos de productos que apliquen líneas de base de configuración a todos los sistemas nuevos y a los sistemas existentes cuando sea posible.
+
+  Coloque las líneas base de refuerzo y las guías de configuración bajo la gestión de cambios y asigne un propietario a cada una. Los propietarios tienen la responsabilidad continua de mantenerlos actualizados, en función de las mejores prácticas en evolución o los cambios en los componentes relevantes (por ejemplo, actualizaciones de versión, nuevas funciones).
+
+  En entornos más grandes, obtenga configuraciones de instancias de un maestro mantenido localmente, con las líneas de base de configuración relevantes aplicadas. Emplee herramientas automatizadas para endurecer configuraciones.
+#Type Classification of the Document
+type: Activity
