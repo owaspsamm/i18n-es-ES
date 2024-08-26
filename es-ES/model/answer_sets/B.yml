@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Sí, algunos
+  - 
+    #third level
+    text: Sí, al menos la mitad
+  - 
+    #highest level
+    text: Sí, la mayoría o la totalidad
