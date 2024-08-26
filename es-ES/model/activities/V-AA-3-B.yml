@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 83ea8aaab3384b41b785107613ee4d86
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a11da5bb4d3c475d9e9c53b104032e65
+#The title of this activity
+title: Retroalimentar los resultados de la revisión para mejorar las arquitecturas de referencia
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mejora continua de la arquitectura empresarial basada en revisiones de arquitectura
+#A one sentence description of the activity
+shortDescription: Retroalimente los resultados de la revisión de la arquitectura en la arquitectura empresarial, los principios y patrones de diseño de la organización, las soluciones de seguridad y las arquitecturas de referencia.
+#A multi-paragraph description of the activity
+longDescription: |
+  Como organización, puede mejorar aún más la postura de seguridad de su software si comprende qué amenazas quedan sin abordar en las arquitecturas de software y adapta sus tácticas para evitarlo. Formalice un proceso para utilizar los hallazgos recurrentes de la arquitectura como disparador para identificar las causas de las brechas en la evaluación de seguridad y tratarlas. Retroalimente los hallazgos a la fase de diseño mediante la creación o actualización de arquitecturas de referencia relevantes, soluciones de seguridad existentes o principios y patrones de diseño de la organización.
+#Type Classification of the Document
+type: Activity

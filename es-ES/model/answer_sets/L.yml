@@ -1,0 +1,14 @@
+#Different answers with their properties. We use 4 levels or answers
+values:
+  - 
+    #lowest level
+    text: false
+  - 
+    #second level
+    text: Si, para algunos activos
+  - 
+    #third level
+    text: Si, para al menos la mitad de los activos
+  - 
+    #highest level
+    text: Si, para todos, o casi todos, los activos

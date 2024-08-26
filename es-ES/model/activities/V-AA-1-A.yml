@@ -1,0 +1,33 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 77ca4b5e7ebc42558109829dffc2b80d
+#Link to the practice level that this activity belongs to
+level: 39bc5d271fae4ea8ba53db7de7b2712c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 0f611af10f974da497e7f3defe0c4f12
+#The title of this activity
+title: Evaluar la arquitectura de la aplicación
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensión de la arquitectura de alto nivel y las medidas de seguridad sensibles
+#A one sentence description of the activity
+shortDescription: Identificar los componentes de la arquitectura de la aplicación y la infraestructura y revisar el aprovisionamiento de seguridad básico
+#A multi-paragraph description of the activity
+longDescription: |
+  Cree una vista de la arquitectura general y examínela para la correcta provisión de mecanismos de seguridad generales como autenticación, autorización, administración de derechos y usuarios, comunicación segura, protección de datos, administración de claves y administración de registros. También considere el apoyo a la privacidad. Haga esto basándose en los artefactos del proyecto, como la arquitectura o los documentos de diseño, o entrevistas con los dueños de negocios y el personal técnico. También considere los componentes de la infraestructura: estos son todos los sistemas, componentes y bibliotecas (incluidos los SDK) que no son específicos de la aplicación, pero brindan soporte directo para usar o administrar la(s) aplicación(es) en la organización.
+
+  Anote cualquier funcionalidad relacionada con la seguridad en la arquitectura y revise su disposición correcta. Haga esto de manera ad-hoc, desde el punto de vista de usuarios anónimos, usuarios autorizados y roles de aplicación específicos.
+#Internal notes that might help the author
+notes: |
+  Elementos necesarios para el riesgo
+     - conjunto de preguntas para evaluar
+     - niveles de riesgo para representar el riesgo de la aplicación
+     - cartera de riesgo
+#References to other activities that are prerequesites to implement this one.
+relatedactivities: |
+  - Requerimientos de seguridad
+#Type Classification of the Document
+type: Activity

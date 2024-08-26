@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Response, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 390bec725b8344a289d5386026925947
+#Link to the practice level that this activity belongs to
+level: 6fe1973911bf4e54b018da10a5aa80a1
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: f692ee8f87c1499681490cc1647c0df4
+#The title of this activity
+title: Establecer un equipo de respuesta a incidentes
+#Describe the benefit that is achieved by implementing this activity
+benefit: Respuesta eficiente de incidentes independientemente del tiempo, ubicación o tipo de incidente
+#A one sentence description of the activity
+shortDescription: Emplear un equipo de respuesta a incidentes dedicado y bien formado.
+#A multi-paragraph description of the activity
+longDescription: |
+  Establezca un equipo de respuesta a incidentes dedicado, continuamente disponible y responsable de la mejora continua del proceso con la ayuda de los RCA habituales. Para organizaciones distribuidas, defina y documente las reglas de logística para todas las ubicaciones relevantes si es razonable.
+
+  Documente los procedimientos detallados de respuesta a incidentes y manténgalos actualizados. Automatice los procedimientos cuando corresponda. Mantenga todos los recursos necesarios para estos procedimientos (por ejemplo, infraestructura de comunicación separada o ubicación externa confiable) listos para usar. Detectar y corregir la indisponibilidad de estos recursos de manera oportuna.
+
+  Realice ejercicios de incidentes y emergencias con regularidad. Utilice los resultados para mejorar los procesos.
+
+  Defina, recopile, evalúe y actúe según las métricas del proceso de respuesta a incidentes, incluida su mejora continua.
+#Type Classification of the Document
+type: Activity

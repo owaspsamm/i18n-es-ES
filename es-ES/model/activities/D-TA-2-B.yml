@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ed5a9c3dd7884c88918a45dc9d231c5d
+#Link to the practice level that this activity belongs to
+level: e5b6dc4f907c4986b8ba7923303cd665
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 649b693315234a94928e42f3e308deac
+#The title of this activity
+title: Estandarizar y escalar el modelado de amenazas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Expectativas claras de la calidad de las actividades de modelado de amenazas
+#A one sentence description of the activity
+shortDescription: Estandarice la capacitación, los procesos y las herramientas de modelado de amenazas para escalar en toda la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilice una metodología de modelado de amenazas estandarizada para su organización y alinee esto con los niveles de riesgo de su aplicación. Piense en formas de respaldar el escalado del modelado de amenazas en toda la organización.
+
+  Capacite a sus arquitectos, campeones de seguridad y otras partes interesadas sobre cómo realizar modelos prácticos de amenazas. El modelado de amenazas requiere comprensión, guías y plantillas claras, ejemplos específicos de la organización y experiencia, que es difícil de automatizar.
+
+  Su metodología de modelado de amenazas incluye al menos diagramas, identificación de amenazas, mitigación de fallas de diseño y cómo validar los artefactos de su modelo de amenazas. Su diagrama de modelo de amenazas permite una comprensión detallada del entorno y la mecánica de la aplicación. Descubre amenazas a su aplicación con listas de verificación, como STRIDE o amenazas más específicas de la organización. Para las fallas de diseño identificadas (clasificadas según el riesgo para su organización), agrega controles de mitigación para ayudar a las partes interesadas a enfrentar amenazas particulares. Defina qué desencadena la actualización de un modelo de amenaza, por ejemplo, un cambio de tecnología o la implementación de una aplicación en un nuevo entorno.
+
+  Alimente el resultado del modelado de amenazas al proceso de gestión de defectos para un seguimiento adecuado. Capture los artefactos de modelado de amenazas con herramientas que utilizan sus equipos de aplicaciones.
+#Type Classification of the Document
+type: Activity

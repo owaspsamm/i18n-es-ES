@@ -1,0 +1,29 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: 812abdd0a2b54366a497919f8463911a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d975bb1ce1dd4d61a6039b0a4a05926e
+#The title of this activity
+title: Realizar pruebas de estrés de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia de la resistencia contra ataques de denegación de servicio
+#A one sentence description of the activity
+shortDescription: Denegación de servicio y prueba de estrés de seguridad
+#A multi-paragraph description of the activity
+longDescription: |
+  Las aplicaciones son particularmente susceptibles a ataques de denegación de servicio. Realice pruebas de estrés de denegación de servicio y seguridad contra ellos en condiciones controladas, preferiblemente en entornos de aceptación de aplicaciones.
+
+  Las herramientas de prueba de carga generan tráfico sintético, lo que le permite probar el rendimiento de la aplicación bajo una carga pesada. Una prueba importante es cuántas solicitudes por segundo puede manejar una aplicación mientras se mantiene dentro de sus requisitos de rendimiento. La prueba desde una única dirección IP sigue siendo útil, ya que proporciona una indicación de cuántas solicitudes debe generar un atacante para afectar la aplicación.
+
+  Los ataques de denegación de servicio suelen provocar la inanición o el agotamiento de los recursos de la aplicación. Para determinar si se puede usar algún recurso para crear una denegación de servicio, analice cada recurso de la aplicación para ver cómo se puede agotar. Priorice las acciones que pueden realizar los usuarios no autenticados. Complemente las pruebas generales de denegación de servicio con pruebas de estrés de seguridad para realizar acciones o crear condiciones que causen retrasos, interrupciones o fallas de la aplicación bajo prueba.
+#Internal notes that might help the author
+notes: |
+  Eliminé las referencias a herramientas específicas y una explicación detallada de las pruebas de denegación de servicio. Todos estos se pueden agregar a las notas de orientación.
+#Type Classification of the Document
+type: Activity

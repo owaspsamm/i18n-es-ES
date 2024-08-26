@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f7b501627954c6cb03342196b2065a7
+#Link to the practice level that this activity belongs to
+level: b29ab542cc674901a19cf5f3c0c4be18
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: bed0489cae4e4401b1d44d56ad36c109
+#The title of this activity
+title: Identificar las dependencias de la aplicación
+#Describe the benefit that is achieved by implementing this activity
+benefit: Información disponible sobre problemas de seguridad conocidos en dependencias
+#A one sentence description of the activity
+shortDescription: Cree registros con la Carta de Materiales de sus aplicaciones y analice de forma oportuna.
+#A multi-paragraph description of the activity
+longDescription: |
+  Mantener un registro de todas las dependencias utilizadas en el entorno de producción objetivo. Esto a veces se denomina Lista de Materiales (BOM). Considere que diferentes componentes de la aplicación pueden consumir dependencias totalmente diferentes. Por ejemplo, si el paquete de software es una aplicación web, cubra tanto el código de la aplicación del lado del servidor como los scripts del lado del cliente. Al construir estos registros, considere las diferentes ubicaciones donde las dependencias pueden ser especificadas como archivos de configuración, el directorio del proyecto en el disco, una herramienta de gestión de paquetes o el código real (por ejemplo, través de un IDE que soporta dependencias de listados).
+
+  Recolectar la siguiente información sobre cada dependencia &#58;
+
+  * Donde se utiliza o hace referencia
+  * Versión usada
+  * Licencia
+  * Información de origen (enlace al repositorio, nombre del autor, etc.)
+  * Soporte y estado de mantenimiento de la dependencia
+
+  Compruebe los registros para descubrir cualquier dependencia con vulnerabilidades conocidas y actualice o reemplácelos en consecuencia.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingeniero de Seguridad
+  - Desarrollador
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  -
+#Type Classification of the Document
+type: Activity

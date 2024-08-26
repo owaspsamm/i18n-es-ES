@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: 76f8a2e68065467ba9bd2b5ac625490b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 82a962e3dcc44b1086760de517aaa3c1
+#The title of this activity
+title: Establecer un catálogo de datos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Manejo estandarizado de diferentes clases de datos sensibles
+#A one sentence description of the activity
+shortDescription: Desarrollar el catálogo de datos y establecer una política de protección de datos.
+#A multi-paragraph description of the activity
+longDescription: |
+  En este nivel de madurez, las actividades de protección de datos se centran en la gestión activa de su administración de datos. Establezca controles técnicos y administrativos para proteger la confidencialidad de los datos sensibles y la integridad y disponibilidad de todos los datos bajo su cuidado, desde su creación/recepción inicial hasta la destrucción de las copias de seguridad al final de su período de retención.
+
+  Identifique los datos almacenados, procesados ​​y transmitidos por las aplicaciones, y capture información sobre sus tipos, niveles de sensibilidad (clasificación) y ubicaciones de almacenamiento en su catálogo de datos. Identificar claramente registros o elementos de datos sujetos a regulación específica. Establecer una única fuente de verdad con respecto a los datos con los que trabaja respalda una selección más detallada de controles para su protección. La recopilación de esta información mejora la precisión, la puntualidad y la eficiencia de sus respuestas a las consultas relacionadas con los datos (por ejemplo, de auditores, equipos de respuesta a incidentes o clientes) y respalda el modelado de amenazas y las actividades de cumplimiento.
+
+  Con base en su Política de Protección de Datos, establezca procesos y procedimientos para proteger y preservar los datos a lo largo de su vida, ya sea en reposo, mientras se procesan o en tránsito. Preste especial atención al manejo y protección de datos confidenciales fuera del sistema de procesamiento activo, incluidos, entre otros: almacenamiento, retención y destrucción de copias de seguridad; y el etiquetado, el cifrado y la protección física de los medios de almacenamiento fuera de línea. Sus procesos y procedimientos cubren la implementación de todos los controles adoptados para cumplir con las restricciones reglamentarias, contractuales o de otro tipo sobre las ubicaciones de almacenamiento, el acceso del personal y otros factores.
+#Type Classification of the Document
+type: Activity

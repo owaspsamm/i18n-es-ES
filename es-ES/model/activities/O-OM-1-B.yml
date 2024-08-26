@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Decom/Legacy, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a0d2ec4c6daa43369c07644b8745a7bd
+#Link to the practice level that this activity belongs to
+level: d0a99f3db27e48aa9b2d6b58a9040f49
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 1a398709b9d3407dbf9db7eeff6e916c
+#The title of this activity
+title: Identificar aplicaciones no utilizadas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de activos o componentes no utilizados
+#A one sentence description of the activity
+shortDescription: Retirar las aplicaciones y los servicios no utilizados según se identifiquen. Gestione las actualizaciones/migraciones de los clientes de forma individual.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identifique las aplicaciones no utilizadas de forma _ad hoc_, ya sea por observación fortuita o realizando una revisión ocasional. Cuando identifique aplicaciones no utilizadas, procese esos hallazgos para tomar medidas adicionales. Si ha establecido un proceso formal para retirar las aplicaciones no utilizadas, asegúrese de que los equipos lo conozcan y lo utilicen.
+
+  Administre la migración de clientes/usuarios desde versiones anteriores de sus productos para cada producto y grupo de clientes/usuarios. Cuando un cliente/grupo de usuarios ya no utilice una versión del producto, suspenda el soporte para esa versión. Sin embargo, en este nivel de madurez, es posible que tenga una gran cantidad de versiones de productos en uso activo en toda la base de clientes/usuarios, lo que requiere un esfuerzo significativo del desarrollador para respaldar las correcciones del producto.
+#Type Classification of the Document
+type: Activity
