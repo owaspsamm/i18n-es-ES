@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 2a29c1f7d6954785b8d42d637a752f94
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 38932fe4024e4ec89646a82e0b4e651e
+#The title of this activity
+title: Estandarizar los requerimientos de políticas y regulaciones
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensión general de cómo alcanzar el cumplimiento de regulaciones para los equipos de producción
+#A one sentence description of the activity
+shortDescription: Publicar requerimientos puntuales de cumplimiento y lineamientos para pruebas de seguridad en aplicativos.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desarrolle una biblioteca de requerimientos de aplicaciones y scripts de prueba para establecer y verificar el cumplimiento normativo de las aplicaciones. Algunos de estos están vinculados a requisitos de cumplimiento individuales como PCI o GDPR, mientras que otros son de naturaleza más general y abordan requisitos de cumplimiento global como ISO. La biblioteca está disponible para todos los equipos de desarrollo de aplicaciones. Incluye orientación para determinar todos los requisitos aplicables, incluidas las consideraciones para reducir la carga y el alcance del cumplimiento. Implemente un proceso para reevaluar periódicamente los requisitos de cumplimiento de cada aplicación. La reevaluación incluye la revisión de todas las funciones y oportunidades de la aplicación para reducir el alcance y reducir el costo general de cumplimiento.
+
+  Los requisitos incluyen información suficiente para que los desarrolladores comprendan los requisitos funcionales y no funcionales de las diferentes obligaciones de cumplimiento. Incluyen referencias a políticas y estándares, y proporcionan referencias explícitas a regulaciones. Si hay preguntas sobre la implementación de un requisito en particular, el texto original del reglamento puede ayudar a interpretar la intención con mayor precisión. Cada requisito incluye un conjunto de scripts de prueba para verificar el cumplimiento. Además de ayudar a QA con la verificación del cumplimiento, estos pueden ayudar a aclarar los requisitos de cumplimiento para los desarrolladores y hacer que el proceso de cumplimiento sea transparente. Los requisitos tienen un formato que permite importarlos a repositorios de requisitos individuales. aclarar aún más los requisitos de cumplimiento para los desarrolladores y garantizar que el proceso para lograr el cumplimiento sea completamente transparente.
+#Type Classification of the Document
+type: Activity
