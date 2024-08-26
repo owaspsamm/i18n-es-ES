@@ -1,0 +1,34 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Configuration Hardening, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Link to the practice level that this activity belongs to
+level: 1cb6e197ca8245eca65b0ecbdd784720
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 3156ab7b516e4550893427face9f86bc
+#The title of this activity
+title: Realizar monitoreo continuo de configuración
+#Describe the benefit that is achieved by implementing this activity
+benefit: Limpiar la vista en las configuraciones de componentes para evitar no conformidades
+#A one sentence description of the activity
+shortDescription: Monitorear activamente las configuraciones en busca de incumplimiento de las líneas de base y maneje las incidencias detectadas como defectos de seguridad.
+#A multi-paragraph description of the activity
+longDescription: |
+  Supervise activamente las configuraciones de seguridad de las pilas de tecnología implementadas, realizando comprobaciones periódicas con respecto a las líneas de base establecidas. Asegúrese de que los resultados de las comprobaciones de configuración estén disponibles a través de informes y paneles publicados.
+
+  Cuando detecte configuraciones no conformes, trate cada incidencia como un hallazgo de seguridad y gestione las acciones correctivas dentro de su práctica establecida de Gestión de defectos.
+
+  Se pueden obtener más ganancias utilizando medidas automatizadas, como configuraciones de "autorreparación" y alertas de gestión de eventos e información de seguridad (SIEM).
+
+  Como parte del proceso de actualización de componentes (por ejemplo, nuevas versiones, parches de proveedores), revise las líneas de base y las guías de configuración correspondientes, actualizándolas según sea necesario para mantener su relevancia y precisión. Revise otras líneas base y guías de configuración al menos una vez al año.
+
+  Revise periódicamente su proceso de gestión de línea de base, incorporando comentarios y lecciones aprendidas de los equipos que aplican y mantienen líneas de base de configuración y guías de configuración.
+#References to other activities that are related to this one
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+  - 2bf0e192a904444b8a2f38c33256e80a
+#Type Classification of the Document
+type: Activity
