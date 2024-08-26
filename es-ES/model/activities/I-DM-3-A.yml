@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: 5a25ae9bc9134d6387128ea925c81845
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d955a7b3fbfc4b6aa5b327af9e01c377
+#The title of this activity
+title: Hacer cumplir un SLA para la gestión de defectos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Asegurar que los defectos de seguridad son manejados dentro de las SLAs predefinidas
+#A one sentence description of the activity
+shortDescription: Establecer las SLAs predefinidas e integrar su sistema de gestión de defectos con otras herramientas relevantes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implemente una alerta automática sobre defectos de seguridad si el tiempo de reparación incumple los SLA definidos. Asegúrese de que estos defectos se transfieran automáticamente al proceso de gestión de riesgos y se califiquen mediante una metodología cuantitativa coherente. Evalúe cómo los defectos particulares se influyen / amplifican entre sí no solo a nivel de equipos separados, sino a nivel de toda la organización. Utilice el conocimiento de la cadena de eliminación completa para priorizar, introducir y realizar un seguimiento de los controles de compensación que mitiguen los riesgos comerciales respectivos.
+
+  Integre su sistema de gestión de defectos con las herramientas automatizadas introducidas por otras prácticas, por ejemplo:
+
+  * Compilación e implementación: falla el proceso de compilación / implementación si los defectos de seguridad por encima de cierta gravedad afectan el artefacto final, a menos que alguien firme explícitamente la excepción.
+  * Monitoreo: si es posible, asegúrese de que se reconozca y se alerte el abuso del defecto de seguridad en el entorno de producción.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrador
+  - Ingeniero de Seguridad
+  - Oficial de seguridad
+  - Propietario del producto
+  - Administrador
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 11dd0c95f8914b6cb850a27f0557a9dd
+  - 281369f491da4d4c84b0729e344e2c93
+  - 05a3e75c6c654ae58a115cbf4295662b
+#Type Classification of the Document
+type: Activity
