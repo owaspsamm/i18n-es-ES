@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9ec70d6f7ddb4cb6b37928f9994c6049
+#Link to the practice level that this activity belongs to
+level: fc5eb251c6ee4f3db04eb01b62d380ba
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 05a3e75c6c654ae58a115cbf4295662b
+#The title of this activity
+title: Verificar la integridad de los artefactos de despliegue
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integridad asegurada de los artefactos que se despliegan a producción
+#A one sentence description of the activity
+shortDescription: Verificar automáticamente la integridad de todo el software desplegado, independientemente sobre si está desarrollado interna o externamente.
+#A multi-paragraph description of the activity
+longDescription: |
+  Aproveche la firma de los archivos binarios en el momento de la compilación e incluya la verificación automática de la integridad del software que se implementa al comparar sus firmas con certificados confiables. Esto puede incluir binarios desarrollados y construidos internamente, así como artefactos de terceros. No implemente artefactos si sus firmas no se pueden verificar, incluidas aquellas con certificados no válidos o caducados.
+
+  Si la lista de certificados de confianza incluye desarrolladores de terceros, verifíquelos periódicamente y manténgalos en línea con el gobierno más amplio de la organización que rodea a los proveedores de terceros de confianza.
+
+  Apruebe manualmente la implementación al menos una vez durante una implementación automatizada. Siempre que una verificación humana sea significativamente más precisa que una automatizada durante el proceso de implementación, elija esta opción.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingeniero de Seguridad
+  - Administrador
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 281369f491da4d4c84b0729e344e2c93
+#Type Classification of the Document
+type: Activity
