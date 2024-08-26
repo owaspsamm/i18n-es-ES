@@ -1,0 +1,8 @@
+---
+#===========================================================
+#OWASP SAMM2 Activity Stream template/sample
+#===========================================================
+#Link to the security practice that this stream belongs to
+practice: e17d573510904f65a1fe6040b56ad0b1
+#Unique identifier to refer to this stream
+id: a5b57fc5fa0441b7b23f599b506c5752
