@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Configuration Hardening, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Link to the practice level that this activity belongs to
+level: 8cb942eff46d41f38e6edc11849744a6
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 786b3d7b39cd49a88090554a275f04a6
+#The title of this activity
+title: Usar el mejor esfuerzo de "hardening"
+#Describe the benefit that is achieved by implementing this activity
+benefit: Ajustes de configuración básica de hardening de sus componentes
+#A one sentence description of the activity
+shortDescription: Realizar el mejor esfuerzo de hardening de las configuraciones, basado en información fácilmente disponible.
+#A multi-paragraph description of the activity
+longDescription: |
+  Al comprender la importancia de proteger las pilas de tecnología que está utilizando, aplique una configuración segura a los elementos de la pila, según la guía disponible (por ejemplo, proyectos de código abierto, documentación de proveedores, artículos de blogs). Cuando sus equipos desarrollen una guía de configuración para sus aplicaciones, basada en prueba y error e información recopilada por los miembros del equipo, anímelos a compartir sus aprendizajes en toda la organización.
+
+  Identifique elementos clave de pilas de tecnología comunes y establezca estándares de configuración para ellos, según las experiencias de los equipos sobre lo que funciona.
+
+  En este nivel de madurez, aún no tiene un proceso formal para administrar las líneas base de configuración. Es posible que las configuraciones no se apliquen de manera uniforme en todas las aplicaciones e implementaciones, y es probable que no exista el monitoreo de conformidad.
+#Type Classification of the Document
+type: Activity
