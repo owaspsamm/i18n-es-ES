@@ -1,0 +1,9 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice Level template/sample
+#===========================================================
+#Link to the practice, using its unique identifier
+practice: 5702908efca4499e87a0239f32920d9b
+#Unique identifier (GUID) used to refer to this practice level.
+#Please generate another identifier for your specific practice level.
+id: 1a55b2c4666f4336a3f5c12c5bb4a1e9
