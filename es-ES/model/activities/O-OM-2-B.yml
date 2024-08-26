@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Decom/Legacy, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a0d2ec4c6daa43369c07644b8745a7bd
+#Link to the practice level that this activity belongs to
+level: 76f8a2e68065467ba9bd2b5ac625490b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 60d7a0a61dd142d5a87009bc5b93df56
+#The title of this activity
+title: Formalizar el proceso de desmantelamiento
+#Describe the benefit that is achieved by implementing this activity
+benefit: Proceso de desmantelamiento estandarizado que reduce el riesgo de olvidar componentes
+#A one sentence description of the activity
+shortDescription: Desarrolle procesos de desmantelamiento repetibles para sistemas/servicios no utilizados y para la migración desde dependencias heredadas. Administre hojas de ruta de migración heredadas para los clientes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Como parte del desmantelamiento de un sistema, aplicación o servicio, siga un proceso establecido para eliminar todas las cuentas, reglas de firewall, datos, etc. relevantes del entorno operativo. Al eliminar estos elementos no utilizados de los archivos de configuración, mejora la capacidad de mantenimiento de los recursos de infraestructura como código.
+
+  Siga un proceso coherente para el reemplazo o actualización oportuna de aplicaciones de terceros o dependencias de aplicaciones (por ejemplo, Sistema operativo, aplicaciones de servicios públicos, bibliotecas) que hayan llegado al final de su vida útil.
+
+  Interactúe con los clientes y grupos de usuarios de sus productos al final de su vida útil o cuando se acerquen, para migrarlos a versiones compatibles de manera oportuna.
+#Type Classification of the Document
+type: Activity
