@@ -1,0 +1,50 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a870a9b26724b4ba0dff177028b474a
+#Link to the practice level that this activity belongs to
+level: b29ab542cc674901a19cf5f3c0c4be18
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: bf536a9305134a769adbd414652054ee
+#The title of this activity
+title: Definir un proceso de construcción consistente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Riesgo limitado de error humano durante el proceso de construcción minimizando problemas de seguridad
+#A one sentence description of the activity
+shortDescription: Crear una definición formal del proceso de construcción para que sea consistente y repetible.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definir el proceso de construcción, descomponiéndolo en un conjunto de instrucciones claras que debe seguir una persona o una herramienta automatizada. La definición del proceso de construcción describe todo el proceso de extremo a extremo, de modo que la persona o herramienta pueda seguirlo de forma consistente cada vez y producir el mismo resultado. La definición se almacena centralmente y se puede acceder a cualquier herramienta o persona. Evitar almacenar múltiples copias ya que pueden quedar desalineadas y obsoletas.
+
+  La definición del proceso no incluye ningún secreto (específicamente teniendo en cuenta los necesarios durante el proceso de construcción).
+
+  Revisar cualquier herramienta de construcción, asegurándose de que sean mantenidas activamente por proveedores y actualizadas con parches de seguridad. Harden la configuración de cada herramienta para que esté alineada con las directrices del proveedor y las mejores prácticas de la industria.
+
+  Determinar un valor para cada artefacto generado que puede ser utilizado más tarde para verificar su integridad, como una firma o un hash. Proteger este valor y, si el artefacto está firmado, con el certificado privado de firma.
+
+  Asegurar de que las herramientas de construcción son reparadas y aseguradas correctamente.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desarrollador
+  - Ingeniero de Seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - 786b3d7b39cd49a88090554a275f04a6
+  - 0721d5bd5d67479991b5b52f33dcd7b1
+#Type Classification of the Document
+type: Activity
