@@ -1,0 +1,48 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 55bf5184ff7d4b76a444e52a28c803d9
+#Link to the practice level that this activity belongs to
+level: 97a46a074fe849a1af2c2d2d3dd09ba5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d1cb54f1ddd3432480513df320fc0ff8
+#The title of this activity
+title: Definir métricas básicas del defecto
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de ganancias rápidas derivadas de la información de defecto disponible
+#A one sentence description of the activity
+shortDescription: Revise regularmente los defectos de seguridad previamente registrados y obtenga ganancias rápidas de métricas básicas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Una vez por período de tiempo definido (por lo general, al menos una vez al año), revise los defectos de seguridad registrados tanto resueltos como abiertos en cada equipo y extraiga métricas básicas de los datos disponibles. Estos pueden incluir:
+
+  * El número total de defectos versus el número total de actividades de verificación. Esto podría darle una idea de si está buscando defectos con una intensidad y calidad adecuadas.
+  * Los componentes de software en los que residen los defectos. Esto indica dónde podría ser más necesaria la atención y dónde es más probable que vuelvan a aparecer fallos de seguridad en el futuro.
+  * El tipo o categoría del defecto, que sugiere áreas en las que el equipo de desarrollo necesita más formación.
+  * La gravedad del defecto, que puede ayudar al equipo a comprender la exposición al riesgo del software.
+
+  Identifique y lleve a cabo actividades sensatas de ganancia rápida que pueda derivar de los conocimientos recién adquiridos. Estos pueden incluir cosas como una sesión de intercambio de conocimientos sobre un tipo de vulnerabilidad en particular o la realización / automatización de un análisis de seguridad.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desarrollador
+  - Campeón de seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+#Type Classification of the Document
+type: Activity
