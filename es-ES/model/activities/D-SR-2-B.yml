@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Link to the practice level that this activity belongs to
+level: 1a55b2c4666f4336a3f5c12c5bb4a1e9
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 5d5e3d9beab9498ca1ce66d3a53a81c6
+#The title of this activity
+title: Discutir las responsabilidades de seguridad con los proveedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Las responsabilidades de seguridad de sus proveedores de software están claramente definidas
+#A one sentence description of the activity
+shortDescription: Integrar la seguridad en los acuerdos de proveedores con el fin de asegurar el cumplimiento con los requisitos de la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Aumente su confianza en la capacidad de sus proveedores para la seguridad del software. Discuta las responsabilidades y expectativas concretas de sus proveedores y su propia organización y establezca un contrato con el proveedor. Las responsabilidades pueden ser requisitos de calidad específicos o tareas particulares, y el servicio mínimo se puede detallar en un Acuerdo de nivel de servicio (SLA). Un ejemplo de requisito de calidad es que entregarán software protegido contra OWASP Top 10 y, en caso de que se detecten problemas, estos se solucionarán. Un ejemplo de tarea es que tienen que realizar un análisis de código estático continuo o realizar una prueba de penetración independiente antes de una versión importante. El acuerdo estipula pasivos y topes en caso de que surja un problema importante.
+
+  Una vez que haya implementado esto para algunos proveedores, trabaje hacia un acuerdo estándar para proveedores que forme la base de sus negociaciones. Puede desviarse de este acuerdo estándar caso por caso, pero le ayudará a asegurarse de no pasar por alto temas importantes.
+#Type Classification of the Document
+type: Activity
