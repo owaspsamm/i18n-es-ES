@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Link to the practice level that this activity belongs to
+level: 3d035b6df77f4ee69577c9b4c9d64891
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2b01696356ed4652accf093f6c6a47ee
+#The title of this activity
+title: Realizar evaluaciones de proveedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia de las prácticas de seguridad de sus proveedores de software
+#A one sentence description of the activity
+shortDescription: Evaluar el proveedor basado en los requerimientos de seguridad de la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Las competencias y hábitos de seguridad de los proveedores expertos implicados en el desarrollo de su software pueden tener un impacto significativo en la postura de seguridad del producto final. En consecuencia, es importante conocer y evaluar a sus proveedores en este frente.
+
+  Prepara una evaluación del proveedor para entender las fortalezas y debilidades de tus proveedores. Utilice una lista de verificación básica o lleve a cabo entrevistas para revisar sus prácticas y entregas típicas. Esto le da una idea de cómo se organizan ellos mismos y los elementos para evaluar si necesita tomar medidas adicionales para mitigar riesgos potenciales. Idealmente, hablar con diferentes roles en la organización, o incluso establecer una pequeña evaluación de madurez para este fin. Los proveedores fuertes ejecutarán su propio programa de aseguramiento de software y podrán responder a la mayoría de sus preguntas. Si los proveedores tienen competencias débiles en seguridad de software, discutir con ellos cómo y hasta qué punto planean trabajar en esto y evaluar si esto es suficiente para su organización. Un proveedor de software podría estar trabajando en un proyecto de bajo riesgo, pero esto podría cambiar.
+
+  Es importante que sus proveedores entiendan y alineen con el apetito de riesgo y sean capaces de satisfacer sus requisitos en esa área. Haga lo que usted espera de ellos explícitos y discuta esto claramente.
+#Type Classification of the Document
+type: Activity
