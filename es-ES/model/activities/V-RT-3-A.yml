@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: 812abdd0a2b54366a497919f8463911a
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 7003146cf1a1450293001754fe74787d
+#The title of this activity
+title: Automatizar las pruebas de requisitos de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección oportuna y fiable de violaciones a los requisitos de seguridad
+#A one sentence description of the activity
+shortDescription: Realizar pruebas de regresión (con pruebas de unidades de seguridad)
+#A multi-paragraph description of the activity
+longDescription: |
+  Escriba y automatice pruebas de regresión para todos los errores identificados (y corregidos) para garantizar que se conviertan en un arnés de prueba que evite que se introduzcan problemas similares en versiones posteriores. Las pruebas unitarias de seguridad deben verificar dinámicamente (es decir, en tiempo de ejecución) que los componentes funcionan como se espera y deben validar que los cambios de código se implementan correctamente.
+
+  Una buena práctica para los desarrolladores es crear casos de prueba de seguridad como un conjunto de pruebas de seguridad genérico que forma parte del marco de prueba unitario existente. Un conjunto de pruebas de seguridad genérico puede incluir casos de prueba de seguridad para validar los requisitos positivos y negativos de los controles de seguridad, como la identidad, la autenticación y el control de acceso, la validación y codificación de entrada, la gestión de usuarios y sesiones, la gestión de errores y excepciones, el cifrado y la auditoría y el registro. Verifique la correcta ejecución de las pruebas de seguridad lo antes posible. Si es factible, por ejemplo, considere la aprobación de las pruebas de seguridad como parte de los requisitos de combinación antes de permitir que el nuevo código ingrese a la base del código principal. Alternativamente, considere su aprobación como un requisito para validar una compilación.
+
+  Para las pruebas funcionales de seguridad, utilice pruebas de nivel de unidad para la funcionalidad de los controles de seguridad a nivel de componente de software, como funciones, métodos o clases. Por ejemplo, un caso de prueba podría verificar la validación de entrada y salida (por ejemplo, saneamiento de variables) y verificaciones de límites para las variables afirmando la funcionalidad esperada del componente.
+#Type Classification of the Document
+type: Activity
