@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: 2a059c7d07c34b9897e49e6295501608
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: cd80066899014962a37af7ab34c83003
+#The title of this activity
+title: Respuesta a las violaciones de datos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Cumplir técnicamente tu política de protección de datos
+#A one sentence description of the activity
+shortDescription: Automatiza la detección de incumplimientos de políticas y auditoría de conformidad periódicamente. Revise y actualice regularmente el catálogo de datos y la política de protección de datos.
+#A multi-paragraph description of the activity
+longDescription: |
+  Las actividades en este nivel de madurez se centran en automatizar la protección de datos, reduciendo su dependencia del esfuerzo humano para evaluar y gestionar el cumplimiento de las políticas. Hay un enfoque en los mecanismos de retroalimentación y revisiones proactivas, para identificar y actuar sobre oportunidades de mejora de procesos.
+
+  Implemente controles técnicos para hacer cumplir su Política de protección de datos y establezca un monitoreo para detectar infracciones reales o intentadas. Puede utilizar una variedad de herramientas disponibles para la prevención de pérdida de datos, control y seguimiento de acceso o detección de comportamiento anómalo.
+
+  Audite periódicamente el cumplimiento de los controles administrativos establecidos y supervise de cerca el rendimiento y el funcionamiento de los mecanismos automatizados, incluidas las copias de seguridad y la eliminación de registros. Las herramientas de monitoreo detectan e informan rápidamente fallas en la automatización, lo que le permite tomar las medidas correctivas oportunas.
+
+  Revisa y actualiza el catálogo de datos con regularidad para mantener un reflejo preciso de su panorama de datos. Las revisiones y actualizaciones periódicas de los procesos y procedimientos mantienen su alineación con sus políticas y prioridades.
+#Type Classification of the Document
+type: Activity
