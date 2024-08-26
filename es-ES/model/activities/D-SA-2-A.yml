@@ -1,0 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: 41c8e63716c34f1eaf09b8cad70cfbaf
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9b6a86278ba14a9098d3d60a9a78d6c5
+#The title of this activity
+title: Proveer soluciones de seguridad preferidas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Servicios de seguridad reutilizables, disponibles para equipos de producción
+#A one sentence description of the activity
+shortDescription: Establecer patrones de diseño comunes y soluciones de seguridad para la adopción.
+#A multi-paragraph description of the activity
+longDescription: |
+  Identificar infraestructura o servicios compartidos con funcionalidad de seguridad, que normalmente incluyen servicios de señalización única, servicios de control de acceso o derechos de acceso, servicios de registro y monitoreo o vigilancia a nivel de aplicación de bloqueo de firewall. Recoger y evaluar sistemas reutilizables para ensamblar una lista de dichos recursos y clasificarlos por el mecanismo de seguridad que cumplen. Considere cada recurso en términos de por qué un equipo de productos querría integrarse con él, es decir, los beneficios del uso del recurso compartido.
+
+  Si existen múltiples recursos en cada categoría, seleccione y estandarizar en uno o más servicios compartidos por categoría. Debido a que el desarrollo futuro de software se basará en estos servicios, revise cada uno a fondo para asegurar la comprensión de la postura de seguridad básica. Para cada servicio seleccionado, cree una guía de diseño para que los equipos de productos entiendan cómo integrarse con el sistema. Facilitar la orientación a través de capacitación, mentoría, directrices y estándares.
+
+  Establecer un conjunto de mejores prácticas que representen métodos sólidos para implementar la funcionalidad de seguridad. Puedes investigarlos o comprarlos, y a menudo es más efectivo si los personalizas para que sean más específicos para tu organización. Los patrones de ejemplo incluyen un subsistema de señalización única, un modelo de delegación de distintos niveles, un modelo de autorización de separación de funciones, un patrón de registro centralizado, etc.
+
+  Estos patrones pueden provenir de proyectos o aplicaciones específicas, pero asegúrese de compartirlos entre diferentes equipos en toda la organización para una aplicación eficiente y consistente de las soluciones de seguridad apropiadas.
+
+  Para aumentar la adopción de estos patrones, vincularlos a los servicios de seguridad compartidos, o implementarlas en soluciones de componentes reales que se pueden integrar fácilmente en una aplicación durante el desarrollo. Apoyar las tecnologías clave dentro de la organización, por ejemplo en caso de diferentes pilas de desarrollo. Tratar estas soluciones como aplicaciones reales con el apoyo adecuado en caso de preguntas o problemas.
+#Type Classification of the Document
+type: Activity
