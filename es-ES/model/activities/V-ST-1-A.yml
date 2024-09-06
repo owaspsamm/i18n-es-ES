@@ -1,5 +1,22 @@
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: 921ff24f0b9f4df9a5129aa2f8a4a570
+#The title of this activity
+title: Realizar pruebas de seguridad automatizadas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección de vulnerabilidades comunes fáciles de encontrar
+#A one sentence description of the activity
+shortDescription: Utilizar herramientas de verificación automática de pruebas de seguridad
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizar herramientas automatizadas de pruebas de seguridad estáticas y dinámicas para el software, lo que permite realizar pruebas de seguridad más eficaces y obtener resultados de mayor calidad. Aumente progresivamente la frecuencia de las pruebas de seguridad y amplíe la cobertura del código.
+
+  Las pruebas de seguridad de las aplicaciones pueden realizarse de forma estática, inspeccionando el código fuente de una aplicación sin ejecutarla, o de forma dinámica, simplemente observando el comportamiento de la aplicación en respuesta a diversas condiciones de entrada. El primer enfoque suele denominarse «pruebas estáticas de seguridad de las aplicaciones» (SAST, Static Application Security Testing), y el segundo, «pruebas dinámicas de seguridad de las aplicaciones» (DAST, Dynamic Application Security Testing). Un enfoque híbrido, conocido como Pruebas Interactivas de Seguridad de Aplicaciones (IAST), combina los puntos fuertes de ambos enfoques (a costa de una sobrecarga adicional) mediante pruebas dinámicas automáticas instrumentadas de aplicaciones, lo que permite una supervisión precisa del estado interno de la aplicación en respuesta a entradas externas.
+
+  Muchas vulnerabilidades de seguridad son muy difíciles de detectar sin inspeccionar cuidadosamente el código fuente. Aunque lo ideal es que esto se lleve a cabo mediante una revisión por expertos o pares, se trata de una tarea lenta y costosa. Aunque más «ruidosas» y a menudo menos precisas que las revisiones realizadas por expertos, las herramientas SAST automatizadas son más baratas, mucho más rápidas y más coherentes que las humanas. Varias herramientas comerciales y gratuitas son capaces de detectar eficazmente errores y vulnerabilidades suficientemente importantes en grandes bases de código.
+
+  Las pruebas dinámicas no requieren el código fuente de la aplicación, por lo que son ideales para los casos en los que el código fuente no está disponible. También identifica casos concretos de vulnerabilidades. Debido a su enfoque de «caja negra» , sin instrumentación, es más probable que descubra fallos superficiales. Las herramientas de pruebas dinámicas necesitan una gran fuente de datos de prueba cuya generación manual resulta muy compleja. Existen muchas herramientas que generan automáticamente los datos de prueba adecuados, lo que permite realizar pruebas de seguridad más eficaces y obtener resultados de mayor calidad.
+
+  Seleccione las herramientas adecuadas en función de varios factores, como la profundidad y precisión de la inspección, la solidez y precisión de los casos de prueba de seguridad, las integraciones disponibles con otras herramientas, el modelo de uso y coste, etc. Al seleccionar las herramientas, recurra a las aportaciones del personal técnico experto en seguridad, así como de los desarrolladores y gerentes o responsables a cargo del desarrollo, y revise los resultados con las partes interesadas.
 #Type Classification of the Document
 type: Activity
