@@ -1,5 +1,18 @@
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: b3b20a75740c4880a21ad9aa0c1298c7
+#The title of this activity
+title: Prueba los componentes de alto riesgo de la aplicación manualmente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección de vulnerabilidades identificables manualmente en componentes críticos
+#A one sentence description of the activity
+shortDescription: Realizar pruebas de seguridad manual de componentes de alto riesgo
+#A multi-paragraph description of the activity
+longDescription: |
+  Realizar pruebas de seguridad manuales selectivas, posiblemente utilizando una combinación de herramientas de análisis estático y dinámico para guiar o centrar la revisión, con el fin de analizar más a fondo partes de la aplicación, como un atacante. Las herramientas automatizadas son eficaces para encontrar diversos tipos de vulnerabilidades, pero nunca pueden sustituir a la revisión manual experta.
+
+  Las vulnerabilidades a nivel de código en partes de software críticas para la seguridad pueden tener un impacto mucho mayor, por lo que los equipos de proyecto revisan los módulos de alto riesgo en busca de vulnerabilidades comunes. Ejemplos comunes de funcionalidad de alto riesgo incluyen módulos de autenticación, puntos de enforzamiento de control de acceso, esquemas de gestión de sesiones, interfaces externas, validadores de entrada y analizadores de datos. Los equipos pueden combinar métricas a nivel de código y exploraciones automatizadas específicas para determinar dónde es mejor centrar sus esfuerzos. En la práctica, la actividad puede adoptar muchas formas, como la programación en pares (pair-programming) y la revisión de pares (pair-review), los «pushes» de seguridad con plazos definidos en los que participa todo el equipo de desarrollo, o las revisiones independientes espontáneas realizadas por miembros de un grupo especializado en seguridad.
+
+  Durante los ciclos de desarrollo en los que se modifica y revisa código de alto riesgo, los responsables de desarrollo clasifican los hallazgos y priorizan las mitigaciones apropiadas con el aporte de otros stakeholders del proyecto.
 #Type Classification of the Document
 type: Activity
