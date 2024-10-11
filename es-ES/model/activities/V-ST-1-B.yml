@@ -1,3 +1,11 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: d6cefe3e63d149299fb088010c24778b
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: b3b20a75740c4880a21ad9aa0c1298c7
@@ -15,4 +23,4 @@ longDescription: |
 
   Durante los ciclos de desarrollo en los que se modifica y revisa código de alto riesgo, los responsables de desarrollo clasifican los hallazgos y priorizan las mitigaciones apropiadas con el aporte de otros stakeholders del proyecto.
 #Type Classification of the Document
-type: Activity
+type: Actividad
