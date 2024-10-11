@@ -13,5 +13,10 @@ id: 29df0959af8f403383c8ad01a0f3c478
 text: '¿Utiliza métricas básicas sobre defectos de seguridad registrados para llevar a cabo rápidamente actividades de progresos rápidos?'
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - '¿Ha analizado sus métricas registradas al menos una vez en el último año?'
+  - Al menos información básica sobre esta iniciativa está registrada y disponible
+  - '¿Ha identificado y llevado a cabo al menos una actividad de progreso rápido basándose en los datos?'
 #Type Classification of the Document
 type: Pregunta
