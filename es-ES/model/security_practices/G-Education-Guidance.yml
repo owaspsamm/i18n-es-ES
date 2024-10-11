@@ -1,6 +1,30 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 483a0a1b78264cafbc470ce72d557332
 #Official name of this practice
 name: Formación y Orientación
 #Abbreviation of this practice
 shortName: FO
 #A one sentence description of the security practice
 shortDescription: Esta práctica se centra en aumentar el conocimiento en la organización en lo que respecta al software seguro.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Educación y Orientación (EO) se enfoca en dotar al personal involucrado en el ciclo de vida del software con conocimientos y recursos para diseñar, desarrollar e implementar software seguro. Con un mejor acceso a la información, los equipos de proyecto pueden identificar y mitigar de manera proactiva los riesgos de seguridad específicos que se aplican a su organización. 
+
+  Un tema principal de mejora en todos los Objetivos es proporcionar capacitación a los empleados y aumentar su conciencia sobre la seguridad, ya sea a través de sesiones dirigidas por instructores o módulos basados en computadora. A medida que una organización progresa, construye una amplia base de capacitación comenzando con los desarrolladores y avanzando hacia otros roles, culminando con la adición de capacitación basada en roles para garantizar la aplicabilidad y efectividad. 
+
+  Además de la capacitación, esta práctica también requiere que la organización realice una inversión significativa en mejorar la cultura organizacional para promover la seguridad de las aplicaciones a través de la colaboración entre equipos. Las herramientas de colaboración y una mayor transparencia entre tecnologías y herramientas apoyan este enfoque para mejorar la seguridad de las aplicaciones.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Practice
