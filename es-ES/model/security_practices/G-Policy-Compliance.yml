@@ -1,3 +1,12 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: be9e7ddb98b84abe8b9e185b979ccf60
 #Official name of this practice
 name: Política y Cumplimiento
 #Abbreviation of this practice
@@ -11,3 +20,11 @@ longDescription: |
   Un objetivo para la mejora dentro de esta práctica es registrar la normativa de la organización y las obligaciones frente a terceros como requisitos de las aplicaciones, realizando auditorías eficientes y automatizadas que puedan ser utilizadas en el ciclo de vida del desarrollo de software y demostrar de forma sostenida que se cumplen todos los requisitos.
 
   En su forma más sofisticada, el despliegue de esta práctica implica una comprensión del conjunto de la organización, tanto de las normas internas como de controladores legales externos, mientras se mantienen controles de verificación frecuentes con los equipos de los proyectos para asegurarse que ningún proyecto está operando fuera de las previsiones sin que sea detectado.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Práctica
