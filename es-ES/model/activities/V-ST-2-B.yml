@@ -1,3 +1,11 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: 6291462e1894467d807b913ef7da4beb
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: 346ed576f0a94147ba2b8148abc3c73a
