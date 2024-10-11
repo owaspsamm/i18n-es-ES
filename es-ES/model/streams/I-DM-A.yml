@@ -6,3 +6,13 @@
 practice: e17d573510904f65a1fe6040b56ad0b1
 #Unique identifier to refer to this stream
 id: a5b57fc5fa0441b7b23f599b506c5752
+#Official stream name
+name: Seguimiento de Defectos
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: El seguimiento de defectos gestiona la recolección y seguimiento de todos los problemas potenciales en una pieza de software, desde defectos arquitectónicos hasta problemas de codificación y vulnerabilidades en tiempo de ejecución.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Stream
