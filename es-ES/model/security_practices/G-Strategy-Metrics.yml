@@ -1,3 +1,12 @@
+---
+#===========================================================
+#OWASP SAMM2 Security Practice template/sample
+#===========================================================
+#Link to the model, using its unique identifier
+function: 102ad02df5dc4a8eb3837ef4ca2c1af4
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 32b3bdd85d3a4d53827960004f9d1c7e
 #Official name of this practice
 name: Estrategia y métricas
 #Abbreviation of this practice
@@ -11,3 +20,11 @@ longDescription: |
   Un programa de seguridad del software, que elija y priorice actividad del resto del modelo, sirve como base para los esfuerzos de implantación. La práctica implica construir el plan, mantenerlo y comunicarlo.
 
   Al mismo tiempo, se querrá realizar un seguimiento de los criterios de seguridad y del progreso del programa. Una aproximación basada en métricas se incluye para asegurar una visión adecuada de las actividades. Medir es conocer.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: Yan Kravchenko
+#Indication of progress to keep track of overall status
+progress: 90
+#Type Classification of the Document
+type: Práctica
