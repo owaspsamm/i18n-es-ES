@@ -1,5 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM2 Business Function
+#===========================================================
+#Link to the model, using its unique identifier
+model: SAMM20
+#Unique identifier (GUID) that can be used to refer to this function
+#Please generate another identifier for your specific function..
+id: 942d679b0c9e41909f8bde728fdb1259
 #Official name of the Business Function
 name: Operación
 #A multi-paragraph description of the Business Function
 description: |
   El proceso de negocio de Operaciones engloba aquellas acticitvades necesarias para asegurar que la confidencialidad, integridad y disponibilidad se mantiene a lo largo del ciclo de vida operativo de una aplicación y sus datos asociados. El aumento de la madurez con respecto a esta función proporciona mayor seguridad de que la organización es resiliente respecto a interrupciones de la operación y que puede responder a cambios en el panorama operativo.
+#228B22
+#The logo to be used to render the function
+logo: https://icon-library.net/icon/operations-icon-13.html
+#The relative order of the Business Function within the core model
+order: 5
+#Type Classification of the Document
+type: Función
