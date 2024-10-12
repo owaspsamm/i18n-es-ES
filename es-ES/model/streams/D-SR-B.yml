@@ -6,3 +6,13 @@
 practice: 5702908efca4499e87a0239f32920d9b
 #Unique identifier to refer to this stream
 id: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Official stream name
+name: Seguridad de Proveedores
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: La seguridad de los proveedores se ocupa de los requisitos que son relativos a las organizaciones proveedoras en el contexto de desarrollo de la aplicación, en particular para el desarrollo subcontratado.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Stream
