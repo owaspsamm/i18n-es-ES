@@ -3,6 +3,17 @@ values:
   - 
     #lowest level
     text: false
+    value: 0
+    weight: 1
+    order: 0
   - 
+    #second level
+    text: Sí, para algunos tipos de incidentes
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Sí, por lo menos la mitad de los tipos de incidentes
+    value: 0.5
   - 
