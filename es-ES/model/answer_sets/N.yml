@@ -3,6 +3,24 @@ values:
   - 
     #lowest level
     text: false
+    value: 0
+    weight: 1
+    order: 0
   - 
+    #second level
+    text: Sí, cubre los riesgos generales
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Sí, cubre los riesgos específicos de la organización
+    value: 0.5
+    weight: 1
+    order: 2
   - 
+    #highest level
+    text: Sí, cubre riesgos y oportunidades
+    value: 1
+    weight: 1
+    order: 3
