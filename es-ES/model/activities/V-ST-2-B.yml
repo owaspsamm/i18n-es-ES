@@ -9,5 +9,20 @@ level: 6291462e1894467d807b913ef7da4beb
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: 346ed576f0a94147ba2b8148abc3c73a
+#The title of this activity
+title: Establece un proceso de prueba de penetración
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensión de la capacidad de recuperación de las aplicaciones desde la perspectiva de la caja negra
+#A one sentence description of the activity
+shortDescription: Realizar pruebas de penetración manual
+#A multi-paragraph description of the activity
+longDescription: |
+  Utilizando el conjunto de casos de prueba de seguridad identificados para cada proyecto, realice pruebas de penetración manuales para evaluar el rendimiento del sistema con respecto a cada caso. Por lo general, esto ocurre durante la fase de pruebas previa a la publicación e incluye pruebas de penetración manuales estáticas y dinámicas. En los casos en los que el software no puede probarse de forma realista fuera de producción, el uso de técnicas como los despliegues blue-green o las pruebas A/B pueden permitir realizar pruebas de seguridad en producción.
+
+  Las pruebas de penetración incluyen tanto pruebas específicas de la aplicación para comprobar la solidez de la lógica de negocio, como pruebas de vulnerabilidad comunes para comprobar el diseño y la implementación. Una vez especificados, el personal de control de calidad o de desarrollo experto en seguridad puede ejecutar los casos de pruebas de seguridad. El grupo central de seguridad del software supervisa la ejecución inicial de los casos de pruebas de seguridad de un equipo de proyecto para ayudar y formar a los campeones de seguridad del equipo.
+
+  Muchas organizaciones ofrecen programas «Bug Bunty» que invitan a los investigadores de seguridad a encontrar vulnerabilidades en las aplicaciones y notificarlas responsablemente a cambio de recompensas. Este planteamiento permite a las organizaciones acceder a un mayor número de talentos, sobre todo a las que carecen de capacidad interna suficiente o necesitan una garantía adicional.
+
+  Antes del lanzamiento o despliegue masivo, las partes interesadas revisan los resultados de las pruebas de seguridad y aceptan los riesgos indicados por los fallos en las pruebas de seguridad en el momento del lanzamiento. Establezca un calendario concreto para subsanar las deficiencias a lo largo del tiempo. Difunda el conocimiento de las pruebas de seguridad manuales y los resultados entre el equipo de desarrollo para mejorar el conocimiento y la concienciación sobre la seguridad dentro de la organización.
 #Type Classification of the Document
 type: Activity
