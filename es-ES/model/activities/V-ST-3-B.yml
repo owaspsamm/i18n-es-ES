@@ -9,5 +9,11 @@ level: eac3184f8e2343b8b29047d023376da5
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: a395d69917b947b28d5995738d716283
+#The title of this activity
+title: Establecer una verificación de seguridad continua y escalable
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de problemas de seguridad identificables manualmente en las etapas más tempranas posibles
+#A one sentence description of the activity
+shortDescription: Integrar las pruebas de seguridad al proceso de desarrollo
 #Type Classification of the Document
 type: Activity
