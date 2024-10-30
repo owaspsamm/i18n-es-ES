@@ -4,5 +4,22 @@ values:
     #lowest level
     text: false
   - 
+    #second level
+    text: Sí, para algunos de los ámbitos tecnológicos
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Sí, al menos para la mitad de los ámbitos tecnológicos
+    value: 0.5
+    weight: 1
+    order: 2
   - 
+    #highest level
+    text: Sí, para la mayoría de los dominios de tecnología
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: Conjunto de respuestas
