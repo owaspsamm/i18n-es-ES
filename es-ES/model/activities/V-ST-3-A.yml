@@ -9,6 +9,12 @@ level: eac3184f8e2343b8b29047d023376da5
 #Unique identifier (GUID) used to refer to this activity.
 #Please generate another identifier for your specific activity.
 id: 4f6a06796d0840debcc775ea1af65679
+#The title of this activity
+title: Integrar herramientas de comprobación de la seguridad en el procedo de entrega del pipeline
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de vulnerabilidades de manera automática en las etapas más tempranas posibles
+#A one sentence description of the activity
+shortDescription: Integrar pruebas de seguridad automatizadas en el proceso de construcción y despliegue
 #References to other activities that are prerequesites to implement this one.
 dependencies:
   - e17d573510904f65a1fe6040b56ad0b1
