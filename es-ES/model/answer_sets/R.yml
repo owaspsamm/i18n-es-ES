@@ -3,6 +3,25 @@ values:
   - 
     #lowest level
     text: false
+    weight: 1
+    order: 0
   - 
+    #second level
+    text: Sí, esporádicamente
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Yes, upon change of the application
+    value: 0.5
+    weight: 1
+    order: 2
   - 
+    #highest level
+    text: Yes, at least annually
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: Conjunto de respuestas
