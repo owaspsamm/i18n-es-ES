@@ -1,3 +1,10 @@
+---
+#===========================================================
+#OWASP SAMM2 Answer Set - G
+#===========================================================
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: "-> id\n===========================================================\nConjunto de respuestas OWASP SAMM2 - G\n===========================================================\nIdentificador único (GUID) utilizado para referirse a este nivel de madurez.\nPor favor, genere otro identificador para su nivel de madurez específico."
 #Different answers with their properties. We use 4 levels or answers
 values:
   - 
