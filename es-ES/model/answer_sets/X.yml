@@ -3,6 +3,21 @@ values:
   - 
     #lowest level
     text: false
+    value: 0
+    weight: 1
+    order: 0
   - 
+    #second level
+    text: Sí, para algunos equipos
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Sí, al menos para la mitad de los equipos
+    value: 0.5
+    weight: 1
+    order: 0
   - 
+    #highest level
+    text: Sí, para la mayoría o para todos los equipos
