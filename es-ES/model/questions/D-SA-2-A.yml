@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 9b6a86278ba14a9098d3d60a9a78d6c5
+#One-sentence description of the criterium
+text: '¿Utiliza servicios de seguridad compartidos durante el diseño?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - Partes Interesadas
+  - Ha revisado la postura de seguridad de la línea base para cada servicio seleccionado
+  - 
+    - orientación
+#Type Classification of the Document
+type: Pregunta
