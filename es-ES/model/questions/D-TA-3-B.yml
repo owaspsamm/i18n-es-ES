@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: e931a744c2864bef85a3fa75ce7e214f
+#One-sentence description of the criterium
+text: '¿Revisa y actualiza regularmente la metodología de modelado de amenazas para sus aplicaciones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La metodología del modelo de amenaza considera la retroalimentación histórica para mejorar
+  - Regularmente (por ej., anualmente) revisa los modelos de amenaza existentes para verificar que no hay nuevas amenazas relevantes para sus aplicaciones
+  - Automatiza partes de su proceso de modelado de amenazas con herramientas de modelado de amenazas
+#Type Classification of the Document
+type: Pregunta
