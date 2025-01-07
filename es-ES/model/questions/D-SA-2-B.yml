@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 5e1dd310e28449058046c7af0fe46fce
+#One-sentence description of the criterium
+text: '¿Tiene una lista de tecnologías recomendadas para la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La lista se basa en tecnologías utilizadas en el portafolio de software
+  - Los principales arquitectos y desarrolladores revisan y aprueban la lista
+  - Usted comparte la lista en toda la organización
+  - Usted revisa y actualiza la lista al menos anualmente
+#Type Classification of the Document
+type: Pregunta
