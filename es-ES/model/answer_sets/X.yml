@@ -21,3 +21,8 @@ values:
   - 
     #highest level
     text: Sí, para la mayoría o para todos los equipos
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: Conjunto de respuestas
