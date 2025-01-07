@@ -1,3 +1,7 @@
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: e8de5ea176cc455bba89f0e2d1ea1f16
+#Objective of this particular practice level
+objective: Educar a todo el personal en el ciclo de vida del software con orientación tecnológica y específica para cada función sobre el desarrollo seguro.
+#Type Classification of the Document
+type: Nivel de práctica
