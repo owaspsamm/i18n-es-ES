@@ -4,3 +4,11 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 2f63f92c414546b58d035ece110d479f
+#Qualifying Criterion
+quality:
+  - 
+    - método
+  - 
+    - perfiles de riesgo relevantes
+#Type Classification of the Document
+type: Pregunta
