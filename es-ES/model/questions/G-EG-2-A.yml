@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 05073fb130c74143a12a6ba74a44c580
+#One-sentence description of the criterium
+text: '¿El entrenamiento está personalizado para roles individuales como desarrolladores, testers o campeones de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - técnicas y demostraciones
+  - La formación es obligatoria para todos los empleados y contratistas
+  - 
+  - 
+  - 
