@@ -4,3 +4,17 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: a9f56795ac84426c9e45f9471e82a8d7
+#One-sentence description of the criterium
+text: '¿Están alineados los proveedores con los controles de seguridad estándar y las herramientas y procesos de desarrollo de software que utiliza la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - gestión, y gestión de incidentes que se alinean con los utilizados en su organización
+  - 
+    - lanzamiento
+  - 
+    - como análisis de composición de software y pruebas de penetración independientes
+#Type Classification of the Document
+type: Pregunta
