@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 27bb61f3c6344359b021caeaef5ab07e
+#One-sentence description of the criterium
+text: '¿Los equipos utilizan los principios de seguridad durante el diseño?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Dispone de una lista acordada de principios de seguridad
+  - Almacena su lista de verificación en una ubicación accesible
+  - Las partes interesadas entienden los principios de seguridad
+#Type Classification of the Document
+type: Pregunta
