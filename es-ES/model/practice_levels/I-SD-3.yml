@@ -1,3 +1,7 @@
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: fc5eb251c6ee4f3db04eb01b62d380ba
+#Objective of this particular practice level
+objective: El proceso de implantación está totalmente automatizado e incorpora la verificación automática de todos los hitos críticos.
+#Type Classification of the Document
+type: Nivel de práctica
