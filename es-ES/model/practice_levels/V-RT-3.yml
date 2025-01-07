@@ -1,3 +1,6 @@
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: 812abdd0a2b54366a497919f8463911a
+#Objective of this particular practice level
+objective: Mantener el nivel de seguridad de la aplicación tras la corrección de errores, cambios o durante el mantenimiento. #Type Classification of the Document
+type: Nivel de práctica
