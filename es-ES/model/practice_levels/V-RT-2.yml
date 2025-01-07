@@ -9,4 +9,6 @@ maturitylevel: 47dd82af343e4695a0385418af4398d1
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: 3e6e9a2b696e48018830b44fa96f98b5
+#Objective of this particular practice level
+objective: Realice una revisión de la aplicación para descubrir los riesgos específicos de la aplicación frente a los requisitos de seguridad. #Type Classification of the Document
 type: PracticeLevel
