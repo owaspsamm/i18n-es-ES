@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: ebd3782abc4343509981c52192904a42
+#One-sentence description of the criterium
+text: '¿Has identificado un Campeón de Seguridad para cada equipo de desarrollo?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Los campeones de seguridad reciben entrenamiento apropiado
+  - 
+    - Campeones sobre el estado general de las iniciativas y correcciones de seguridad
+  - 
+    - backlog de aplicación
+#Type Classification of the Document
+type: Pregunta
