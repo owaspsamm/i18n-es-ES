@@ -1,3 +1,5 @@
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: 38f3a2f7633c42b98eb160f36a2c0a7b
+#Objective of this particular practice level
+objective: Ofrecer al personal acceso a recursos sobre temas de desarrollo y despliegue seguro.
