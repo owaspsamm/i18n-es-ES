@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: ce13df2e0dfb455588bf75135f1a718e
+#One-sentence description of the criterium
+text: '¿Utiliza un marco de requisitos estándar para agilizar la obtención de requisitos de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Un framework de requisitos de seguridad está disponible para equipos de proyecto
+  - El marco está categorizado por requisitos comunes y requisitos basados en estándares
+  - 
+    - ellos
+  - El marco es adaptable a los requisitos específicos del negocio
+#Type Classification of the Document
+type: Pregunta
