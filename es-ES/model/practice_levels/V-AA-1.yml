@@ -1,3 +1,7 @@
 #Unique identifier (GUID) used to refer to this practice level.
 #Please generate another identifier for your specific practice level.
 id: 39bc5d271fae4ea8ba53db7de7b2712c
+#Objective of this particular practice level
+objective: Revisar la arquitectura para asegurarse de que se han establecido mitigaciones básicas para los riesgos típicos.
+#Type Classification of the Document
+type: Nivel de práctica
