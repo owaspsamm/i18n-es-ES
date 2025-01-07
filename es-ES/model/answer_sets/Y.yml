@@ -5,4 +5,16 @@ values:
     text: false
   - 
   - 
+    #third level
+    text: Sí, al menos la mitad de ella
+    value: 0.5
+    weight: 1
+    order: 2
   - 
+    #highest level
+    text: Sí, la mayoría o la totalidad
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: Conjunto de respuestas
