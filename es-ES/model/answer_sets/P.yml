@@ -3,6 +3,26 @@ values:
   - 
     #lowest level
     text: false
+    value: 0
+    weight: 1
+    order: 0
   - 
+    #second level
+    text: Sí, pero la revisión es ad-hoc
+    value: 0.25
+    weight: 1
+    order: 1
   - 
+    #third level
+    text: Sí, lo revisamos regularmente
+    value: 0.5
+    weight: 1
+    order: 2
   - 
+    #highest level
+    text: Sí, lo hacemos al menos anualmente
+    value: 1
+    weight: 1
+    order: 3
+#Type Classification of the Document
+type: Conjunto de respuestas
