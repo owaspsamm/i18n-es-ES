@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 2b01696356ed4652accf093f6c6a47ee
+#One-sentence description of the criterium
+text: '¿Revisan las partes interesadas las colaboraciones con proveedores en cuanto a requisitos de seguridad y metodología?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - al crear acuerdos con terceros
+  - 
+    - de sus proveedores
+#Type Classification of the Document
+type: Pregunta
