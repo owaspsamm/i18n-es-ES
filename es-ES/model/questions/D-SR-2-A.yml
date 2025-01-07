@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 1cc77725cb2349f394477838668f6184
+#One-sentence description of the criterium
+text: '¿Usted define, estructura e incluye prioridad en los artefactos del proceso de recolección de requisitos de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Los requisitos de seguridad tienen en cuenta los conocimientos específicos del dominio al aplicar políticas y orientaciones al desarrollo de productos
+  - Expertos en el dominio participan en el proceso de definición de requisitos
+  - Usted ha acordado una notación estructurada para los requisitos de seguridad
+  - Los equipos de desarrollo tienen un campeón de seguridad dedicado a revisar los requisitos de seguridad y los resultados
+#Type Classification of the Document
+type: Pregunta
