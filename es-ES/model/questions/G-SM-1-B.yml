@@ -4,3 +4,17 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 0082a76b1a3744d9ab0443bd2168e13d
+#One-sentence description of the criterium
+text: '¿Utiliza un conjunto de métricas para medir la eficacia y eficiencia del programa de seguridad de aplicaciones a través de aplicaciones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - y orientación sobre cómo usarlo para explicar las tendencias de seguridad de la aplicación
+  - Las métricas incluyen medidas de esfuerzos, resultados y las categorías de medición del entorno
+  - 
+    - expresado como un número cardinal o un porcentaje
+  - Los equipos de seguridad de la aplicación y desarrollo publican métricas
+#Type Classification of the Document
+type: Pregunta
