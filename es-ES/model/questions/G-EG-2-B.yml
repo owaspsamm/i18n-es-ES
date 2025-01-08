@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: d61764610f8741de894c1751f5c041ae
+#One-sentence description of the criterium
+text: '¿Tiene la organización un Centro de Excelencia de Software Seguro (SSCE)?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La SSCE tiene una carta que define su papel en la organización
+  - Los equipos de desarrollo revisan todos los cambios arquitectónicos significativos con el SSCE
+  - La SSCE publica las normas y directrices de SDLC relacionadas con la seguridad de aplicaciones
+  - Los campeones del producto son responsables de promover el uso de herramientas de seguridad específicas
+#Type Classification of the Document
+type: Pregunta
