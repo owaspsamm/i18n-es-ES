@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: e7ba346fabdc44beb47e2c67c14a6726
+#One-sentence description of the criterium
+text: '¿Informan con regularidad sobre la adherencia de las obligaciones de cumplimiento externo y utilizan esa información para orientar los esfuerzos por cerrar los gaps de cumplimiento?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Has establecido métricas de conformidad bien definidas
+  - Usted mide e informa regularmente sobre las métricas de cumplimiento de las aplicaciones
+  - 
+    - gaps y priorizar los esfuerzos de remediación del gap
+#Type Classification of the Document
+type: Pregunta
