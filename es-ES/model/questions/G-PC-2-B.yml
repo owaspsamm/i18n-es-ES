@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 38932fe4024e4ec89646a82e0b4e651e
+#One-sentence description of the criterium
+text: '¿Tiene un conjunto estándar de requisitos de seguridad y procedimientos de verificación que respondan a las obligaciones de cumplimiento externo de la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - requisitos
+  - 
+    - con los requisitos relacionados con el cumplimiento
+#Type Classification of the Document
+type: Pregunta
