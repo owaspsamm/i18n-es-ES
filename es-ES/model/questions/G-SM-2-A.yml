@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: c1778728d66e4b83b59a42405a90598a
+#One-sentence description of the criterium
+text: '¿Existe un plan estratégico para la seguridad en aplicaciones que esté siendo usado en la toma de decisiones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - El plan refleja las prioridades de negocio de la organización y su apetito de riesgo
+  - El plan incluye hitos medibles y tiene un presupuesto asociado
+  - El plan es consistente con los objetivos del negocio y riesgos empresariales de la organización
+  - El plan establece una hoja de ruta para iniciativas estratégicas y tácticas
+  - Cuenta con la aprobación de las partes interesadas, incluidos los equipos de desarrollo
