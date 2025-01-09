@@ -4,3 +4,13 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: d955a7b3fbfc4b6aa5b327af9e01c377
+#One-sentence description of the criterium
+text: '¿Aplica SLAs (acuerdos de nivel de servicio) para corregir los defectos de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Se alerta automáticamente de los incumplimientos de los SLA (acuerdos de nivel de servicio) y se transfieren los defectos correspondientes al proceso de gestión de riesgos
+  - Usted integra herramientas relevantes (por ejemplo, monitoreo, compilación, implementación) con el sistema de administración de defectos
+#Type Classification of the Document
+type: Pregunta
