@@ -4,3 +4,13 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: f2a309b82fbc46cfb2f11c9cde20dc0a
+#One-sentence description of the criterium
+text: '¿Evalúa periódicamente la efectividad de sus indicadores de seguridad para que su aportación contribuya a impulsar su estrategia de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Has analizado los efectos de las métricas de seguridad al menos una vez en el último año
+  - Siempre que sea posible, usted verifica automáticamente la exactitud de los datos
+  - 
+  - 
