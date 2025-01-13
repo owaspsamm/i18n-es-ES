@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 1ceadbb5a0024e2599821e7ce756f3a4
+#One-sentence description of the criterium
+text: '¿Identifica y gestiona los defectos de diseño arquitectónico con el modelo de amenazas?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Realiza el modelado de amenazas para aplicaciones de alto riesgo
+  - Utiliza listas de verificación de amenazas simples, como STRIDE
+  - Usted persiste en el resultado de un modelo de amenaza para su uso posterior
+#Type Classification of the Document
+type: Pregunta
