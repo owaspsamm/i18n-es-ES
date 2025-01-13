@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 529d528265c94447954a57f5be425f54
+#One-sentence description of the criterium
+text: '¿Utiliza perfiles de riesgo de aplicación centralizados y cuantificados para evaluar el riesgo empresarial?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - El perfil de riesgo de la aplicación está en línea con el estándar de riesgo de la organización
+  - El perfil de riesgo de aplicación cubre el impacto de la seguridad y privacidad
+  - Usted valida la calidad del perfil de riesgo manualmente y/o automáticamente
+  - Los perfiles de riesgo de aplicación se almacenan en un inventario central
+#Type Classification of the Document
+type: Pregunta
