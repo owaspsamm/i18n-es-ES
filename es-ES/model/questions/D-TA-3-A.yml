@@ -4,6 +4,10 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 2f63f92c414546b58d035ece110d479f
+#One-sentence description of the criterium
+text: '¿Revisa y actualiza regularmente los perfiles de riesgo de sus aplicaciones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
 #Qualifying Criterion
 quality:
   - 
