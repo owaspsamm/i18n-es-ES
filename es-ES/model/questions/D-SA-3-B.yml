@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 3afce608ad7c42deb37a04d6b86e5c33
+#One-sentence description of the criterium
+text: '¿Imponen el uso de las tecnologías recomendadas dentro de la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Monitoreas las aplicaciones regularmente para el uso correcto de las tecnologías recomendadas
+  - Resuelva las infracciones de la lista de acuerdo con las políticas de la organización
+  - 
+#Type Classification of the Document
+type: Pregunta
