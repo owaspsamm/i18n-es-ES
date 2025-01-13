@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 84dcbc954d954d95b1fb37e032f05402
+#Text of the question presented to the user
+text: '¿Tiene líneas de base de endurecimiento para sus componentes?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Ha asignado un propietario para cada línea base
+  - El propietario mantiene actualizadas sus líneas base asignadas
+  - Almacena las líneas base en una ubicación accesible
+  - Entrena a los empleados responsables de las configuraciones en estas líneas base
+#Type Classification of the Document
+type: Pregunta
