@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: c6da6525773644d0a18b3a927caf6dd2
+#One-sentence description of the criterium
+text: '¿Clasifica las aplicaciones según el riesgo empresarial basándose en una serie de preguntas sencillas y predefinidas?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Existe una clasificación de riesgo acordada
+  - El equipo de la aplicación entiende la clasificación de riesgos
+  - 
+    - se enfrenta a
+  - La organización dispone de un inventario de las aplicaciones del alcance
+#Type Classification of the Document
+type: Pregunta
