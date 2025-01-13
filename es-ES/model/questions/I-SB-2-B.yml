@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 857a43e335ba467598eca99d48ea0076
+#One-sentence description of the criterium
+text: '¿Manejas el riesgo de dependencias de terceros por un proceso formal?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted mantiene una lista de dependencias aprobadas que cumplen con los criterios predefinidos
+  - Evalúa automáticamente las dependencias en busca de nuevos CVE y alerta al personal responsable
+  - Detecta y alerta automáticamente de los cambios de licencia con posible repercusión en el uso legal de la aplicación
+  - Usted rastrea y alerta del uso de dependencias no mantenidas
+  - Usted detecta y elimina de forma fiable las dependencias innecesarias del software
+#Type Classification of the Document
+type: Pregunta
