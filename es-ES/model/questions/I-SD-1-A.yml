@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 994bcac2bb7c4cc59a0faa365a0b58a0
+#One-sentence description of the criterium
+text: '¿Utiliza procesos de despliegue repetibles?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Tienes suficiente información para ejecutar los procesos de implementación
+  - Su documentación de despliegue actualizada
+  - 
+  - 
+  - 
