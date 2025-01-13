@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: d09a731835304ea8aeb4c21565e45c4b
+#One-sentence description of the criterium
+text: '¿Evita la compilación de software si se ve afectada por vulnerabilidades en las dependencias?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Su sistema de construcción está conectado a un sistema para rastrear el riesgo de dependencias de terceros, haciendo que falle la compilación a menos que la vulnerabilidad sea evaluada como un falso positivo o que el riesgo sea aceptado explícitamente
+  - Usted escanea sus dependencias usando una herramienta de análisis estático
+  - Informas de los resultados a los autores de dependencias usando un proceso de divulgación responsable establecido
+  - El uso de una nueva dependencia no evaluada para riesgos de seguridad hace que la compilación falle
+#Type Classification of the Document
+type: Pregunta
