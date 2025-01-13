@@ -6,6 +6,8 @@
 activity: fe7afe5fc04742bcbe476d4ba37d8091
 #One-sentence description of the criterium
 text: '¿Informan regularmente sobre las políticas y el cumplimiento de las normas, y utilizan esa información para orientar los esfuerzos de mejora del cumplimiento?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
 #Qualifying Criterion
 quality:
   - Tiene procedimientos (automatizados, si es posible) para generar regularmente informes de cumplimiento
