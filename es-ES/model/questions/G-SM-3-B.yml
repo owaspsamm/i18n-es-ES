@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 43d347fd280845718f16ccc811e5d942
+#One-sentence description of the criterium
+text: '¿Actualiza la estrategia de seguridad de aplicaciones y el mapa de ruta basado en métricas de seguridad de aplicaciones y KPIs?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Revisa los indicadores clave de rendimiento al menos una vez al año para comprobar su eficiencia y eficacia
+  - 
+    - estrategia de seguridad
+#Type Classification of the Document
+type: Pregunta
