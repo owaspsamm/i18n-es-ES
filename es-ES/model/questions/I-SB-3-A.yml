@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 281369f491da4d4c84b0729e344e2c93
+#One-sentence description of the criterium
+text: '¿Implementa comprobaciones de seguridad automatizadas en sus procesos de construcción?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Las compilaciones fallan si la aplicación no cumple con una línea base de seguridad predefinida
+  - Tiene una severidad máxima aceptada para las vulnerabilidades
+  - Registra advertencias y fallos en un sistema centralizado
+  - Selecciona y configura herramientas para evaluar cada aplicación en función de sus requisitos de seguridad al menos una vez al año
+#Type Classification of the Document
+type: Pregunta
