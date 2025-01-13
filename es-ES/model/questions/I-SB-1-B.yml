@@ -4,3 +4,12 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: bed0489cae4e4401b1d44d56ad36c109
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Dispone de una lista de materiales (BOM) actualizada para cada aplicación
+  - Puede averiguar rápidamente qué aplicaciones están afectadas por una determinada CVE
+  - Has analizado, abordado y documentado los hallazgos de dependencias al menos una vez en los últimos tres meses
+#Type Classification of the Document
+type: Pregunta
