@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 7344f4b153314dd8965361d23772aef1
+#Link to the practice level that this activity belongs to
+level: e3cf1d3c27b74262b9f842f27ca86333
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a061ed8a5b1c4899bc95d9b1a10a469d
+#The title of this activity
+title: Estandarizar la guía de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: El conocimiento de seguridad adecuado de todos los empleados garantiza antes de trabajar en tareas críticas
+#Type Classification of the Document
+type: Activity
