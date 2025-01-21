@@ -1,0 +1,13 @@
+#Official name of this practice
+name: Estrategia y métricas
+#Abbreviation of this practice
+shortName: EM
+#A one sentence description of the security practice
+shortDescription: Esta práctica establece las bases de las actividades vinculadas al software seguro mediante el desarrollo de un plan general.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La seguridad del software implica diferentes actividades y preocupaciones. Sin un plan general, se podría estar empleando gran cantidad de esfuerzo en implementar la seguridad, mientras en realidad, los esfuerzos podrían estar desalineados, ser desproporcionados o incluso ser contraproducentes. El objetivo de la práctica Estrategia y Métricas (EM) es construir un plan efectivo y eficaz para alcanzar los objetivos de seguridad del software de la organización.
+
+  Un programa de seguridad del software, que elija y priorice actividad del resto del modelo, sirve como base para los esfuerzos de implantación. La práctica implica construir el plan, mantenerlo y comunicarlo.
+
+  Al mismo tiempo, se querrá realizar un seguimiento de los criterios de seguridad y del progreso del programa. Una aproximación basada en métricas se incluye para asegurar una visión adecuada de las actividades. Medir es conocer.
