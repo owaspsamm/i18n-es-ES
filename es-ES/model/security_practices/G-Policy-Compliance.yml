@@ -1,0 +1,13 @@
+#Official name of this practice
+name: Política y Cumplimiento
+#Abbreviation of this practice
+shortName: PC
+#A one sentence description of the security practice
+shortDescription: Esta práctica impulsa la adherencia a estándares y regulaciones, tanto internas como externas.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Política y Cumplimiento (PC) se centra en comprender y cumplir con los requisitos legales y reglamentarios externos, mientras se impulsan normas de seguridad internas para garantizar el cumplimiento de una forma alineada con los propósitos comerciales de la organización.
+
+  Un objetivo para la mejora dentro de esta práctica es registrar la normativa de la organización y las obligaciones frente a terceros como requisitos de las aplicaciones, realizando auditorías eficientes y automatizadas que puedan ser utilizadas en el ciclo de vida del desarrollo de software y demostrar de forma sostenida que se cumplen todos los requisitos.
+
+  En su forma más sofisticada, el despliegue de esta práctica implica una comprensión del conjunto de la organización, tanto de las normas internas como de controladores legales externos, mientras se mantienen controles de verificación frecuentes con los equipos de los proyectos para asegurarse que ningún proyecto está operando fuera de las previsiones sin que sea detectado.
