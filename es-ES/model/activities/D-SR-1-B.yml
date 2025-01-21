@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 8c1dcd10821f4f2baed52fdc83d93cf6
+#Link to the practice level that this activity belongs to
+level: 3d035b6df77f4ee69577c9b4c9d64891
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2b01696356ed4652accf093f6c6a47ee
+#The title of this activity
+title: Realizar evaluaciones de proveedores
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia de las prácticas de seguridad de sus proveedores de software
+#A one sentence description of the activity
+shortDescription: Evaluar el proveedor basado en los requerimientos de seguridad de la organización.
+#Type Classification of the Document
+type: Activity
