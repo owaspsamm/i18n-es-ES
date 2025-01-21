@@ -1,0 +1,12 @@
+#Unique identifier (GUID) used to refer to this practice.
+#Please generate another identifier for your specific practice.
+id: 5702908efca4499e87a0239f32920d9b
+#Official name of this practice
+name: Requisitos de seguridad
+#Abbreviation of this practice
+shortName: RS
+#A one sentence description of the security practice
+shortDescription: Esta práctica se enfoca en definir los requisitos de seguridad apropiados para su software y sus proveedores de software.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Requisitos de seguridad (SR) se centra en los requisitos de seguridad que son importantes en el contexto del software seguro. Un primer tipo se ocupa de los requisitos típicos relacionados con el software, para especificar objetivos y expectativas para proteger el servicio y los datos en el núcleo de la aplicación. Un segundo tipo se ocupa de los requisitos relativos a las organizaciones de proveedores que forman parte del contexto de desarrollo de la aplicación, en particular para el desarrollo subcontratado. Es importante optimizar las expectativas en términos de desarrollo seguro porque el desarrollo subcontratado puede tener un impacto significativo en la seguridad de la aplicación. La seguridad de las bibliotecas (técnicas) de terceros es parte del flujo de las cadenas de suministro de software (consulte Secure Build) y no se incluye en esta práctica.
