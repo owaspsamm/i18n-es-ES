@@ -1,0 +1,7 @@
+#Official name of the function
+name: Implementación
+#A multi-paragraph description of the function
+description: |
+  La Implementación se centra en los procesos y actividades relacionadas con cómo una organización desarrolla y despliega componentes de software y su defectos relacionados.
+
+  Las actividades dentro del proceso de Implementación son las de mayor impacto en el día a día de los desarrolladores. El principal objetivo es la entrega de software confiable y funcional con mínimos defectos.
