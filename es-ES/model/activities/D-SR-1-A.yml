@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 7fb68bc660774b9080963c17761529a2
+#Link to the practice level that this activity belongs to
+level: 3d035b6df77f4ee69577c9b4c9d64891
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 91086153b98b46928e36dd031b27bdc2
+#The title of this activity
+title: Identificar requerimientos de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entender los requisitos clave de seguridad durante el desarrollo
+#A one sentence description of the activity
+shortDescription: Los objetivos de seguridad de las aplicaciones de alto nivel se asignan a los requerimientos funcionales.
+#Type Classification of the Document
+type: Activity
