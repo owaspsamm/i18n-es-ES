@@ -1,0 +1,24 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 7344f4b153314dd8965361d23772aef1
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 05073fb130c74143a12a6ba74a44c580
+#The title of this activity
+title: Personalizar el entrenamiento de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacitar al personal relevante de acuerdo con su rol específico
+#Internal notes that might help the author
+notes: |
+  ** Referencias**
+  - [OWASP Top 10 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+  - [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+  - [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+  - [OWASP Training Resources](https://www.owasp.org/index.php/OWASP_Training)
+#Type Classification of the Document
+type: Activity
