@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 2a29c1f7d6954785b8d42d637a752f94
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 38932fe4024e4ec89646a82e0b4e651e
+#The title of this activity
+title: Estandarizar los requerimientos de políticas y regulaciones
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensión general de cómo alcanzar el cumplimiento de regulaciones para los equipos de producción
+#A one sentence description of the activity
+shortDescription: Publicar requerimientos puntuales de cumplimiento y lineamientos para pruebas de seguridad en aplicativos.
+#Type Classification of the Document
+type: Activity
