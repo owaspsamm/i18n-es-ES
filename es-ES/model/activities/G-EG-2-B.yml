@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d61764610f8741de894c1751f5c041ae
+#The title of this activity
+title: Implementar centros de excelencia
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mejores prácticas de seguridad específicas adaptadas a la organización
+#A one sentence description of the activity
+shortDescription: Desarrolle un centro de excelencia de software seguro que promueva el liderazgo concienzudo entre desarrolladores y arquitectos.
+#Type Classification of the Document
+type: Activity
