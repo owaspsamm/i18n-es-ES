@@ -1,0 +1,38 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 55bf5184ff7d4b76a444e52a28c803d9
+#Link to the practice level that this activity belongs to
+level: 97a46a074fe849a1af2c2d2d3dd09ba5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d1cb54f1ddd3432480513df320fc0ff8
+#The title of this activity
+title: Definir métricas básicas del defecto
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de ganancias rápidas derivadas de la información de defecto disponible
+#A one sentence description of the activity
+shortDescription: Revise regularmente los defectos de seguridad previamente registrados y obtenga ganancias rápidas de métricas básicas.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desarrollador
+  - Campeón de seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequisites to implement this one.
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+#Type Classification of the Document
+type: Activity
