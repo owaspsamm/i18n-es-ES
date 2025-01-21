@@ -1,0 +1,42 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f7b501627954c6cb03342196b2065a7
+#Link to the practice level that this activity belongs to
+level: 02e602c451d548e8a95433a46fe6b9d8
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d09a731835304ea8aeb4c21565e45c4b
+#The title of this activity
+title: Probar las dependencias de las aplicaciones
+#Describe the benefit that is achieved by implementing this activity
+benefit: Manejo de problemas de seguridad en dependencias comparables a las de tu propio código
+#A one sentence description of the activity
+shortDescription: Analice las dependencias usadas para problemas de seguridad de una manera comparable a su propio código.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingeniero de Seguridad
+  - Arquitecto
+  - Desarrollador
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequisites to implement this one.
+relatedActivities:
+  - 2bf0e192a904444b8a2f38c33256e80a
+  - 15d73a64818c43019504c8d938ca2434
+  - fb6f258a2e424ee9a919341758222a7a
+  - 346ed576f0a94147ba2b8148abc3c73a
+#Type Classification of the Document
+type: Activity
