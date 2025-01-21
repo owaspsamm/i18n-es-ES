@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 561e85a7fb114b1d976acce95d0b41ee
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c1aef0137df1400cbdd3c660b609b7b2
+#The title of this activity
+title: Establecer KPI estratégicos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia en el rendimiento de tu programa AppSec
+#Type Classification of the Document
+type: Activity
