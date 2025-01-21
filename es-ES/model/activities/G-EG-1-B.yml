@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: 38f3a2f7633c42b98eb160f36a2c0a7b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ebd3782abc4343509981c52192904a42
+#The title of this activity
+title: Identificar campeones de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Introducción básica de seguridad en la organización de desarrollo
+#Type Classification of the Document
+type: Activity
