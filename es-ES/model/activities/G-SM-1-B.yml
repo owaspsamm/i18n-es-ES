@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 4e54705272fa4f1f9977b1f9011f585d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 0082a76b1a3744d9ab0443bd2168e13d
+#The title of this activity
+title: Definir las métricas de seguridad básicas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Información básica sobre la eficacia y eficiencia de su programa de AppSec
+#A one sentence description of the activity
+shortDescription: Defina métricas con conocimiento de la efectividad y eficiencia del Programa de seguridad de aplicaciones.
+#Type Classification of the Document
+type: Activity
