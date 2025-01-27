@@ -4,3 +4,19 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: a3720e84d6a24a8ba235c25ce6afc5c7
+#One-sentence description of the criterium
+text: '¿Hay un portal centralizado en el que desarrolladores y profesionales de la seguridad de aplicaciones de diferentes equipos y unidades de negocio sean capaces de comunicar y compartir información?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - unidades
+  - 
+    - actualizaciones de herramientas, cambios estándar arquitectónicos y otros anuncios relacionados
+  - 
+    - de la información de seguridad de la aplicación específica de la organización
+  - Todo el contenido se considera persistente y puede ser buscado
+  - El portal proporciona acceso a métricas de seguridad específicas de la aplicación
+#Type Classification of the Document
+type: Pregunta
