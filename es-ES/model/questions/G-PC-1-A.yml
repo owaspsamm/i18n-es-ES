@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 6e7a618abd564df5bb784ca54893bbee
+#One-sentence description of the criterium
+text: '¿Tiene y aplica un conjunto común de políticas y estándares en toda su organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - a tener en cuenta consideraciones específicas del dominio
+  - 
+    - guía de implementación
+#Type Classification of the Document
+type: Pregunta
