@@ -4,6 +4,8 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: bed0489cae4e4401b1d44d56ad36c109
+#One-sentence description of the criterium
+text: '¿Tiene conocimientos sólidos sobre las dependencias en las que confía?'
 #Order of this question for the activity (in case there would be multiple)
 order: 1
 #Qualifying Criterion
