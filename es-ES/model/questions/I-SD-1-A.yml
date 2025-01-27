@@ -12,6 +12,8 @@ order: 1
 quality:
   - Tienes suficiente información para ejecutar los procesos de implementación
   - Su documentación de despliegue actualizada
-  - 
-  - 
-  - 
+  - Su documentación de despliegue es accesible para los interesados relevantes
+  - Usted se asegura de que sólo personal calificado definido puede activar un despliegue
+  - Endurece (hardening) las herramientas que se utilizan en el proceso de despliegue
+#Type Classification of the Document
+type: Pregunta
