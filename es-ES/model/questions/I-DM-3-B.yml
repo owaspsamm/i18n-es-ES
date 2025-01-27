@@ -12,5 +12,7 @@ order: 1
 quality:
   - Has analizado los efectos de las métricas de seguridad al menos una vez en el último año
   - Siempre que sea posible, usted verifica automáticamente la exactitud de los datos
-  - 
-  - 
+  - Las métricas se agregan con otras fuentes como inteligencia de amenazas o gestión de incidentes
+  - Has derivado al menos una actividad estratégica de las métricas en el último año
+#Type Classification of the Document
+type: Pregunta
