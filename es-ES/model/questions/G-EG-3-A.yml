@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: a061ed8a5b1c4899bc95d9b1a10a469d
+#One-sentence description of the criterium
+text: '¿Ha implementado un Sistema de Gestión de Aprendizaje o equivalente para realizar un seguimiento de los procesos de capacitación y certificación de los empleados?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Un Sistema de Gestión del Aprendizaje (LMS) se utiliza para rastrear cursos y certificaciones
+  - El entrenamiento se basa en estándares, políticas y procedimientos
+  - 
+    - sistemas y recursos
+#Type Classification of the Document
+type: Question
