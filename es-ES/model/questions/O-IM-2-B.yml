@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: d6dd8813c5074350b5614b92f2dec60d
+#Text of the question presented to the user
+text: '¿Utiliza un proceso repetible para la gestión de incidentes?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Tiene una clasificación de incidentes acordada
+  - El proceso considera análisis de causa raíz para incidentes de alta gravedad
+  - Los empleados responsables de la respuesta a incidentes están capacitados en este proceso
+  - Herramientas de análisis forense disponibles
+#Type Classification of the Document
+type: Pregunta
