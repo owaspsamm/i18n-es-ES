@@ -8,3 +8,10 @@ activity: 77a5f467ffe140e2a2839bb522e82c4e
 text: '¿Limita el acceso a los secretos de la aplicación de acuerdo con el principio de menor privilegio?'
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criterion
+quality:
+  - Almacena secretos de producción protegidos en una ubicación segura
+  - Los desarrolladores no tienen acceso a secretos de producción
+  - Los secretos de producción no están disponibles en ambientes no productivos
+#Type Classification of the Document
+type: Pregunta
