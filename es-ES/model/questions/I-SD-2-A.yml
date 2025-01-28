@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 1f3a9306778f4539a437d9f19232cda7
+#One-sentence description of the criterium
+text: '¿Están automatizados los procesos de despliegue y empleando controles de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Los procesos de despliegue son automatizados en todas las etapas
+  - El despliegue incluye procedimientos de prueba de seguridad automatizados
+  - Alertas al personal responsable de las vulnerabilidades identificadas
+  - Tiene registros (logs) disponibles para sus anteriores despliegues por un período de tiempo definido
+#Type Classification of the Document
+type: Pregunta
