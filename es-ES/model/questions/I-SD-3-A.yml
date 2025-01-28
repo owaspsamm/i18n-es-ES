@@ -4,3 +4,7 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 05a3e75c6c654ae58a115cbf4295662b
+#One-sentence description of the criterium
+text: '¿Usted valida consistentemente la integridad de los artefactos desplegados?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
