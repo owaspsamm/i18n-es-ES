@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 5bcb52375a0f4085bb12266c9ecfa84d
+#Text of the question presented to the user
+text: '¿Sigue un proceso documentado para la detección de incidentes?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - El proceso tiene un propietario dedicado
+  - Almacena la documentación del proceso en una ubicación accesible
+  - El proceso considera una ruta de escalamiento para un análisis más detallado
+  - Entrena a los empleados responsables de la detección de incidentes en este proceso
+  - Tienes una lista de posibles ataques para simplificar la detección de incidentes
+#Type Classification of the Document
+type: Pregunta
