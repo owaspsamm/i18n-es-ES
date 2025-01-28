@@ -4,3 +4,7 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: f692ee8f87c1499681490cc1647c0df4
+#Text of the question presented to the user
+text: '¿Dispone de un equipo dedicado a respuesta de incidentes?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
