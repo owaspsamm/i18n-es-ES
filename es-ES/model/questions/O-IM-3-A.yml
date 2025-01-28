@@ -4,3 +4,13 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 11dd0c95f8914b6cb850a27f0557a9dd
+#Text of the question presented to the user
+text: '¿Revisa y actualiza el proceso de detección de incidentes regularmente?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Realizas revisiones al menos anualmente
+  - Actualiza la lista de posibles ataques con datos externos e internos
+#Type Classification of the Document
+type: Pregunta
