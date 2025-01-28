@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 4729b4bd6dca4d58a68cb854ad4409a6
+#One-sentence description of the criterium
+text: '¿Inyecta secretos de producción en los archivos de configuración durante el despliegue?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Los archivos de código fuente ya no contienen secretos de aplicaciones activas
+  - En circunstancias normales, ningún humano accede a secretos durante los procedimientos de despliegue
+  - Usted registra y alerta de cualquier acceso anormal a los secretos
+#Type Classification of the Document
+type: Pregunta
