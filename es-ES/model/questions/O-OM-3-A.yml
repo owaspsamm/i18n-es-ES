@@ -4,3 +4,7 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: cd80066899014962a37af7ab34c83003
+#Text of the question presented to the user
+text: '¿Revisan y actualizan regularmente el catálogo de datos, sus políticas y procedimientos de protección de datos?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
