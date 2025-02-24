@@ -8,3 +8,10 @@ activity: f692ee8f87c1499681490cc1647c0df4
 text: '¿Dispone de un equipo dedicado a respuesta de incidentes?'
 #Order of this question for the activity (in case there would be multiple)
 order: 1
+#Qualifying Criteria
+quality:
+  - 
+    - una razón específica para no hacerlo
+  - Usted revisa y actualiza el proceso de respuesta al menos anualmente
+#Type Classification of the Document
+type: Pregunta
