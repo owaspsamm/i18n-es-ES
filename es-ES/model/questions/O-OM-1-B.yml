@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 1a398709b9d3407dbf9db7eeff6e916c
+#Text of the question presented to the user
+text: '¿Identifica y elimina sistemas, aplicaciones, dependencias de aplicaciones o servicios que ya no se usan, que han llegado al fin de vida útil o que ya no son desarrollados o apoyados activamente por desarrolladores?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - No utiliza aplicaciones o dependencias no soportadas
+  - 
+    - grupo
+#Type Classification of the Document
+type: Pregunta
