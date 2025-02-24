@@ -4,3 +4,11 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: eba4b86963f44fa59b0b9389a1cfc59b
+#Qualifying Criterion
+quality:
+  - 
+  - 
+  - 
+  - Registra los mecanismos de seguridad que faltan como defectos
+#Type Classification of the Document
+type: Pregunta
