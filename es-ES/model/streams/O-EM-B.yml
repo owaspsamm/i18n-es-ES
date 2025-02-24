@@ -1,2 +1,13 @@
 #Unique identifier to refer to this stream
 id: 1a7ad26d9e48411e95a63be79e1b90ea
+#Official stream name
+name: Parchado y actualización
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  Las actividades de este flujo se centran en la gestión por parte de la organización de parches y actualizaciones para todos los elementos de la pila tecnológica. Para el software desarrollado por la organización, estas actividades se refieren a la entrega de parches y actualizaciones a los clientes, así como a su aplicación a soluciones gestionadas por la organización (por ejemplo, software como servicio). Para los elementos de terceros, estas actividades tienen que ver con la aplicación puntual por parte de la organización de las actualizaciones y parches recibidos.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flujo
