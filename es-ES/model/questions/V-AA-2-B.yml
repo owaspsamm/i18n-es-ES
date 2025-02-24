@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 62237ae79ab84a6687de2885b1e3d608
+#One-sentence description of the criterium
+text: '¿Evalúa regularmente las amenazas a su arquitectura?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Revisas sistemáticamente cada amenaza identificada en la evaluación de amenazas
+  - Personas con formación o experiencia dirigen el ejercicio de revisión
+  - Identifique las características mitigadoras a nivel de diseño para cada amenaza identificada
+  - Registras amenazas no tratadas como defectos
+#Type Classification of the Document
+type: Pregunta
