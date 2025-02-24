@@ -2,3 +2,21 @@
 name: Pruebas de Requisitos
 #Abbreviation of this practice
 shortName: PR
+#A one sentence description of the security practice
+shortDescription: Esta práctica se centra en el uso tanto de pruebas de seguridad positivas (verificación del control) como negativas (pruebas de uso indebido/abuso) basadas en requisitos (historias de usuarios)
+#A multi-paragraph description of the security practice
+longDescription: |
+
+  El objetivo de la práctica de las pruebas en función de los requisitos (PR) es garantizar que los controles de seguridad implantados funcionan como se espera y satisfacen los requisitos de seguridad establecidos en el proyecto. Para ello, se construye gradualmente un conjunto de pruebas de seguridad y casos de regresión y se ejecutan con regularidad.
+
+  Un aspecto clave de esta práctica es la atención que presta tanto a las pruebas positivas como a las negativas. Las primeras verifican que los controles de seguridad de la aplicación satisfacen los requisitos de seguridad establecidos y validan su correcto funcionamiento. Estos requisitos suelen ser de naturaleza funcional. Las pruebas negativas se ocupan de la calidad de la aplicación de los controles de seguridad y tienen por objeto detectar fallos de diseño inesperados y errores de aplicación mediante pruebas de uso indebido y abuso. En sus formas más avanzadas, la práctica promueve las pruebas de estrés de seguridad, como la denegación de servicio, y se esfuerza por mejorar continuamente la seguridad de las aplicaciones mediante la automatización constante de las pruebas unitarias de seguridad y la creación de pruebas de regresión de seguridad para todos los errores detectados y corregidos.
+
+  Aunque tanto la práctica de las pruebas basadas en requisitos como la de las pruebas de seguridad se ocupan de las pruebas de seguridad, la primera se centra en verificar la correcta aplicación de los requisitos de seguridad, mientras que la segunda pretende descubrir los puntos débiles de la aplicación técnica, independientemente de los requisitos.
+#The relative order of this practice in the business function
+order: 2
+#Who's the "owner" of this practice
+assignee: Nessim Kisserli
+#Indication of progress to keep track of overall status
+progress: 42
+#Type Classification of the Document
+type: Practice
