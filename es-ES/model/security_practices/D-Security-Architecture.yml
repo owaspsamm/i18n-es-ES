@@ -2,3 +2,16 @@
 name: Arquitectura de Seguridad
 #Abbreviation of this practice
 shortName: AS
+#A one sentence description of the security practice
+shortDescription: La práctica de la arquitectura de seguridad se centra en la gestión de los riesgos arquitectónicos de la solución de software.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Arquitectura de Seguridad (SA) se centra en la seguridad vinculada a los componentes y la tecnología que usted trata durante el diseño arquitectónico de su software. El diseño de la arquitectura de seguridad examina la selección y composición de los componentes que forman la base de su solución, centrándose en sus propiedades de seguridad. La gestión de la tecnología examina la seguridad de las tecnologías de apoyo utilizadas durante el desarrollo, la implantación y las operaciones, como las pilas y herramientas de desarrollo, las herramientas de implantación y los sistemas operativos y herramientas.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: John Ellingsworth
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Práctica
