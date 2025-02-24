@@ -1,2 +1,13 @@
 #Unique identifier to refer to this stream
 id: a0d2ec4c6daa43369c07644b8745a7bd
+#Official stream name
+name: Gestión del Sistema de Decomiso / Legado
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  Desde la perspectiva de la organización como consumidora de recursos, las actividades de esta corriente se centran en la identificación, gestión y seguimiento de sistemas, aplicaciones, dependencias de aplicaciones y servicios que ya no se utilizan, han llegado al final de su vida útil o ya no se desarrollan o soportan activamente. La eliminación de los sistemas y servicios no utilizados mejora la capacidad de gestión del entorno y reduce la superficie de ataque de la organización, al tiempo que permite ahorrar costes directos e indirectos (por ejemplo, reducción del número de licencias, reducción del volumen de registros o reducción del esfuerzo de los analistas).
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flujo
