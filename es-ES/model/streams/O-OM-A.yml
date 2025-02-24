@@ -1,2 +1,13 @@
 #Unique identifier to refer to this stream
 id: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Official stream name
+name: Protección de datos
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: |
+  Las actividades de este flujo se centran en asegurar que la organización proteja adecuadamente los datos en todos los aspectos de su creación, manejo, almacenamiento y procesamiento.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Flujo
