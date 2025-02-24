@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 346ed576f0a94147ba2b8148abc3c73a
+#One-sentence description of the criterium
+text: '¿Realiza pruebas de penetración para sus aplicaciones en intervalos regulares?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Las pruebas de penetración utilizan casos de prueba de seguridad específicos de la aplicación para evaluar la seguridad
+  - Las pruebas de penetración buscan problemas tanto técnicos como lógicos en la aplicación
+  - 
+    - gestión de riesgos
+  - El personal calificado realiza pruebas de penetración
+#Type Classification of the Document
+type: Pregunta
