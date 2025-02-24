@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 4f6a06796d0840debcc775ea1af65679
+#One-sentence description of the criterion
+text: '¿Integra pruebas de seguridad automatizadas en el proceso de construcción y despliegue?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - el ciclo de desarrollo
+  - Fusiona los resultados de las pruebas en un panel central y los introduce en la gestión de defectos
+#Type Classification of the Document
+type: Pregunta
