@@ -13,6 +13,23 @@ id: 05073fb130c74143a12a6ba74a44c580
 title: Personalizar el entrenamiento de seguridad
 #Describe the benefit that is achieved by implementing this activity
 benefit: Capacitar al personal relevante de acuerdo con su rol específico
+#A one sentence description of the activity
+shortDescription: Ofrecer tecnología y orientación específica del rol, incluyendo matices de seguridad en cada idioma y plataforma.
+#A multi-paragraph description of the activity
+longDescription: |
+  Impartir formación de seguridad con instructor o CBT (computer based training) específica para las funciones y tecnologías de la organización, empezando por el equipo de desarrollo principal. La organización personaliza la formación para product managers, desarrolladores de software, testers y auditores de seguridad, basándose en las necesidades técnicas de cada grupo.
+
+  - Los product managers reciben formación sobre temas relacionados con las funciones empresariales y las prácticas de seguridad de SAMM, con especial atención a los requisitos de seguridad, el modelado de amenazas y el seguimiento de defectos.
+  - Los desarrolladores reciben formación sobre las normas de codificación y las mejores prácticas de las tecnologías con las que trabajan para garantizar que la formación beneficia directamente a la seguridad de las aplicaciones. Tienen un sólido conocimiento técnico de las 10 principales vulnerabilidades de OWASP, o debilidades similares relevantes para las tecnologías y marcos utilizados (por ejemplo, móviles), y las estrategias de corrección más comunes para cada problema.
+  - Los probadores reciben formación sobre las distintas herramientas de prueba y las mejores prácticas para las tecnologías utilizadas en la organización, así como sobre las herramientas que identifican defectos de seguridad.
+  - Los auditores de seguridad reciben formación sobre el ciclo de vida del desarrollo de software, los mecanismos de seguridad de las aplicaciones utilizados en la organización y el proceso de presentación de defectos de seguridad para su corrección.
+  - Los campeones de seguridad se forman en temas de seguridad de varias fases del SDLC. Reciben la misma formación que los desarrolladores y probadores, pero además comprenden el modelado de amenazas y el diseño seguro, así como las herramientas y tecnologías de seguridad que pueden integrarse en el entorno de creación.
+
+  Incluya todos los contenidos de formación de las actividades del nivel de madurez 1 de esta corriente y contenidos adicionales específicos de la función y la tecnología. Elimine los aspectos innecesarios de la formación.
+
+  Lo ideal sería identificar a un experto en cada tecnología para que ayude a adquirir o desarrollar el contenido de la formación y a actualizarlo periódicamente. La formación consiste en demostraciones de explotación de vulnerabilidades utilizando aplicaciones debilitadas intencionadamente, como WebGoat o Juice Shop. Incluya los resultados de la penetración anterior como ejemplos de vulnerabilidades y estrategias de corrección aplicadas. Pida a un especialista en pruebas de penetración que le ayude a desarrollar ejemplos de demostraciones de explotación de vulnerabilidades.
+
+  La formación es obligatoria para todos los empleados y contratistas implicados en el desarrollo de software, e incluye una firma auditable para demostrar el cumplimiento.  Siempre que sea posible, la formación también debe incluir una prueba para garantizar la comprensión, no sólo el cumplimiento.  Actualice e imparta la formación anualmente para incluir los cambios en la organización, la tecnología y las tendencias. Sondee a los participantes en la formación para evaluar la calidad y pertinencia de la misma. Recoja sugerencias de otra información relevante para su trabajo o entorno.
 #Internal notes that might help the author
 notes: |
   ** Referencias**
