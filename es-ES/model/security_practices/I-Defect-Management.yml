@@ -5,3 +5,20 @@ id: e17d573510904f65a1fe6040b56ad0b1
 name: Gestión de Defectos
 #Abbreviation of this practice
 shortName: GD
+#A one sentence description of the security practice
+shortDescription: Esta práctica se centra en la gestión de defectos de seguridad en software y sus métricas asociadas.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Gestión de Defectos (DM) se centra en recopilar, registrar y analizar los defectos de seguridad del software y enriquecerlos con información para impulsar decisiones basadas en métricas.
+
+  La primera vertiente de la práctica se ocupa del proceso de tratamiento y gestión de defectos para garantizar que el software publicado tenga un nivel de seguridad determinado. La segunda corriente se centra en el enriquecimiento de la información sobre los defectos y la derivación de métricas para orientar las decisiones sobre la seguridad de los proyectos individuales y del programa de garantía de seguridad en su conjunto.
+
+  En su forma más sofisticada, la práctica requiere una gestión de defectos formalizada e independiente e información correlacionada en tiempo real para detectar tendencias e influir en la estrategia de seguridad.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Daniel Kefer
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Práctica
