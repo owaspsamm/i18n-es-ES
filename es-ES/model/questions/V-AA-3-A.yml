@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 9d0433c5133c4a4c9c16ae84abe9a235
+#One-sentence description of the criterium
+text: '¿Revisa usted regularmente la eficacia de los controles de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted evalúa las capacidades de prevención, detección y respuesta de los controles de seguridad
+  - 
+    - controles
+  - Usted evalúa la efectividad al menos anualmente
+  - Registras las deficiencias identificadas como defectos
+#Type Classification of the Document
+type: Pregunta
