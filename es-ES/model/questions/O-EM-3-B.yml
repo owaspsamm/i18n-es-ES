@@ -4,6 +4,8 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: a573c126b3e345fba9d1d94c8158cf60
+#Text of the question presented to the user
+text: '¿Evalúa regularmente los componentes y revisa el estado del nivel de parches?'
 #Order of this question for the activity (in case there would be multiple)
 order: 1
 #Qualifying Criteria
