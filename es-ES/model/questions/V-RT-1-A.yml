@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 99989f86dabc4a7a87fbe6a274c99ca3
+#One-sentence description of the criterium
+text: '¿Pruebas las aplicaciones para el correcto funcionamiento de los controles de seguridad estándar?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - validación de entrada, codificación y escape de datos, y controles de cifrado
+  - La prueba de seguridad se ejecuta cuando la aplicación cambia su uso de los controles
+#Type Classification of the Document
+type: Pregunta
