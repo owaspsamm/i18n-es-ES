@@ -2,3 +2,20 @@
 name: Pruebas de Seguridad
 #Abbreviation of this practice
 shortName: PS
+#A one sentence description of the security practice
+shortDescription: Esta práctica se centra en la detección y resolución de problemas básicos de seguridad a través de la automatización, permitiendo que las pruebas manuales se centren en vectores de ataque más complejos.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Pruebas de Seguridad aprovecha el hecho de que, mientras que las pruebas de seguridad automatizadas son rápidas y se adaptan bien a numerosas aplicaciones, las pruebas en profundidad basadas en un buen conocimiento de una aplicación y su lógica de negocio a menudo sólo son posibles mediante pruebas de seguridad manuales y expertas, más lentas. Así pues, cada corriente se basa en un enfoque.
+
+  La primera corriente se centra en establecer una línea de base de seguridad común para detectar automáticamente la denominada «fruta al alcance de la mano». Se personalizan progresivamente las pruebas automatizadas para cada aplicación y se aumenta su frecuencia de ejecución para detectar antes más fallos y regresiones, lo más cerca posible de su inicio. Cuantos más errores puedan detectar los procesos automatizados, más tiempo tendrán los expertos para utilizar sus conocimientos y creatividad para centrarse en vectores de ataque más complejos y garantizar la realización de pruebas en profundidad de las aplicaciones en el segundo flujo. Como la revisión manual es lenta y difícil de escalar, los revisores dan prioridad a los componentes de prueba en función de su riesgo, los cambios relevantes recientes o las próximas versiones importantes. Las organizaciones también pueden acceder a expertos externos participando, por ejemplo, en programas de recompensas por fallos.
+
+  A diferencia de las pruebas basadas en requisitos, que se centran en verificar que las aplicaciones implementan correctamente sus requisitos, el objetivo de esta práctica es descubrir los puntos débiles técnicos y de lógica empresarial de la aplicación y hacerlos visibles a la dirección y a las partes interesadas de la empresa, independientemente de los requisitos.
+#The relative order of this practice in the business function
+order: 3
+#Who's the "owner" of this practice
+assignee: Nessim Kisserli
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Práctica
