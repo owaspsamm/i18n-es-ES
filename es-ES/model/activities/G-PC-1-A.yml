@@ -13,5 +13,7 @@ id: 6e7a618abd564df5bb784ca54893bbee
 title: Defina políticas y estándares
 #Describe the benefit that is achieved by implementing this activity
 benefit: Expectativas claras del nivel mínimo de seguridad dentro de la organización
+#A one sentence description of the activity
+shortDescription: Determine una línea de base de seguridad que resuma las políticas y estándares de la organización.
 #Type Classification of the Document
 type: Activity
