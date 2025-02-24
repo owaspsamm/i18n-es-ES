@@ -4,3 +4,17 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: a395d69917b947b28d5995738d716283
+#One-sentence description of the criterium
+text: '¿Utiliza los resultados de las pruebas de seguridad para mejorar el ciclo de vida del desarrollo?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - durante el desarrollo
+  - 
+    - playbooks de prueba de seguridad
+  - 
+    - gestión de riesgos
+#Type Classification of the Document
+type: Pregunta
