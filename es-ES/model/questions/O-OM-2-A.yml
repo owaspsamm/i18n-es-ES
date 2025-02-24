@@ -4,3 +4,16 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 82a962e3dcc44b1086760de517aaa3c1
+#Text of the question presented to the user
+text: '¿Mantiene un catálogo de datos, incluyendo tipos, niveles de sensibilidad, y ubicaciones de procesamiento y almacenamiento?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - El catálogo de datos se almacena en una ubicación accesible
+  - Usted sabe qué elementos de datos están sujetos a una regulación específica
+  - Usted tiene controles para proteger y preservar datos a lo largo de toda su vida
+  - 
+    - después de que finalice el período de retención relevante
+#Type Classification of the Document
+type: Pregunta
