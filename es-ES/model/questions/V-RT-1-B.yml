@@ -4,3 +4,14 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 81ef5625583646bf8bc3fad53e4eff55
+#One-sentence description of the criterium
+text: '¿Pruebas aplicaciones usando técnicas de aleatorización (randominization) o difusión (fuzzing)?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - La prueba cubre la mayoría o todos los parámetros de entrada principales de la aplicación
+  - 
+    - base
+#Type Classification of the Document
+type: Pregunta
