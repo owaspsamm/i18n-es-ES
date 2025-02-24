@@ -13,5 +13,16 @@ id: a061ed8a5b1c4899bc95d9b1a10a469d
 title: Estandarizar la guía de seguridad
 #Describe the benefit that is achieved by implementing this activity
 benefit: El conocimiento de seguridad adecuado de todos los empleados garantiza antes de trabajar en tareas críticas
+#A one sentence description of the activity
+shortDescription: Orientación interna estandarizada en torno a los estándares de desarrollo de software seguro de la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementar un programa de formación formal que exija a todas las personas implicadas en el ciclo de vida del desarrollo de software que completen la formación específica sobre la función y la tecnología adecuadas como parte del proceso de incorporación. En función de la importancia de la aplicación y de la función del usuario, considere la posibilidad de restringir el acceso hasta que se haya completado la formación inicial. Aunque la organización puede obtener algunos módulos externamente, el programa se facilita y gestiona internamente e incluye contenido específico para la organización que va más allá de las mejores prácticas generales de seguridad. El programa tiene un plan de estudios definido, comprueba la participación y evalúa la comprensión y la competencia. La formación consiste en una combinación de las mejores prácticas del sector y las normas internas de la organización, incluida la formación sobre sistemas específicos utilizados por la organización.
+
+  Además de las cuestiones directamente relacionadas con la seguridad, la organización incluye otras normas en el programa, como la complejidad del código, la documentación del código, la convención de nombres y otras disciplinas relacionadas con el proceso. Esta formación minimiza los problemas derivados de que los empleados sigan prácticas incorporadas fuera de la organización y garantiza la continuidad en el estilo y la competencia del código.
+
+  Para facilitar el seguimiento del progreso y la finalización con éxito de cada módulo de formación, la organización cuenta con una plataforma de gestión del aprendizaje u otro portal centralizado con una funcionalidad similar. Los empleados pueden supervisar su progreso y tener acceso a todos los recursos de formación incluso después de completar la formación inicial.
+
+  Revise los problemas derivados de que los empleados no sigan las normas, políticas, procedimientos o mejores prácticas de seguridad establecidas al menos una vez al año para evaluar la eficacia de la formación y asegurarse de que cubre todos los temas relevantes para la organización. Actualice la formación periódicamente y forme a los empleados sobre cualquier cambio y las deficiencias de seguridad más frecuentes.
 #Type Classification of the Document
 type: Activity
