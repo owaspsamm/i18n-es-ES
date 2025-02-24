@@ -15,5 +15,12 @@ title: Implementar centros de excelencia
 benefit: Mejores prácticas de seguridad específicas adaptadas a la organización
 #A one sentence description of the activity
 shortDescription: Desarrolle un centro de excelencia de software seguro que promueva el liderazgo concienzudo entre desarrolladores y arquitectos.
+#A multi-paragraph description of the activity
+longDescription: |
+  La organización implementa un centro de excelencia formal de codificación segura, con arquitectos y desarrolladores senior que representan a las distintas unidades de negocio y pilas tecnológicas. El equipo tiene un estatuto oficial y define normas y buenas prácticas para mejorar las prácticas de desarrollo de software. El objetivo es mitigar la forma en que la velocidad del cambio en la tecnología, los lenguajes de programación y los marcos y bibliotecas de desarrollo dificulta que los profesionales de la seguridad de la información estén plenamente informados de todos los matices técnicos que afectan a la seguridad. Incluso los desarrolladores suelen tener dificultades para mantenerse al día de todos los cambios y nuevas herramientas que pretenden hacer el desarrollo de software más rápido, mejor y más seguro.
+
+  Esto garantiza que todos los esfuerzos de programación actuales sigan las mejores prácticas del sector y que las normas de desarrollo e implementación de la organización incluyan todos los ajustes de configuración críticos. Ayuda a identificar, formar y apoyar a los «campeones de cada producto», responsables de ayudar a los distintos equipos a implementar herramientas que automaticen, agilicen o mejoren diversos aspectos del SDLC. Identifica los equipos de desarrollo con mayores niveles de madurez dentro de su SDLC y las prácticas y herramientas que permiten estos logros, con el objetivo de replicarlos a otros equipos.
+
+  El grupo aporta su experiencia en la materia, ayudando a los equipos de seguridad de la información a evaluar herramientas y soluciones para mejorar la seguridad de las aplicaciones, garantizando que estas herramientas no solo sean útiles, sino también compatibles con la forma en que los distintos equipos desarrollan las aplicaciones. Los equipos que desean realizar cambios arquitectónicos significativos en su software consultan a este grupo para evitar repercusiones negativas en el ciclo de vida del SDLC o en los controles de seguridad establecidos.
 #Type Classification of the Document
 type: Activity
