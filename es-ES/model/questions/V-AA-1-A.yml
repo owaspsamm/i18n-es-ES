@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 0f611af10f974da497e7f3defe0c4f12
+#One-sentence description of the criterium
+text: '¿Revisa la arquitectura de aplicaciones para objetivos de seguridad clave de forma ad hoc?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted tiene un acuerdo sobre el modelo de la arquitectura de software general
+  - Incluye componentes, interfaces e integraciones en el modelo de arquitectura
+  - Verifica la disposición correcta de los mecanismos generales de seguridad
+  - Usted registra los controles de seguridad que faltan como defectos
+#Type Classification of the Document
+type: Pregunta
