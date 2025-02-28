@@ -4,3 +4,15 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 8ab46d242edd413d99a6c1991aef2416
+#Text of the question presented to the user
+text: '¿Evalúa con regularidad el estado del ciclo de vida y el estado de soporte de cada activo de software y componente de infraestructura subyacente, y estima su fin de vida?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Su proceso de gestión del final de la vida está acordado
+  - 
+    - de servicio o soporte
+  - Revisas el proceso al menos anualmente
+#Type Classification of the Document
+type: Pregunta
