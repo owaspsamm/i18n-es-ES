@@ -4,6 +4,9 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 15d73a64818c43019504c8d938ca2434
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 1a849e8fd3ae41a4b3675947482426da
 #One-sentence description of the criterium
 text: '¿Mejora su programa de seguridad en métricas estandarizadas?'
 #Order of this question for the activity (in case there would be multiple)
