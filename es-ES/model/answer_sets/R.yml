@@ -1,3 +1,10 @@
+---
+#===========================================================
+#OWASP SAMM2 Answer Set - R
+#===========================================================
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: f3534ade73d8469e879c74b4e0a4eb3d
 #Different answers with their properties. We use 4 levels or answers
 values:
   - 
