@@ -4,6 +4,9 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 60d7a0a61dd142d5a87009bc5b93df56
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: f9c5a8649ddf4168b6f62d0018a32704
 #Text of the question presented to the user
 text: '¿Sigue un proceso establecido para eliminar todos los recursos asociados, como parte del desmantelamiento de sistemas, aplicaciones, dependencias de aplicaciones o servicios no utilizados?'
 #Order of this question for the activity (in case there would be multiple)
