@@ -4,6 +4,11 @@
 #===========================================================
 #Link to the activity that this question helps measure
 activity: 8ab46d242edd413d99a6c1991aef2416
+#This question uses Answer Set L
+answerset: c1d15e1f5c8946d381f508db29b26473
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 54ad3e4182844623b3290901c1a1932d
 #Text of the question presented to the user
 text: '¿Evalúa con regularidad el estado del ciclo de vida y el estado de soporte de cada activo de software y componente de infraestructura subyacente, y estima su fin de vida?'
 #Order of this question for the activity (in case there would be multiple)
