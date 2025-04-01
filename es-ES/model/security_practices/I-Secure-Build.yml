@@ -2,3 +2,10 @@
 name: Construcción Segura
 #Abbreviation of this practice
 shortName: CS
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Construcción Segura (Secure Build - SB) enfatiza la importancia de construir software de manera estandarizada y repetible, utilizando componentes seguros, incluidas las dependencias de software de terceros.
+
+  El primer enfoque se centra en eliminar cualquier subjetividad del proceso de construcción mediante la automatización completa. Una canalización de construcción automatizada puede incluir verificaciones de seguridad adicionales, como SAST (análisis estático de seguridad del código) y DAST (análisis dinámico de seguridad de aplicaciones), lo que permite detectar y señalar problemas de seguridad desde las primeras etapas al fallar la compilación, por ejemplo.
+
+  El segundo enfoque reconoce la prevalencia de dependencias de software en aplicaciones modernas. Su objetivo es identificarlas y monitorear su estado de seguridad para minimizar el impacto que podrían tener en una aplicación segura. En su forma más avanzada, aplica controles de seguridad similares tanto a las dependencias de software como a la propia aplicación.
