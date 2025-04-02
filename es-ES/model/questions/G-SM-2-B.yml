@@ -1,0 +1,21 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: c1aef0137df1400cbdd3c660b609b7b2
+#One-sentence description of the criterium
+text: '¿Se han definido indicadores clave (KPIs) a partir de las métricas disponibles de seguridad en aplicaciones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted definió KPI después de recolectar suficiente información para establecer objetivos realistas
+  - 
+    - seguridad de la aplicación
+  - 
+    - y orientación en caso de que los equipos necesiten tomar medidas
+  - 
+    - KPIs
+#Type Classification of the Document
+type: Pregunta

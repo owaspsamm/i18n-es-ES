@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: b55c7a41eba747678a65651f5ccacaf2
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 2bf0e192a904444b8a2f38c33256e80a
+#The title of this activity
+title: Valorar y rastrear defectos de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Clasificación consistente de defectos de seguridad con claras expectativas de su manejo
+#A one sentence description of the activity
+shortDescription: Valore todos los defectos de seguridad sobre toda la organización de forma consistente y defina SLAs para clases de severidad particulares.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introducir y aplicar una metodología de calificación bien definida para sus defectos de seguridad que sea consistente en toda la organización, basada en la probabilidad y el impacto esperado del defecto que se está explotando. Esto le permitirá identificar aplicaciones que necesitan mayor atención e inversiones. En caso de que no almacene la información sobre defectos de seguridad centralmente, asegúrese de que puede extraer fácilmente la información de todas las fuentes y obtener una visión general acerca de "hot spots" que necesitan su atención.
+
+  Introducir SLAs para la corrección oportuna de los defectos de seguridad según su valoración crítica y monitorear centralmente e informar regularmente sobre las violaciones de SLA. Definir un proceso para los casos en los que no sea factible o económico reparar un defecto dentro del tiempo definido por las SLAs. Esto debería al menos garantizar que todas las partes interesadas relevantes tengan un conocimiento sólido del riesgo impuesto. Si es apropiado, emplear controles compensatorios para estos casos.
+
+  Incluso si no tiene ningún SLAs formal para reparar defectos de baja severidad, asegúrese de que los equipos responsables aún tengan una visión general regular de los problemas que afectan a sus aplicaciones y entienda cómo problemas particulares se afectan o amplifican entre sí.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingeniero de Seguridad
+  - Oficial de seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  -
+#Type Classification of the Document
+type: Activity

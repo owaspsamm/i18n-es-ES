@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 67fcd33f84364ef68fb88aba77de1a63
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 62237ae79ab84a6687de2885b1e3d608
+#The title of this activity
+title: Verificar estructuralmente la arquitectura para amenazas identificadas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Todas las amenazas identificadas a la aplicación se manejan adecuadamente.
+#A one sentence description of the activity
+shortDescription: Analizar la arquitectura para amenazas conocidas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Revise sistemáticamente cada amenaza identificada durante las actividades de Evaluación de amenazas y examine cómo la arquitectura las mitiga. Utilice un proceso estandarizado para analizar arquitecturas de sistemas y el flujo de datos dentro de ellas. Por lo general, esto está vinculado al modelo de amenaza utilizado (por ejemplo, STRIDE) para identificar los objetivos de seguridad relevantes que abordan cada tipo de amenaza. Para cada amenaza, identifique las características de nivel de diseño de la arquitectura que la contrarrestan y evalúe su efectividad al hacerlo.
+
+  Cuando esté disponible, revise los registros de decisiones arquitectónicas para comprender las limitaciones arquitectónicas y las compensaciones realizadas durante el diseño. Tenga en cuenta su impacto junto con los supuestos de seguridad en los que se basa el funcionamiento seguro del sistema y vuelva a evaluarlos.
+
+  Enriquezca su modelo de amenazas creado previamente de modo que cada amenaza y su impacto estimado estén vinculados a la contramedida correspondiente. Produzca un documento de mapeo, o un tablero en una herramienta especializada, para que la información esté disponible y sea visible para las partes interesadas relevantes.
+#Type Classification of the Document
+type: Activity

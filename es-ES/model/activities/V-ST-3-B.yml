@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a64c7b0b35a458ea436260d5e414dfa
+#Link to the practice level that this activity belongs to
+level: eac3184f8e2343b8b29047d023376da5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a395d69917b947b28d5995738d716283
+#The title of this activity
+title: Establecer una verificación de seguridad continua y escalable
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de problemas de seguridad identificables manualmente en las etapas más tempranas posibles
+#A one sentence description of the activity
+shortDescription: Integrar las pruebas de seguridad al proceso de desarrollo
+#A multi-paragraph description of the activity
+longDescription: |
+  Integrar las pruebas de seguridad en paralelo a todas las demás actividades de desarrollo, incluidos el análisis de requisitos, el diseño y la construcción de software.
+
+  Con la multiplicidad de herramientas de seguridad que funcionan en cada fase del desarrollo, ya no es adecuado ni deseable solucionar los problemas de seguridad en una fase determinada (como las pruebas previas al despliegue o pase a producción). Los problemas de seguridad deben clasificarse rápidamente y las soluciones deben planificarse teniendo en cuenta el riesgo y el coste de la reparación. Esforzarse continuamente por detectar los problemas en una fase más temprana del ciclo de vida del desarrollo, mediante pruebas automatizadas específicas y de baja fricción integradas en las herramientas de desarrollo y los procesos de creación, reduce el coste de la corrección y, por tanto, aumenta la probabilidad de que los problemas se resuelvan rápidamente.
+
+  Mejorar proactivamente el esfuerzo de las pruebas de seguridad integradas en el proceso de desarrollo propagando adecuadamente los resultados de otras actividades de pruebas de seguridad. Por ejemplo, si una prueba de penetración de seguridad identifica problemas con la gestión de sesiones, cualquier cambio en la gestión de sesiones debería activar pruebas de seguridad explícitas antes de pasar los cambios a producción.
+
+  Los campeones de seguridad y el equipo central de software seguro revisan continuamente los resultados de las pruebas de seguridad automatizadas y manuales durante el desarrollo, incluyendo estos resultados como parte de las formaciones de concienciación sobre seguridad para los equipos de desarrollo. Integrar las lecciones aprendidas en las guías generales para mejorar las pruebas de seguridad como parte del desarrollo de la organización. Si hay hallazgos no abordados que permanecen como riesgos aceptados para la versión, las partes interesadas y los responsables de desarrollo deben trabajar juntos para establecer un calendario concreto para abordarlos.
+#Type Classification of the Document
+type: Activity

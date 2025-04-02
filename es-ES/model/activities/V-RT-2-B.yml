@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fd4d1ac720374b13a25ab1381045b731
+#The title of this activity
+title: Definir y ejecutar casos de abuso de seguridad por requerimientos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección de errores de lógica de negocio de aplicación
+#A one sentence description of the activity
+shortDescription: Crear y probar casos de abuso y prueba de errores de lógica de negocio
+#A multi-paragraph description of the activity
+longDescription: |
+  Los casos de uso indebido y abuso describen escenarios de uso malintencionado y no intencionado de la aplicación, y describen cómo un atacante podría hacer esto. Cree casos de uso indebido y abuso para hacer un mal uso o aprovechar las debilidades de los controles en las funciones del software para atacar una aplicación. Utilice modelos de casos de abuso para que una aplicación sirva como combustible para la identificación de pruebas de seguridad concretas que exploten directa o indirectamente los escenarios de abuso.
+
+  El abuso de la funcionalidad, a veces denominado "ataque de lógica empresarial", depende del diseño y la implementación de las funciones y características de la aplicación. Un ejemplo es el uso de un flujo de restablecimiento de contraseña para enumerar cuentas. Como parte de las pruebas de lógica empresarial, identifique las reglas de negocio que son importantes para la aplicación y conviértalas en experimentos para verificar si la aplicación aplica correctamente la regla de negocio. Por ejemplo, en una aplicación de negociación de acciones, ¿se permite al atacante iniciar una operación al comienzo del día y fijar un precio, mantener la transacción abierta hasta el final del día y luego completar la venta si el precio de las acciones ¿ha subido o cancelar si el precio bajó?
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ed5a9c3dd7884c88918a45dc9d231c5d
+#Link to the practice level that this activity belongs to
+level: a3d4045d5c0c4bd4a875784759539f0c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 1ceadbb5a0024e2599821e7ce756f3a4
+#The title of this activity
+title: Realizar un modelado de amenazas básico
+#Describe the benefit that is achieved by implementing this activity
+benefit: Identificación de defectos de diseño arquitectónico en sus aplicaciones
+#A one sentence description of the activity
+shortDescription: Realice un modelado de amenazas basado en riesgos y con el mejor esfuerzo mediante la lluvia de ideas y los diagramas existentes con listas de verificación de amenazas simples.
+#A multi-paragraph description of the activity
+longDescription: |
+  El modelado de amenazas es una actividad estructurada para identificar, evaluar y administrar amenazas del sistema, fallas de diseño arquitectónico y mitigaciones de seguridad recomendadas. Por lo general, se realiza como parte de la fase de diseño o como parte de una evaluación de seguridad.
+
+  El modelado de amenazas es un ejercicio de equipo, que incluye propietarios de productos, arquitectos, campeones de seguridad y probadores de seguridad. En este nivel de madurez, exponga a los equipos y partes interesadas al modelado de amenazas para aumentar la conciencia de seguridad y crear una visión compartida sobre la seguridad del sistema.
+
+  En el nivel de madurez 1, realiza un modelado de amenazas ad-hoc para aplicaciones de alto riesgo y utiliza listas de verificación de amenazas simples, como STRIDE. Evite talleres prolongados y listas demasiado detalladas de amenazas poco relevantes. Realice el modelado de amenazas de forma iterativa para alinearse con paradigmas de desarrollo más iterativos. Si agrega nueva funcionalidad a una aplicación existente, mire solo las funciones recién agregadas en lugar de tratar de cubrir todo el alcance. Un buen punto de partida son los diagramas existentes que anota durante los talleres de discusión. Asegúrese siempre de conservar el resultado de una discusión sobre el modelado de amenazas para su uso posterior.
+
+  Su herramienta más importante para iniciar el modelado de amenazas es una pizarra, una pizarra inteligente o una hoja de papel. Apunte a la conciencia de seguridad, un proceso simple y resultados procesables que acuerde con su equipo.
+#Type Classification of the Document
+type: Activity

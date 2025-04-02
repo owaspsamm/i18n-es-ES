@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Data Protection, Level 1
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9c6bf45a97ae4149a44c4a5d97ea6a40
+#Link to the practice level that this activity belongs to
+level: d0a99f3db27e48aa9b2d6b58a9040f49
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c16a12399dc94cc889d7e9e66e0ae2a0
+#The title of this activity
+title: Organizar protecciones básicas de datos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entendimiento de la sensibilidad de los datos procesados con medidas rápidas derivadas
+#A one sentence description of the activity
+shortDescription: Implementar prácticas básicas de protección de datos
+#A multi-paragraph description of the activity
+longDescription: |
+  Entender los tipos y la sensibilidad de los datos almacenados y procesados por sus aplicaciones, y mantener la conciencia de la suerte de los datos procesados (por ejemplo, respaldos, compartiendo con socios externos). En este nivel de madurez, la información recolectada puede ser capturada en formas diferentes y diferentes lugares; se supone que no existe ningún catálogo de datos en toda la organización. Proteger y manejar todos los datos asociados a una aplicación determinada de acuerdo con los requisitos de protección aplicables a los datos más sensibles almacenados y procesados.
+
+  Implementar controles básicos, para prevenir la propagación de datos sensibles no saneados desde entornos de producción a entornos más bajos. Al asegurar que los datos de producción no saneados nunca se propagan a entornos inferiores (no de producción), usted puede centrar las políticas y actividades de protección de datos en la producción.
+#Type Classification of the Document
+type: Activity

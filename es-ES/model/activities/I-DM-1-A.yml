@@ -1,0 +1,51 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: a5b57fc5fa0441b7b23f599b506c5752
+#Link to the practice level that this activity belongs to
+level: 97a46a074fe849a1af2c2d2d3dd09ba5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 93dff7be5f954f8d87d24f4261002508
+#The title of this activity
+title: Rastrear defectos de seguridad centralmente
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia de los defectos de seguridad conocidos que afectan a aplicaciones particulares
+#A one sentence description of the activity
+shortDescription: Introducir un seguimiento estructurado de los defectos de seguridad y tomar decisiones con conocimiento de causa basadas en esta información.
+#A multi-paragraph description of the activity
+longDescription: |
+  Introducir una definición / comprensión común de un defecto de seguridad y definir las formas más comunes de identificarlos. Estas típicamente incluyen, pero no están limitados a:
+
+  * Valoraciones de amenazas
+  * Pruebas de penetración
+  * Salida de herramientas de análisis estático y dinámico
+  * Procesos de divulgación responsables o bug bounties
+
+  Fomentar una cultura de transparencia y evitar culpar a cualquier equipo por introducir o identificar defectos de seguridad. Registrar y rastrear todos los defectos de seguridad en una ubicación definida. Esta ubicación no necesariamente tiene que centralizarse para toda la organización, Sin embargo, asegúrese de que puede obtener una visión general de todos los defectos que afectan a una aplicación en particular en cualquier momento del tiempo. Definir y aplicar reglas de acceso para los defectos de seguridad rastreados para mitigar el riesgo de fugas y abuso de esta información.
+
+  Introducir al menos una clasificación cualitativa rudimentaria de los defectos de seguridad para que pueda priorizar los esfuerzos de corrección en consecuencia. Esforzarse por limitar la duplicación de la información y la presencia de falsos positivos para aumentar la fiabilidad del proceso.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Ingeniero de Seguridad
+  - Oficial de seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - 921ff24f0b9f4df9a5129aa2f8a4a570
+  - b3b20a75740c4880a21ad9aa0c1298c7
+#Type Classification of the Document
+type: Activity

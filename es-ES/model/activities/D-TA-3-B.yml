@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ed5a9c3dd7884c88918a45dc9d231c5d
+#Link to the practice level that this activity belongs to
+level: 21a59897dbeb4d7fa4603a0f24362c2b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e931a744c2864bef85a3fa75ce7e214f
+#The title of this activity
+title: Optimizar modelo de amenazas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Asegurar la mejora continua de las actividades de modelado de amenazas
+#A one sentence description of the activity
+shortDescription: Optimización y automatización continua de su metodología de modelado de amenazas.
+#A multi-paragraph description of the activity
+longDescription: |
+  El modelado de amenazas está integrado en tu SDLC y se ha convertido en parte de la cultura de seguridad del desarrollador. Se crean y mejoran patrones de riesgo reutilizables, que incluyen bibliotecas de amenazas relacionadas, defectos de diseño y mitigaciones de seguridad, basados en los modelos de amenaza de la organización. Usted regularmente (por ejemplo, anualmente) revise los modelos de amenaza existentes para verificar que no hay nuevas amenazas relevantes para sus aplicaciones.
+
+  Optimiza su metodología de modelado de amenazas. Captura las lecciones aprendidas de los modelos de amenaza y las utiliza para mejorar su metodología de modelado de amenazas. Usted revisa las categorías de amenazas relevantes para su organización y actualiza su metodología apropiadamente. De vez en cuando, usted evalúa la calidad de sus modelos de amenaza de forma independiente.
+
+  Automatiza partes de su proceso de modelado de amenazas con herramientas de modelado de amenazas. Usted integra sus herramientas de modelado de amenazas con otras herramientas de seguridad, como herramientas de verificación de seguridad y herramientas de seguimiento de riesgos. Usted considera prácticas de "modelado de amenazas como código" para integrar artefactos de modelado de amenazas con código de aplicación.
+#Type Classification of the Document
+type: Activity

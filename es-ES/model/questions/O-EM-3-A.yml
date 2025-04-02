@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 3156ab7b516e4550893427face9f86bc
+#Text of the question presented to the user
+text: '¿Supervisa y hace cumplir las líneas base de endurecimiento?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Realiza controles de cumplimiento periódicamente, preferiblemente mediante automatización
+  - Almacena los resultados de la evaluación de cumplimiento en un lugar accesible
+  - Sigue un proceso establecido para abordar las inconformidades reportadas
+  - Revise cada línea de base al menos una vez al año y la actualiza cuando sea necesario
+#Type Classification of the Document
+type: Pregunta

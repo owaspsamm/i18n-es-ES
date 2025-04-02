@@ -1,0 +1,12 @@
+#Unique identifier to refer to this stream
+id: 79754453c74b4143b20a57d0efdaab56
+#Official stream name
+name: Gestión de tecnología
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: Tecnologías y marcos de trabajo son las piedras angulares de cualquier solución de software. Las propiedades de seguridad de estas deben ser estudiadas para asegurar un nivel de seguridad adecuado y anticiparse a cualquier posible problema en el presente.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flujo

@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: d61764610f8741de894c1751f5c041ae
+#The title of this activity
+title: Implementar centros de excelencia
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mejores prácticas de seguridad específicas adaptadas a la organización
+#A one sentence description of the activity
+shortDescription: Desarrolle un centro de excelencia de software seguro que promueva el liderazgo concienzudo entre desarrolladores y arquitectos.
+#A multi-paragraph description of the activity
+longDescription: |
+  La organización implementa un centro de excelencia de codificación segura formal, con arquitectos y desarrolladores senior que representan las diferentes unidades de negocios y pilas de tecnología. El equipo tiene un estatuto oficial y define estándares y mejores prácticas para mejorar las prácticas de desarrollo de software. El objetivo es mitigar la forma en que la velocidad del cambio en la tecnología, los lenguajes de programación y los frameworks de desarrollo y las bibliotecas dificultan que los profesionales de seguridad de la información estén completamente informados de todos los matices técnicos que afectan la seguridad. Incluso los desarrolladores a menudo tienen dificultades para mantenerse al día con todos los cambios y nuevas herramientas destinadas a hacer que el desarrollo de software sea más rápido, mejor y más seguro.
+
+  Esto garantiza que todos los esfuerzos de programación actuales sigan las mejores prácticas de la industria y que los estándares de desarrollo e implementación de la organización incluyan todos los ajustes de configuración críticos. Ayuda a identificar, capacitar y respaldar a los "campeones de productos", responsables de ayudar a los diferentes equipos con la implementación de herramientas que automatizan, agilizan o mejoran varios aspectos del SDLC. Identifica equipos de desarrollo con niveles de madurez más altos dentro de su SDLC y las prácticas y herramientas que permiten estos logros, con el objetivo de replicarlos a otros equipos.
+
+  El grupo proporciona experiencia en la materia, ayudando a los equipos de seguridad de la información a evaluar herramientas y soluciones para mejorar la seguridad de las aplicaciones, asegurando que estas herramientas no solo sean útiles sino también compatibles con la forma en que los diferentes equipos desarrollan aplicaciones. Los equipos que buscan realizar cambios arquitectónicos significativos en su software consultan con este grupo para evitar afectar negativamente el ciclo de vida de SDLC o los controles de seguridad establecidos.
+#Type Classification of the Document
+type: Activity

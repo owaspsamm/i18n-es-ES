@@ -1,0 +1,41 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 7344f4b153314dd8965361d23772aef1
+#Link to the practice level that this activity belongs to
+level: e8de5ea176cc455bba89f0e2d1ea1f16
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 05073fb130c74143a12a6ba74a44c580
+#The title of this activity
+title: Personalizar el entrenamiento de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacitar al personal relevante de acuerdo con su rol específico
+#A one sentence description of the activity
+shortDescription: Ofrecer tecnología y orientación específica al rol, incluyendo matices de seguridad en cada idioma y plataforma
+#A multi-paragraph description of the activity
+longDescription: |
+  Lleve a cabo capacitación en seguridad dirigida por un instructor o CBT específica para los roles y tecnologías de la organización, comenzando con el equipo de desarrollo central. La organización personaliza la capacitación para gerentes de productos, desarrolladores de software, evaluadores y auditores de seguridad, según las necesidades técnicas de cada grupo.
+
+  - Los gerentes de producción se capacitan en temas relacionados con las funciones comerciales de SAMM y las prácticas de seguridad, con énfasis en los requisitos de seguridad, el modelado de amenazas y el seguimiento de defectos.
+  - Los desarrolladores se capacitan sobre los estándares de codificación y las mejores prácticas para las tecnologías con las que trabajan para garantizar que la capacitación beneficie directamente a la seguridad de las aplicaciones. Tienen un conocimiento técnico sólido de las 10 vulnerabilidades principales de OWASP, o debilidades similares relevantes para las tecnologías y marcos utilizados (por ejemplo, dispositivos móviles), y las estrategias de remediación más comunes para cada problema.
+  - Los probadores se capacitan en las diferentes herramientas de prueba y las mejores prácticas para las tecnologías utilizadas en la organización, y en las herramientas que identifican los defectos de seguridad.
+  - Los auditores de seguridad se capacitan sobre el ciclo de vida del desarrollo de software, los mecanismos de seguridad de las aplicaciones utilizados en la organización y el proceso para enviar defectos de seguridad para su corrección.
+  - Los campeones de seguridad se capacitan en temas de seguridad de varias fases del SDLC. Reciben la misma formación que los desarrolladores y evaluadores, pero también comprenden el modelado de amenazas y el diseño seguro, así como las herramientas y tecnologías de seguridad que se pueden integrar en el entorno de compilación.
+
+  Incluya todo el contenido de capacitación de las actividades del Nivel de madurez 1 de esta secuencia y contenido adicional específico de la función y específico de la tecnología. Elimina aspectos innecesarios del entrenamiento.
+
+  Idealmente, identifique un experto en la materia en cada tecnología para ayudarlo a adquirir o desarrollar el contenido de capacitación y actualizarlo regularmente. La capacitación consiste en demostraciones de explotación de vulnerabilidades utilizando aplicaciones debilitadas intencionalmente, como WebGoat o Juice Shop. Incluya los resultados de la penetración anterior como ejemplos de vulnerabilidades y estrategias de remediación implementadas. Solicite a un probador de penetración que lo ayude a desarrollar ejemplos de demostraciones de explotación de vulnerabilidades.
+
+  La capacitación es obligatoria para todos los empleados y contratistas involucrados en el desarrollo de software e incluye una aprobación auditable para demostrar el cumplimiento. Siempre que sea posible, la capacitación también debe incluir una prueba para garantizar la comprensión, no solo el cumplimiento. Actualice y brinde capacitación anualmente para incluir cambios en la organización, la tecnología y las tendencias. Encuesta a los participantes de la capacitación para evaluar la calidad y relevancia de la capacitación. Reúna sugerencias de otra información relevante para su trabajo o entornos.
+#Internal notes that might help the author
+notes: |
+  ** Referencias**
+  - [OWASP Top 10 Project](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
+  - [OWASP WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
+  - [OWASP Juice Shop Project](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+  - [OWASP Training Resources](https://www.owasp.org/index.php/OWASP_Training)
+#Type Classification of the Document
+type: Activity

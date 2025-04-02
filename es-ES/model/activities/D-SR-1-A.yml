@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 7fb68bc660774b9080963c17761529a2
+#Link to the practice level that this activity belongs to
+level: 3d035b6df77f4ee69577c9b4c9d64891
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 91086153b98b46928e36dd031b27bdc2
+#The title of this activity
+title: Identificar requerimientos de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entender los requisitos clave de seguridad durante el desarrollo
+#A one sentence description of the activity
+shortDescription: Los objetivos de seguridad de las aplicaciones de alto nivel se asignan a los requerimientos funcionales.
+#A multi-paragraph description of the activity
+longDescription: |
+  Realizar una revisión de los requisitos funcionales del proyecto de software. Identificar los requisitos de seguridad relevantes (esto es expectativas) para esta funcionalidad razonando sobre la confidencialidad, integridad o disponibilidad deseada del servicio o datos ofrecidos por el proyecto de software. Requisitos indica el objetivo (por ejemplo, “los datos personales para el proceso de registro deben ser transferidos y almacenados de forma segura”), pero no la medida real para alcanzar el objetivo (por ejemplo, “use TLSv1.2 para una transferencia segura”).
+
+  Al mismo tiempo, revise la funcionalidad desde la perspectiva del atacante para entender cómo podría ser utilizado mal. De esta forma usted puede identificar requisitos adicionales de protección para el proyecto de software a la mano.
+
+  Los objetivos de seguridad pueden relacionarse con la funcionalidad de seguridad específica que necesitas añadir a la aplicación (por ejemplo, “Identificar al usuario de la aplicación en todo momento”) o a la calidad y comportamiento generales de la aplicación (por ejemplo, “Garantizar que los datos personales estén debidamente protegidos en transito”), lo que no necesariamente conduce a nuevas funcionalidades. Siga las buenas prácticas para escribir los requisitos de seguridad. Hágalos específicos, compasibles, accionables, relevantes y con un límite de tiempo. Tenga cuidado de añadir requisitos demasiado generales para no relacionarse con la aplicación en cuestión (por ejemplo, la aplicación debe protegerse contra el Top 10 de OWASP). Aunque pueden ser ciertos, no añaden valor a la discusión.
+#Type Classification of the Document
+type: Activity

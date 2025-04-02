@@ -1,0 +1,31 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Patching and Updating, Level 3
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 1a7ad26d9e48411e95a63be79e1b90ea
+#Link to the practice level that this activity belongs to
+level: 1cb6e197ca8245eca65b0ecbdd784720
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: a573c126b3e345fba9d1d94c8158cf60
+#The title of this activity
+title: Hacer cumplir la administración de parches oportuna
+#Describe the benefit that is achieved by implementing this activity
+benefit: Visión clara del estado del parche de los componentes para evitar no conformidades
+#A one sentence description of the activity
+shortDescription: Supervise activamente el estado de la actualización y gestione los parches faltantes como defectos de seguridad. Obtenga de forma proactiva la información de vulnerabilidad y actualización de los componentes.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desarrolle y utilice paneles/informes de gestión para realizar un seguimiento del cumplimiento de los procesos de parcheo y SLA en toda la cartera. Asegúrese de que la administración de dependencias y los procesos de empaquetado de aplicaciones puedan admitir la aplicación de parches a nivel de componente en cualquier momento, para cumplir con los SLA requeridos.
+
+  Trate las actualizaciones perdidas como defectos del producto relacionados con la seguridad y gestione su clasificación y corrección de acuerdo con su práctica establecida de Gestión de defectos.
+
+  No confíe en las notificaciones de rutina de los proveedores de componentes para conocer las vulnerabilidades y los parches asociados. Monitorear una variedad de fuentes de inteligencia de amenazas externas, para conocer las vulnerabilidades de día cero; manejar los que afectan a sus aplicaciones como problemas de gestión de riesgos.
+#References to other activities that are related to this one
+relatedActivities:
+  - 93dff7be5f954f8d87d24f4261002508
+  - 2bf0e192a904444b8a2f38c33256e80a
+  - 0082a76b1a3744d9ab0443bd2168e13d
+#Type Classification of the Document
+type: Activity

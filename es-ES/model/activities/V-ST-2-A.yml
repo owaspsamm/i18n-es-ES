@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 102fdab651834273abd67a3ec27aab05
+#Link to the practice level that this activity belongs to
+level: 6291462e1894467d807b913ef7da4beb
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fb6f258a2e424ee9a919341758222a7a
+#The title of this activity
+title: Desarrollar casos de prueba de seguridad específicos de la aplicación
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección de vulnerabilidades específicas de la organización fáciles de encontrar
+#A one sentence description of the activity
+shortDescription: Emplear automatización de pruebas de seguridad específicas de la aplicación
+#A multi-paragraph description of the activity
+longDescription: |
+  Aumente la eficacia de las herramientas de pruebas de seguridad automatizadas ajustándolas y personalizándolas para sus pilas tecnológicas y aplicaciones concretas. Las herramientas de pruebas de seguridad automatizadas tienen dos características importantes: Su tasa de falsos positivos, es decir, los errores y vulnerabilidades inexistentes que reportan de manera incorrecta; su tasa de falsos negativos, es decir, los errores y vulnerabilidades reales que no fueron detectados. A medida que maduras en el uso de herramientas de pruebas automatizadas, te esfuerzas por minimizar sus tasas de falsos positivos y falsos negativos. Esto maximiza el tiempo que los equipos de desarrollo dedican a revisar y abordar problemas de seguridad reales en sus aplicaciones, y reduce la fricción típicamente asociada con el uso de herramientas de análisis de seguridad automatizadas no ajustadas.
+
+  Comience por desactivar la compatibilidad de las herramientas con las tecnologías y los marcos de trabajo que no utilice y diríjase a versiones específicas siempre que sea posible. Esto aumentará la velocidad de ejecución y reducirá el número de resultados falsos notificados. Apóyese en campeones de herramientas de seguridad o en equipos de seguridad compartidos para poner a prueba las herramientas en coordinación con un grupo selecto de equipos de desarrollo motivados. De este modo se identificarán los posibles falsos positivos que deben ignorarse o eliminarse de los resultados de las herramientas. Identificar problemas de seguridad, antipatrones específicos y dotarlas de este conocimiento a la mejor herramienta para que tenga la capacidad de detectarlos.
+
+  Aproveche las funciones disponibles de la herramienta para tener en cuenta los estilos de codificación específicos de la aplicación y la organización, así como las normas técnicas. Muchas herramientas de análisis estático automatizado permiten a los usuarios escribir sus propias reglas o personalizar las reglas de análisis predeterminadas para las interfaces de software específicas del proyecto bajo prueba, con el fin de mejorar la precisión y la profundidad de la cobertura. Por ejemplo, la entrada potencialmente peligrosa (también conocida como contaminada) puede marcarse como segura después de pasar por un método de sanitización personalizado.
+
+  Estratégicamente, es mejor detectar de forma fiable un subconjunto limitado de problemas de seguridad mediante herramientas automatizadas y ampliar la cobertura de forma gradual que intentar detectar todos los problemas conocidos inmediatamente. Una vez que las herramientas han sido suficientemente afinadas, pueden ponerse a disposición de un mayor número de equipos de desarrollo. Es importante supervisar continuamente su eficacia percibida entre los equipos de desarrollo. En formas más avanzadas, pueden adoptarse técnicas de aprendizaje automático para identificar y filtrar automáticamente los posibles falsos positivos a escala.
+#Type Classification of the Document
+type: Activity

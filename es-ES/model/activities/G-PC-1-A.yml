@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: c404aa4f711e4f4e9e71faea22f7fb5c
+#Link to the practice level that this activity belongs to
+level: 437d447b3f11427592e938dbde53c7da
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 6e7a618abd564df5bb784ca54893bbee
+#The title of this activity
+title: Defina políticas y estándares
+#Describe the benefit that is achieved by implementing this activity
+benefit: Expectativas claras del nivel mínimo de seguridad dentro de la organización
+#A one sentence description of the activity
+shortDescription: Determine una línea de base de seguridad que resuma las políticas y estándares de la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desarrolle una biblioteca de políticas y estándares para gobernar todos los aspectos del desarrollo de software en la organización. Las políticas y los estándares se basan en los estándares industriales existentes y son apropiados para la industria de la organización. Debido a la gama completa de limitaciones y mejores prácticas específicas de la tecnología, revise los estándares propuestos con los diversos equipos de producción. Con el objetivo general de aumentar la seguridad de las aplicaciones y la infraestructura informática, invite a los equipos de productos a ofrecer comentarios sobre cualquier aspecto de los estándares que no sería factible o rentable de implementar, así como oportunidades para que los estándares vayan más allá con poco esfuerzo en los equipos de producción.
+
+  Para las políticas, enfatice las definiciones de alto nivel y los aspectos de la seguridad de las aplicaciones que no dependen de una tecnología o un entorno de alojamiento específicos. Centrarse en objetivos más amplios de la organización para proteger la integridad de su entorno informático, la seguridad y privacidad de los datos y la madurez de los ciclos de vida del desarrollo de software. Para organizaciones más grandes, las políticas pueden calificar requisitos específicos según la clasificación de datos o la funcionalidad de la aplicación, pero no deben ser lo suficientemente detalladas como para ofrecer una guía específica de tecnología.
+
+  Para los estándares, incorpore los requisitos establecidos por las políticas y céntrese en la guía de implementación específica de la tecnología destinada a capturar y aprovechar las características de seguridad de los diferentes lenguajes de programación y marcos. Los estándares requieren aportaciones de desarrolladores y arquitectos senior considerados expertos en diversas tecnologías en uso por la organización. Créelos en un formato que permita actualizaciones periódicas. Etiquete o etiquete los requisitos individuales con la política o con un requisito de un tercero, para que el mantenimiento y las auditorías sean más fáciles y eficientes.
+#Type Classification of the Document
+type: Activity

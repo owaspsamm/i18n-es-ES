@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 4e54705272fa4f1f9977b1f9011f585d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ef0b56870b734b13868697017a9b605e
+#The title of this activity
+title: Identificar las ganas por el riesgo de la organización
+#Describe the benefit that is achieved by implementing this activity
+benefit: Comprensión conjunta de la postura respecto a la seguridad de su organización
+#A one sentence description of the activity
+shortDescription: Identificar los factores de la organización y su relación con la tolerancia al riesgo de la organización.
+#A multi-paragraph description of the activity
+longDescription: |
+  Comprensión, basándose en la exposición al riesgo de las aplicaciones, qué amenazas existen o pueden existir, así como el grado de tolerancia de los directivos a estos riesgos. Esta comprensión es un componente clave para determinar las prioridades de garantía de seguridad del software. Para determinar estas amenazas, hay que entrevistar a los propietarios de la empresa y a las partes interesadas y documentar los factores específicos de los sectores en los que opera la organización, así como los factores específicos de la organización. La información recopilada incluye los peores escenarios que podrían afectar a la organización, así como las oportunidades en las que un ciclo de vida de desarrollo de software optimizado y aplicaciones más seguras podrían proporcionar un diferenciador de mercado o crear oportunidades adicionales.
+
+  La información recopilada proporciona una base para que la organización desarrolle y promueva su programa de seguridad de aplicaciones. Los elementos del programa se priorizan para abordar las amenazas y oportunidades más importantes para la organización. La línea base se divide en factores de riesgo e incentivos vinculados directamente a las prioridades de la organización y se utiliza para ayudar a construir un perfil de riesgo de cada aplicación desarrollada a medida, documentando cómo pueden afectar a la organización si se ven comprometidas.
+
+  La línea de base y los factores de riesgo individuales deben publicarse y ponerse a disposición de los equipos de desarrollo de aplicaciones para garantizar un proceso más transparente de creación de perfiles de riesgo de las aplicaciones y la incorporación de las prioridades de la organización en el programa. Además, estas metas deben proporcionar un conjunto de objetivos que deben utilizarse para garantizar que todas las mejoras del programa de seguridad de las aplicaciones proporcionan un apoyo directo a las necesidades actuales y futuras de la organización.
+#Type Classification of the Document
+type: Activity

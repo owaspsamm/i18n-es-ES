@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 93dff7be5f954f8d87d24f4261002508
+#One-sentence description of the criterium
+text: '¿Segues todos los defectos de seguridad conocidos en ubicaciones accesibles?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Puedes obtener fácilmente un resumen de todos los defectos de seguridad que afecten a una aplicación
+  - Usted tiene al menos un esquema de clasificación rudimentaria en marcha
+  - El proceso incluye una estrategia para manejar falsos positivos y entradas duplicadas
+  - El sistema de gestión de defectos cubre los defectos de diversas fuentes y actividades
+#Type Classification of the Document
+type: Pregunta

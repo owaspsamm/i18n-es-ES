@@ -1,0 +1,27 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 79754453c74b4143b20a57d0efdaab56
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27cdd2a336a44e56a42632c7a78fcf4f
+#The title of this activity
+title: Identificar herramientas y tecnologías
+#Describe the benefit that is achieved by implementing this activity
+benefit: Transparencia de las tecnologías que introducen riesgos de seguridad
+#A one sentence description of the activity
+shortDescription: Obtener tecnologías, frameworks e integraciones dentro de la solución general para identificar riesgos.
+#A multi-paragraph description of the activity
+longDescription: |
+  Las personas a menudo toman el camino de menor resistencia al desarrollar, implementar u operar una solución de software. A menudo se incluyen nuevas tecnologías cuando pueden facilitar o acelerar el esfuerzo o permitir que la solución se amplíe mejor. Sin embargo, estas nuevas tecnologías podrían introducir nuevos riesgos para la organización que necesita administrar.
+
+  Identifique las tecnologías, marcos, herramientas e integraciones más importantes que se utilizan para cada aplicación. Utilice el conocimiento del arquitecto para estudiar el desarrollo y el entorno operativo, así como los artefactos. Luego, evalúelos por su calidad de seguridad y obtenga hallazgos importantes para su gestión.
+#References to other activities that are prerequesites to implement this one.
+relatedActivities:
+  - e17d573510904f65a1fe6040b56ad0b1
+#Type Classification of the Document
+type: Activity

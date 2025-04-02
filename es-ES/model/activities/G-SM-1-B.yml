@@ -1,0 +1,37 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 4e54705272fa4f1f9977b1f9011f585d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 0082a76b1a3744d9ab0443bd2168e13d
+#The title of this activity
+title: Definir las métricas de seguridad básicas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Información básica sobre la eficacia y eficiencia de su programa de AppSec
+#A one sentence description of the activity
+shortDescription: Defina métricas con conocimiento de la efectividad y eficiencia del Programa de seguridad de aplicaciones.
+#A multi-paragraph description of the activity
+longDescription: |
+  Definir y documentar los parámetros para evaluar la eficacia y la eficiencia del programa de seguridad de aplicaciones. De este modo, las mejoras son medibles y se pueden utilizar para garantizar el apoyo y el financiamiento del programa en el futuro. Teniendo en cuenta lo dinámico que es la mayoría de los ambientes de desarrollo, las métricas deben estar conformadas por mediciones en las siguientes categorías
+
+  * Las métricas de "esfuerzo" miden el esfuerzo invertido en seguridad. Por ejemplo, las horas de capacitación, el tiempo dedicado a la revisión del código y el número de aplicaciones analizadas en busca de vulnerabilidades.
+  * Las métricas de "resultado" miden los resultados de los esfuerzos de seguridad. Por ejemplo, el número de parches con defectos de seguridad pendientes y el número de incidentes de seguridad relacionados con las vulnerabilidades de las aplicaciones.
+  * Las métricas de "ambiente" miden el ambiente en el que tienen lugar los esfuerzos de seguridad. Los ejemplos incluyen el número de aplicaciones o líneas de código como medida de dificultad o complejidad.
+
+  Cada métrica por sí misma es útil para un propósito específico, pero una combinación de dos o tres métricas juntas ayuda a explicar los picos en las tendencias de las métricas. Por ejemplo, un pico en el número total de vulnerabilidades puede deberse a que la organización haya introducido nuevas aplicaciones que no han sido expuestas previamente a los mecanismos de seguridad de las aplicaciones implementados. Por otro lado, un aumento en las métricas del ambiente sin un aumento correspondiente en el esfuerzo o el resultado podría ser un indicador de un programa de seguridad maduro y eficiente.
+
+  A la hora de identificar las métricas, siempre se recomienda mantener las métricas que cumplen varios criterios
+
+  * Medición consistente
+  * Bajo costo de recopilación
+  * Expresado como un número cardinal o un porcentaje
+  * Expresado como una unidad de medida
+
+  Documentar las métricas e incluir descripciones de los mejores métodos y los más eficientes para la recopilación de datos, así como los métodos recomendados para combinar las medidas individuales en métricas significativas. Por ejemplo, un número de aplicaciones y un número total de defectos de todas las aplicaciones pueden no ser útiles por sí mismos, pero cuando se combinan como el número de defectos pendientes de gravedad alta por aplicación, proporcionan una métrica de mayor utilidad.
+#Type Classification of the Document
+type: Activity

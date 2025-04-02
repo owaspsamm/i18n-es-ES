@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 5d5e3d9beab9498ca1ce66d3a53a81c6
+#Link to the answer set that contains the potential answers for this question
+answerset: d096060a4d864133afcbdd1397b95827
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: dffdd9659e6243d7bcbcbc0dff4429fc
+#One-sentence description of the criterium
+text: '¿Cumplen los proveedores las responsabilidades de seguridad y las medidas de calidad de los acuerdos de nivel de servicio definidos por la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Discutir los requisitos de seguridad con el proveedor al crear acuerdos con éste
+  - Los acuerdos con los proveedores proporcionan orientaciones específicas sobre la corrección de los defectos de seguridad en un plazo acordado
+  - La organización dispone de un modelo de acuerdo de responsabilidades y niveles de servicio para los principales procesos de seguridad de los proveedores
+  - Usted mide indicadores clave de rendimiento
+#Type Classification of the Document
+type: Pregunta

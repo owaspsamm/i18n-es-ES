@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: b7f1d18fbe724a148f039ce036de98ef
+#Text of the question presented to the user
+text: '¿Sigue un proceso establecido para actualizar los componentes de sus pilas de tecnología?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - El proceso incluye información del proveedor para parches de terceros
+  - 
+    - e incluye pasos apropiados de mitigación de riesgo
+  - El proceso incluye orientación para priorizar las actualizaciones de componentes
+#Type Classification of the Document
+type: Pregunta

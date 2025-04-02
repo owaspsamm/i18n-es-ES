@@ -1,0 +1,15 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 9951bda24b624cc684a2851f9d56c5d8
+#One-sentence description of the criterium
+text: '¿Escribe y ejecuta constantemente scripts de prueba para verificar la funcionalidad de los requisitos de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted adapta las pruebas a cada aplicación y afirma la funcionalidad de seguridad esperada
+  - Captura los resultados de la prueba como una condición de paso o fallo
+  - Las pruebas utilizan un framework estandarizado o DSL (Domain Specific Language)

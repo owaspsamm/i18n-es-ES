@@ -1,0 +1,17 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 2bf0e192a904444b8a2f38c33256e80a
+#One-sentence description of the criterium
+text: '¿Mantiene una visión general del estado de los defectos de seguridad en toda la organización?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Se aplica un único esquema de severidad a todos los defectos en toda la organización
+  - El esquema incluye SLAs (acuerdos de nivel de servicio) para corregir severidades de clase particular
+  - Usted regularmente reporta el cumplimiento de SLAs
+#Type Classification of the Document
+type: Pregunta

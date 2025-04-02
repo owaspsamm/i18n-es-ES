@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9951bda24b624cc684a2851f9d56c5d8
+#The title of this activity
+title: Definir y ejecutar casos de prueba de seguridad a partir de requisitos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integración de los requisitos de seguridad en escenarios de prueba
+#A one sentence description of the activity
+shortDescription: Deducir casos de prueba a partir de requerimientos de seguridad
+#A multi-paragraph description of the activity
+longDescription: |
+  A partir de los requisitos de seguridad, identifique e implemente un conjunto de casos de prueba de seguridad para verificar que el software funcione correctamente. Para tener un programa de prueba exitoso, debe conocer los objetivos de prueba, especificados por los requisitos de seguridad.
+
+  Derivar casos de prueba de seguridad para las aplicaciones en el alcance a partir de los requisitos de seguridad creados como parte de la práctica de seguridad SAMM "Requisitos de seguridad". Para validar los requisitos de seguridad con pruebas de seguridad, los requisitos de seguridad se basan en funciones y destacan la funcionalidad esperada (el qué) e, implícitamente, la implementación (el cómo). Estos requisitos también se denominan "requisitos positivos", ya que establecen la funcionalidad esperada que se puede validar mediante pruebas de seguridad. Los ejemplos de requisitos positivos incluyen "la aplicación bloqueará al usuario después de seis intentos fallidos de inicio de sesión" o "las contraseñas deben tener un mínimo de seis caracteres alfanuméricos". La validación de requisitos positivos consiste en afirmar la funcionalidad esperada. Puede hacerlo recreando las condiciones de prueba y ejecutando la prueba de acuerdo con entradas predefinidas. Muestre los resultados como una condición de suspenso o aprobado.
+
+  A menudo, es más eficaz utilizar el tiempo del equipo del proyecto para crear casos de prueba específicos de la aplicación y recursos disponibles públicamente o bases de conocimientos adquiridas para seleccionar casos de prueba generales aplicables para la seguridad. El personal relevante de desarrollo, seguridad y control de calidad revisa los casos de prueba candidatos para determinar su aplicabilidad, eficacia y viabilidad. Derivar los casos de prueba durante la fase de requisitos y/o diseño de la funcionalidad. Probar los requisitos de seguridad es parte de las pruebas funcionales del software.
+#Type Classification of the Document
+type: Activity

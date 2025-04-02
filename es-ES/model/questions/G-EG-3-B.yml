@@ -1,0 +1,27 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: a3720e84d6a24a8ba235c25ce6afc5c7
+#Link to the answer set that contains the potential answers for this question
+answerset: 3d4c5c80278b4a58b80d559085804446
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 871a30e6aaef4905a3d3302ceea808f4
+#One-sentence description of the criterium
+text: '¿Hay un portal centralizado en el que desarrolladores y profesionales de la seguridad de aplicaciones de diferentes equipos y unidades de negocio sean capaces de comunicar y compartir información?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - unidades
+  - 
+    - actualizaciones de herramientas, cambios estándar arquitectónicos y otros anuncios relacionados
+  - 
+    - de la información de seguridad de la aplicación específica de la organización
+  - Todo el contenido se considera persistente y puede ser buscado
+  - El portal proporciona acceso a métricas de seguridad específicas de la aplicación
+#Type Classification of the Document
+type: Pregunta

@@ -1,0 +1,26 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 7fb68bc660774b9080963c17761529a2
+#Link to the practice level that this activity belongs to
+level: f8b6eebc0662477f9286aa4f6068e364
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ce13df2e0dfb455588bf75135f1a718e
+#The title of this activity
+title: Desarrollar un framework de requerimientos de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Manejo eficiente y eficaz de los requerimientos de seguridad en su organización
+#A one sentence description of the activity
+shortDescription: Cree un framework de requisitos para que lo utilicen los equipos de producción.
+#A multi-paragraph description of the activity
+longDescription: |
+  Configure un framework de requerimientos de seguridad para ayudar a los proyectos a obtener un conjunto de requisitos completo y apropiado para su proyecto. Este framework considera los diferentes tipos de requerimientos y fuentes de requisitos. Debe adaptarse a los hábitos y la cultura de la organización, y proporcionar una metodología y una guía eficaces en la obtención y formación de requisitos.
+
+  El framework ayuda a los equipos de proyectos a aumentar la eficiencia y la eficacia de la ingeniería de requisitos. Puede proporcionar una categorización de requisitos comunes y una serie de requisitos reutilizables. Recuerde que, si bien la copia irreflexiva es ineficaz, el hecho de tener posibles requisitos relevantes sobre los que razonar suele ser productivo.
+
+  El framework también proporciona una guía clara sobre la calidad de los requisitos y formaliza cómo describirlos. Para las historias de usuario, por ejemplo, una guía concreta puede explicar qué describir en la definición de hecho, la definición de listo, la descripción de la historia y los criterios de aceptación.
+#Type Classification of the Document
+type: Activity

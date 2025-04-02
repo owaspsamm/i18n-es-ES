@@ -1,0 +1,17 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 3ae763a70854421984dfa70980e1bf68
+#One-sentence description of the criterium
+text: '¿Revisa la arquitectura de aplicaciones para mitigaciones de amenazas típicas sobre una base ad hoc?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted tiene un acuerdo sobre el modelo de la arquitectura de software general
+  - El personal experto en seguridad lleva a cabo la revisión
+  - Se tienen en cuenta diferentes tipos de amenazas, incluidas las internas y las relacionadas con los datos
+#Type Classification of the Document
+type: Pregunta

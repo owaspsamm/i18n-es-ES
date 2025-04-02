@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: bf536a9305134a769adbd414652054ee
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 70d6044a223b402c8e2b6f9d1e936641
+#One-sentence description of the criterium
+text: '¿Está descrito formalmente su proceso de construcción completo?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Tienes suficiente información para recrear los procesos de implementación
+  - Su documentación de construcción está actualizada
+  - Su documentación de construcción se almacena en una ubicación accesible
+  - Las sumas de comprobación de artefacto producidas se crean durante la construcción para apoyar la verificación posterior
+  - Endurece (hardening) las herramientas que se utilizan en el proceso de construcción
+#Type Classification of the Document
+type: Pregunta

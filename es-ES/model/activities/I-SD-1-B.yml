@@ -1,0 +1,46 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9a5f26d77f204467bdda7ffa09109d73
+#Link to the practice level that this activity belongs to
+level: 5015427608de428cba3c324772fb4191
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 77a5f467ffe140e2a2839bb522e82c4e
+#The title of this activity
+title: Proteger secretos de la aplicación en la configuración y el código
+#Describe the benefit that is achieved by implementing this activity
+benefit: Acceso definido y limitado a tus secretos de producción
+#A one sentence description of the activity
+shortDescription: Introducir medidas de protección básicas para limitar el acceso a sus secretos de producción.
+#A multi-paragraph description of the activity
+longDescription: |
+  Los desarrolladores no deben tener acceso a secretos o credenciales para entornos de producción. Disponer de un mecanismo para proteger adecuadamente los secretos de producción, por ejemplo, (i) haciendo que personas específicas los agreguen a los archivos de configuración relevantes en el momento de la implementación (el principio de separación de funciones) o (ii) encriptando los secretos de producción contenidos en los archivos de configuración por adelantado.
+
+  No utilice secretos de producción en archivos de configuración para entornos de desarrollo o prueba, ya que dichos entornos pueden tener una postura de seguridad significativamente más baja. Del mismo modo, no guarde secretos desprotegidos en archivos de configuración almacenados en repositorios de código.
+
+  Almacene credenciales confidenciales y secretos para sistemas de producción con cifrado en reposo en todo momento. Considere usar una herramienta especialmente diseñada para esto. Maneje la administración de claves con cuidado para que solo el personal responsable de las implementaciones de producción pueda acceder a estos datos.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Desarrollador
+  - Administrador
+  - Ingeniero de Seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - 994bcac2bb7c4cc59a0faa365a0b58a0
+#Type Classification of the Document
+type: Activity

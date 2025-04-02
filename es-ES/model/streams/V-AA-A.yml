@@ -1,0 +1,13 @@
+#Unique identifier to refer to this stream
+id: 77ca4b5e7ebc42558109829dffc2b80d
+#Official stream name
+name: Validación de Arquitectura
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: |
+  La validación de la arquitectura confirma la seguridad del software y de la arquitectura de apoyo identificando los componentes de la arquitectura de aplicaciones e infraestructuras y verificando que cumplen los objetivos y requisitos de seguridad.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Flujo

@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: b7487370a07543cbb02ddb60c055d92f
+#Link to the practice level that this activity belongs to
+level: 39bc5d271fae4ea8ba53db7de7b2712c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 3ae763a70854421984dfa70980e1bf68
+#The title of this activity
+title: Evaluar la arquitectura de amenazas típicas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Asegura que la arquitectura protege contra las amenazas de seguridad típicas.
+#A one sentence description of the activity
+shortDescription: Revisión ad-hoc de la arquitectura para detectar amenazas de seguridad no mitigadas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Revise la arquitectura en busca de amenazas de seguridad típicas. El personal técnico experto en seguridad lleva a cabo este análisis con aportes de arquitectos, desarrolladores, gerentes y propietarios de negocios, según sea necesario, para garantizar que la arquitectura aborde todas las amenazas comunes que los equipos de desarrollo que carecen de conocimientos especializados en seguridad pueden haber pasado por alto.
+
+  Las amenazas típicas en una arquitectura pueden estar relacionadas con suposiciones incorrectas o una dependencia excesiva en el suministro de mecanismos de seguridad como autenticación, autorización, administración de derechos y usuarios, comunicación segura, protección de datos, administración de claves y administración de registros. Las amenazas, por otro lado, también pueden relacionarse con limitaciones conocidas o problemas en los componentes o marcos tecnológicos que son parte de la solución y para los cuales se ha implementado una mitigación insuficiente.
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: eba4b86963f44fa59b0b9389a1cfc59b
+#One-sentence description of the criterium
+text: '¿Revisa regularmente los mecanismos de seguridad de su arquitectura?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Revisas el cumplimiento de los requisitos internos y externos
+  - Revisas sistemáticamente cada interfaz del sistema
+  - Utiliza un método de revisión formalizado y una validación estructurada
+  - Registra los mecanismos de seguridad que faltan como defectos
+#Type Classification of the Document
+type: Pregunta

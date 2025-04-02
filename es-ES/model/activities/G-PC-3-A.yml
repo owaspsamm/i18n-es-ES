@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: c404aa4f711e4f4e9e71faea22f7fb5c
+#Link to the practice level that this activity belongs to
+level: 61ae1e4268b24d7986805658c89b5e54
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fe7afe5fc04742bcbe476d4ba37d8091
+#The title of this activity
+title: Medición del cumplimiento con políticas y estándares
+#Describe the benefit that is achieved by implementing this activity
+benefit: Entendimiento del cumplimiento de las políticas y estándares de la organización
+#A one sentence description of the activity
+shortDescription: Medir e informar sobre el estado de la adherencia de cada aplicación a las políticas y estándares.
+#A multi-paragraph description of the activity
+longDescription: |
+  Desarrolle un programa para medir el cumplimiento de cada aplicación con las políticas y estándares existentes. Los requisitos obligatorios deben estar motivados e informados de manera consistente en todos los equipos. Siempre que sea posible, vincule el estado de cumplimiento con pruebas automatizadas e informe con cada versión. Los informes de cumplimiento incluyen la versión de las políticas y los estándares y los factores de cobertura del código adecuados.
+
+  Anime a los equipos que no cumplen a revisar los recursos disponibles, como los requisitos de seguridad y los scripts de prueba, para asegurarse de que el incumplimiento no sea el resultado de una guía inadecuada. Reenvíe los problemas que resulten de una guía insuficiente a los equipos responsables de publicar los requisitos de la aplicación y los scripts de prueba, para incluirlos en las versiones futuras. Escale los problemas resultantes de la incapacidad de cumplir con las políticas y estándares de los equipos que manejan los riesgos de seguridad de las aplicaciones.
+#Type Classification of the Document
+type: Activity

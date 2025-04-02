@@ -1,0 +1,13 @@
+#Unique identifier to refer to this stream
+id: 390bec725b8344a289d5386026925947
+#Official stream name
+name: Respuesta de incidentes
+#Stream letter, A or B
+letter: B
+#Multi-paragraph explanation of the stream
+description: |
+  La Respuesta a Incidentes comienza en el momento en que usted reconoce y verifica la existencia de un incidente de seguridad. Su objetivo es actuar de forma coordinada y eficaz para limitar al máximo los daños ulteriores. Las actividades de esta corriente se centran en la capacidad de la organización para responder adecuada y eficazmente a los incidentes de seguridad notificados.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 2
+#Type Classification of the Document
+type: Flujo

@@ -1,0 +1,17 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: fed0d75c064c4a979a5b7b98adfdedbf
+#One-sentence description of the criterium
+text: '¿Practica una gestión adecuada de los ciclos de vida para los secretos de la aplicación?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Genera y sincroniza secretos utilizando una solución probada
+  - Los secretos son diferentes entre diferentes instancias de aplicación
+  - Los secretos se actualizan regularmente
+#Type Classification of the Document
+type: Pregunta

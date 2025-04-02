@@ -1,0 +1,13 @@
+#Unique identifier to refer to this stream
+id: ff8a6a08dc684f38ab74b9db9584f0a5
+#Official stream name
+name: Detección de incidentes
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: |
+  La detección de incidentes se refiere al proceso de determinar que un evento identificado relevante para la seguridad es, de hecho, un incidente de seguridad.Las actividades de esta corriente se centran en la capacidad de la organización para identificar incidentes de seguridad cuando se producen y para iniciar las actividades adecuadas de respuesta a los incidentes.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Flujo

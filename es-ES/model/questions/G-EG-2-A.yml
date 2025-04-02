@@ -1,0 +1,25 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 05073fb130c74143a12a6ba74a44c580
+#Link to the answer set that contains the potential answers for this question
+answerset: f96770095fab4afbb27949c2242e47c2
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 1962ef9fe4cf488a8d10ccbcdc8bb926
+#One-sentence description of the criterium
+text: '¿El entrenamiento está personalizado para roles individuales como desarrolladores, testers o campeones de seguridad?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - técnicas y demostraciones
+  - La formación es obligatoria para todos los empleados y contratistas
+  - La formación incluye aportaciones de los expertos en la materia y de los alumnos
+  - La formación incluye demostraciones de herramientas y técnicas desarrolladas internamente
+  - Utiliza la retroalimentación para mejorar y hacer más pertinente la formación futura
+#Type Classification of the Document
+type: Pregunta

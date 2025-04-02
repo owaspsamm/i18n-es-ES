@@ -1,0 +1,45 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 9ec70d6f7ddb4cb6b37928f9994c6049
+#Link to the practice level that this activity belongs to
+level: 3e89d1fa6cba4516a3ec446faaab5b84
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 1f3a9306778f4539a437d9f19232cda7
+#The title of this activity
+title: Automatizar despliegue e integrar comprobaciones de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Proceso de despliegue eficiente con herramientas de seguridad integradas
+#A one sentence description of the activity
+shortDescription: Automatiza el proceso de implementación en todas las etapas e introduce pruebas de verificación de seguridad sensatas.
+#A multi-paragraph description of the activity
+longDescription: |
+  Automatice el proceso de implementación para cubrir varias etapas, de modo que no se necesiten pasos de configuración manual y se elimine el riesgo de errores humanos aislados. Asegúrese y verifique que la implementación sea consistente en todas las etapas.
+
+  Integre controles de seguridad automatizados en su proceso de implementación, por ejemplo, utilizando pruebas de seguridad de análisis dinámico (DAST) y herramientas de escaneo de vulnerabilidades. Además, verifique la integridad de los artefactos implementados cuando esto tenga sentido. Registre los resultados de estas pruebas de forma centralizada y realice las acciones necesarias. Asegúrese de que, en caso de que se detecten defectos, se notifique automáticamente al personal correspondiente. En caso de que se identifiquen problemas que excedan la criticidad predefinida, detenga o invierta la implementación, ya sea automáticamente o introduzca un flujo de trabajo de aprobación manual por separado para que se registre esta decisión, que contenga una explicación de la excepción.
+
+  Contabilizar y auditar todas las implementaciones en todas las etapas. Disponga de un sistema para registrar cada implementación, incluida la información sobre quién la llevó a cabo la versión de software que se implementó y las variables relevantes específicas de la implementación.
+#The output of this particular activity
+results:
+  - result1
+  - result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+  - metric1
+  - metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+  - Administrador
+  - Ingeniero de Seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequesites to implement this one.
+relatedActivites:
+  - fb6f258a2e424ee9a919341758222a7a
+#Type Classification of the Document
+type: Activity

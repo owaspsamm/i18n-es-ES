@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: a11da5bb4d3c475d9e9c53b104032e65
+#One-sentence description of the criterium
+text: '¿Actualiza regularmente sus arquitecturas de referencia basándose en los hallazgos de evaluación de arquitectura?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Usted evalúa sus arquitecturas de una manera estandarizada y documentada
+  - Utiliza los hallazgos recurrentes para activar una revisión de las arquitecturas de referencia
+  - Usted revisa de forma independiente la calidad de las evaluaciones de arquitectura de forma ad hoc
+  - Utiliza las actualizaciones de la arquitectura de referencia para activar las revisiones de las soluciones relevantes compartidas, en función de los riesgos
+#Type Classification of the Document
+type: Pregunta

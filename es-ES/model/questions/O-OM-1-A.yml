@@ -1,0 +1,18 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: c16a12399dc94cc889d7e9e66e0ae2a0
+#Text of the question presented to the user
+text: '¿Protege y maneja la información de acuerdo con los requisitos de protección de los datos almacenados y procesados en cada aplicación?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Usted conoce los elementos de datos procesados y almacenados por cada aplicación
+  - Usted conoce el tipo y el nivel de sensibilidad de cada elemento de datos identificado
+  - 
+    - a entornos bajos
+#Type Classification of the Document
+type: Pregunta

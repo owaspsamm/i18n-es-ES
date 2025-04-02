@@ -1,0 +1,28 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description - Incident Detection, Level 2
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: ff8a6a08dc684f38ab74b9db9584f0a5
+#Link to the practice level that this activity belongs to
+level: 439406325e6645519c149da3e05a7d9d
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 5bcb52375a0f4085bb12266c9ecfa84d
+#The title of this activity
+title: Definir un proceso de detección de incidentes
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección oportuna y consistente de incidentes de seguridad esperados
+#A one sentence description of the activity
+shortDescription: Siga un proceso establecido y bien documentado para la detección de incidentes, con énfasis en la evaluación de registros automatizada.
+#A multi-paragraph description of the activity
+longDescription: |
+  Establezca un propietario dedicado para el proceso de detección de incidentes, haga que la documentación clara sea accesible para todas las partes interesadas del proceso y asegúrese de que se revise y actualice periódicamente según sea necesario. Asegúrese de que los empleados responsables de la detección de incidentes sigan este proceso (por ejemplo, mediante capacitación).
+
+  El proceso generalmente se basa en un alto grado de automatización, recopilando y correlacionando datos de registro de diferentes fuentes, incluidos los registros de aplicaciones. Puede agregar registros en un lugar central, si es adecuado. Verifique periódicamente la integridad de los datos analizados. Si agrega una nueva aplicación, asegúrese de que el proceso la cubra dentro de un período de tiempo razonable.
+
+  Detecte posibles incidentes de seguridad utilizando una lista de verificación disponible. La lista de verificación debe cubrir los vectores de ataque esperados y las cadenas de muerte conocidas o esperadas. Evalúelo y actualícelo con regularidad.
+
+  Cuando determine que un evento es un incidente de seguridad (con suficiente confianza), notifique al personal responsable de inmediato, incluso fuera del horario comercial. Realice un análisis adicional, según corresponda, e inicie el proceso de escalada.
+#Type Classification of the Document
+type: Activity

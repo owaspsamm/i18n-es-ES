@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 09f4b814a3444b329a7c9c7f54152ffe
+#Link to the answer set that contains the potential answers for this question
+answerset: 9a87d689fe35441aabf1ad4b7048b61e
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 54aca12ea18e4073becbdd356cd3b3ef
+#One-sentence description of the criterium
+text: '¿Publica las políticas de la organización como scripts de prueba o libros de ejecución para una interpretación fácil por parte de equipos de desarrollo?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - los requisitos de la política y las directrices de implementación en las normas asociadas
+  - 
+    - usos
+#Type Classification of the Document
+type: Pregunta

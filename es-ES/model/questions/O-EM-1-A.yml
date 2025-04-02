@@ -1,0 +1,16 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 786b3d7b39cd49a88090554a275f04a6
+#Text of the question presented to the user
+text: '¿Refuerzan las configuraciones de los componentes clave de sus pilas de tecnología?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Ha identificado los componentes clave en cada pila de tecnología utilizada
+  - Tiene un estándar de configuración establecido para cada componente clave
+#Type Classification of the Document
+type: Pregunta

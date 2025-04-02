@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM Activity Description
+#===========================================================
+#Link to the stream that this activity belongs to
+stream: 77ca4b5e7ebc42558109829dffc2b80d
+#Link to the practice level that this activity belongs to
+level: 83ea8aaab3384b41b785107613ee4d86
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9d0433c5133c4a4c9c16ae84abe9a235
+#The title of this activity
+title: Verificar la efectividad de los componentes de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Aseguramiento de la efectividad de los controles de arquitectura
+#A one sentence description of the activity
+shortDescription: Revisión de la efectividad de los componentes de la arquitectura
+#A multi-paragraph description of the activity
+longDescription: |
+  Revise la efectividad de los componentes de la arquitectura y sus mecanismos de seguridad proporcionados en términos de alineación con la estrategia general de la organización, y analice el grado de disponibilidad, escalabilidad y preparación empresarial de las soluciones de seguridad elegidas. Si bien las elecciones tácticas para una aplicación en particular pueden tener sentido en contextos específicos, es importante vigilar el panorama general y garantizar la preparación futura de la solución diseñada.
+
+  Retroalimente cualquier hallazgo en la gestión de defectos para desencadenar mejoras adicionales en la arquitectura.
+#Type Classification of the Document
+type: Activity

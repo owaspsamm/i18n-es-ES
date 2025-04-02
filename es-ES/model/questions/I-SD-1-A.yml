@@ -1,0 +1,24 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 994bcac2bb7c4cc59a0faa365a0b58a0
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 24697d43707b4d83a6a5819a9db9a75d
+#One-sentence description of the criterium
+text: '¿Utiliza procesos de despliegue repetibles?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Tienes suficiente información para ejecutar los procesos de implementación
+  - Su documentación de despliegue actualizada
+  - Su documentación de despliegue es accesible para los interesados relevantes
+  - Usted se asegura de que sólo personal calificado definido puede activar un despliegue
+  - Endurece (hardening) las herramientas que se utilizan en el proceso de despliegue
+#Type Classification of the Document
+type: Pregunta

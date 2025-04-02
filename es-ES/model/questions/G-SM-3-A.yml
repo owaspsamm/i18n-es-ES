@@ -1,0 +1,22 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: e092ac0ccb8c4fccb6cd662f974dc107
+#One-sentence description of the criterium
+text: '¿Revisa y actualiza regularmente el Plan Estratégico para la Seguridad de las Aplicaciones?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - 
+    - entorno, la organización o su apetito de riesgo
+  - 
+    - los impulsores y estrategias del negocio
+  - 
+    - actividades
+  - 
+    - a todas las partes interesadas
+#Type Classification of the Document
+type: Pregunta

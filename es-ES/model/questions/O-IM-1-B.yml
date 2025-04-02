@@ -1,0 +1,16 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question
+#===========================================================
+#Link to the activity that this question helps measure
+activity: b082664b8815407d825b82cf23fa88ea
+#Text of the question presented to the user
+text: '¿Responde a incidentes detectados?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criteria
+quality:
+  - Tiene una persona o rol definido para el manejo de incidentes
+  - Usted documenta incidentes de seguridad
+#Type Classification of the Document
+type: Pregunta

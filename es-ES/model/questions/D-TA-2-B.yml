@@ -1,0 +1,23 @@
+---
+#===========================================================
+#OWASP SAMM2 Coverage Question template/sample
+#===========================================================
+#Link to the activity that this question helps measure
+activity: 649b693315234a94928e42f3e308deac
+#Link to the answer set that contains the potential answers for this question
+answerset: f77bd45a28c8493dbba6e53b2eafa20f
+#Unique identifier (GUID) used to refer to this maturity level.
+#Please generate another identifier for your specific maturity level.
+id: 42cfabd13db34fd0b35e92af917eb1b8
+#One-sentence description of the criterium
+text: '¿Utiliza una metodología estándar, alineada a los niveles de riesgo de su aplicación?'
+#Order of this question for the activity (in case there would be multiple)
+order: 1
+#Qualifying Criterion
+quality:
+  - Entrena a sus arquitectos, campeones de seguridad y otras partes interesadas sobre cómo hacer modelos prácticos de amenazas
+  - Su metodología de modelado de amenazas incluye al menos diagramación, identificación de amenazas, mitigaciones de fallas de diseño y cómo validar los artefactos de su modelo de amenaza
+  - Los cambios en el contexto de la aplicación o negocio desencadenan una revisión de los modelos de amenaza relevantes
+  - Captura los artefactos de modelado de amenazas con herramientas que son utilizadas por los equipos de su aplicación
+#Type Classification of the Document
+type: Pregunta

@@ -1,0 +1,13 @@
+#Unique identifier to refer to this stream
+id: 47bff9a57f0344eeb4b083f1c2b1bb7e
+#Official stream name
+name: Configuración de endurecimiento
+#Stream letter, A or B
+letter: A
+#Multi-paragraph explanation of the stream
+description: |
+  Las actividades de esta corriente se centran en la gestión por parte de la organización de las configuraciones relacionadas con la seguridad en todos los elementos de la pila tecnológica. Se hace hincapié en los elementos (por ejemplo, sistemas operativos, contenedores, marcos, servicios, dispositivos y bibliotecas) obtenidos de terceros, ya que su arquitectura y diseño no están bajo el control de la organización.
+#Relative order of the stream within the security stream  (A=1 ; B=2)
+order: 1
+#Type Classification of the Document
+type: Flujo

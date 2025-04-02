@@ -1,0 +1,19 @@
+#Official name of this practice
+name: Valoración de amenazas
+#Abbreviation of this practice
+shortName: VA
+#A one sentence description of the security practice
+shortDescription: Esta práctica se centra en identificar posibles amenazas en las aplicaciones.
+#A multi-paragraph description of the security practice
+longDescription: |
+  La práctica de Evaluación de Amenazas se centra en la identificación y comprensión de los riesgos a nivel de proyecto basados en la funcionalidad del software que se está desarrollando y las características del entorno de ejecución.A partir de los detalles sobre las amenazas y los ataques probables contra cada proyecto, la organización en su conjunto funciona de forma más eficaz gracias a mejores decisiones sobre la priorización de iniciativas para la seguridad.Además, las decisiones para la aceptación de riesgos están más informadas y, por tanto, mejor alineadas con el negocio.
+
+  Empezando con modelos sencillos de amenazas y construyendo perfiles de riesgo de las aplicaciones, una organización mejora con el tiempo. En última instancia, una organización sofisticada mantendría esta información de forma que esté estrechamente vinculada a los factores compensatorios y a los riesgos transferidos de entidades externas. Esto proporciona una mayor comprensión de los posibles impactos derivados de los problemas de seguridad, al tiempo que mantiene una estrecha vigilancia sobre el rendimiento actual de la organización frente a las amenazas conocidas.
+#The relative order of this practice in the business function
+order: 1
+#Who's the "owner" of this practice
+assignee: John Ellingsworth
+#Indication of progress to keep track of overall status
+progress: 50
+#Type Classification of the Document
+type: Práctica
