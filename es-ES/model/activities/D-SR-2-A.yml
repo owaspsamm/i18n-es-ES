@@ -24,6 +24,6 @@ longDescription: |
   Cuando se especifican los requisitos, es importante asegurarse de que estos requisitos sean tenidos en cuenta durante el desarrollo del producto. Establecer un mecanismo para estimular o forzar a los equipos de proyectos a cumplir estos requisitos en el producto. Por ejemplo, anotar los requisitos con prioridades, o influir en el manejo de los requisitos para hacer cumplir el apetito de seguridad suficiente (a la vez que se equilibra con otros requisitos no funcionales).
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - e17d573510904f65a1fe6040b56ad0b1
+- e17d573510904f65a1fe6040b56ad0b1
 #Type Classification of the Document
 type: Activity
