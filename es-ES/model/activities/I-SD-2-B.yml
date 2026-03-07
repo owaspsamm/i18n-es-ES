@@ -24,23 +24,23 @@ longDescription: |
   Haga que el sistema utilizado para almacenar y procesar los secretos y las credenciales sea robusto desde una perspectiva de seguridad. Cifre todos los secretos en reposo y en tránsito. Los usuarios que configuran este sistema y los secretos que contiene están sujetos al principio de privilegio mínimo. Por ejemplo, un desarrollador puede necesitar administrar los secretos para un entorno de desarrollo, pero no una prueba de aceptación del usuario o un entorno de producción.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Administrador
-  - Desarrollador
-  - Ingeniero de Seguridad
+- Administrador
+- Desarrollador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 84dcbc954d954d95b1fb37e032f05402
+- 84dcbc954d954d95b1fb37e032f05402
 #Type Classification of the Document
 type: Activity
