@@ -24,23 +24,23 @@ longDescription: |
   Almacene credenciales confidenciales y secretos para sistemas de producción con cifrado en reposo en todo momento. Considere usar una herramienta especialmente diseñada para esto. Maneje la administración de claves con cuidado para que solo el personal responsable de las implementaciones de producción pueda acceder a estos datos.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Desarrollador
-  - Administrador
-  - Ingeniero de Seguridad
+- Desarrollador
+- Administrador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivites:
-  - 994bcac2bb7c4cc59a0faa365a0b58a0
+- 994bcac2bb7c4cc59a0faa365a0b58a0
 #Type Classification of the Document
 type: Activity
