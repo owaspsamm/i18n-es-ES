@@ -32,23 +32,23 @@ longDescription: |
   Reaccione oportuna y apropiadamente a las no conformidades tratándolas como defectos. Considere utilizar una herramienta automatizada para buscar dependencias vulnerables y asignar los problemas identificados a los respectivos equipos de desarrollo.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Arquitecto
-  - Desarrollador
-  - Ingeniero de Seguridad
+- Arquitecto
+- Desarrollador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 93dff7be5f954f8d87d24f4261002508
+- 93dff7be5f954f8d87d24f4261002508
 #Type Classification of the Document
 type: Activity
