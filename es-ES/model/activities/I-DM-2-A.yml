@@ -24,18 +24,18 @@ longDescription: |
   Incluso si no tiene ningún SLAs formal para reparar defectos de baja severidad, asegúrese de que los equipos responsables aún tengan una visión general regular de los problemas que afectan a sus aplicaciones y entienda cómo problemas particulares se afectan o amplifican entre sí.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Ingeniero de Seguridad
-  - Oficial de seguridad
+- Ingeniero de Seguridad
+- Oficial de seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #Type Classification of the Document
