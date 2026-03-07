@@ -22,6 +22,6 @@ longDescription: |
   Identifique las tecnologías, marcos, herramientas e integraciones más importantes que se utilizan para cada aplicación. Utilice el conocimiento del arquitecto para estudiar el desarrollo y el entorno operativo, así como los artefactos. Luego, evalúelos por su calidad de seguridad y obtenga hallazgos importantes para su gestión.
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - e17d573510904f65a1fe6040b56ad0b1
+- e17d573510904f65a1fe6040b56ad0b1
 #Type Classification of the Document
 type: Activity
