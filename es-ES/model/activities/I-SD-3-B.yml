@@ -17,18 +17,18 @@ benefit: Posibilidad minimizada y detección oportuna de abuso de secretos de pr
 shortDescription: Mejore el ciclo de vida de los secretos de las aplicaciones generándolos con regularidad y garantizando un uso adecuado.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Administrador
-  - Ingeniero de Seguridad
+- Administrador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #Type Classification of the Document
