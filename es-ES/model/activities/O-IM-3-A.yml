@@ -26,7 +26,7 @@ longDescription: |
   La calidad de la detección de incidentes no depende de la hora o el día del evento. Si los eventos de seguridad no se reconocen y resuelven dentro de un tiempo específico (por ejemplo, 20 minutos), asegúrese de que se generen más notificaciones de acuerdo con una ruta de escalamiento establecida.
 #References to other activities that are related to this one
 relatedActivities:
-  - 93dff7be5f954f8d87d24f4261002508
-  - 2bf0e192a904444b8a2f38c33256e80a
+- 93dff7be5f954f8d87d24f4261002508
+- 2bf0e192a904444b8a2f38c33256e80a
 #Type Classification of the Document
 type: Activity
