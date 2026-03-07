@@ -17,23 +17,23 @@ benefit: Transparencia de los defectos de seguridad conocidos que afectan a apli
 shortDescription: Introducir un seguimiento estructurado de los defectos de seguridad y tomar decisiones con conocimiento de causa basadas en esta información.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Ingeniero de Seguridad
-  - Oficial de seguridad
+- Ingeniero de Seguridad
+- Oficial de seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 921ff24f0b9f4df9a5129aa2f8a4a570
-  - b3b20a75740c4880a21ad9aa0c1298c7
+- 921ff24f0b9f4df9a5129aa2f8a4a570
+- b3b20a75740c4880a21ad9aa0c1298c7
 #Type Classification of the Document
 type: Activity
