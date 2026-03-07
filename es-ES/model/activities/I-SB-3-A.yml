@@ -16,24 +16,24 @@ benefit: Asegurar que usted construya software cumpliendo con una línea base de
 shortDescription: Defina comprobaciones de seguridad obligatorias en el proceso de compilación y asegúrese de que la compilación de artefactos no compatibles falle.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Desarrollador
-  - Ingeniero de Seguridad
+- Desarrollador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 921ff24f0b9f4df9a5129aa2f8a4a570
-  - fb6f258a2e424ee9a919341758222a7a
-  - 4f6a06796d0840debcc775ea1af65679
+- 921ff24f0b9f4df9a5129aa2f8a4a570
+- fb6f258a2e424ee9a919341758222a7a
+- 4f6a06796d0840debcc775ea1af65679
 #Type Classification of the Document
 type: Activity
