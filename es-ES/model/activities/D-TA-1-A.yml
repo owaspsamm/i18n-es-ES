@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 17c90203f8354c3594eea22759e375a9
+#Link to the practice level that this activity belongs to
+level: a3d4045d5c0c4bd4a875784759539f0c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c6da6525773644d0a18b3a927caf6dd2
+#The title of this activity
+title: Realizar evaluaciones de riesgos de aplicación
+#Describe the benefit that is achieved by implementing this activity
+benefit: Capacidad de clasificar aplicaciones en función del riesgo
+#A one sentence description of the activity
+shortDescription: Una evaluación básica del riesgo de aplicación se realiza para entender la probabilidad y el impacto de un ataque.
+#Type Classification of the Document
+type: Activity

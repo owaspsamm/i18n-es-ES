@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 420074f071fb4ab6b6ee6ef44c4f4f1c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e092ac0ccb8c4fccb6cd662f974dc107
+#The title of this activity
+title: Alinear estrategias de seguridad y negocio
+#Describe the benefit that is achieved by implementing this activity
+benefit: Alineación continua del programa AppSec con los objetivos comerciales de la organización
+#Type Classification of the Document
+type: Activity

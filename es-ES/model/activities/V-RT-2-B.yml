@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 27a14a265c864eb790781cd1e2bf843b
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: fd4d1ac720374b13a25ab1381045b731
+#The title of this activity
+title: Definir y ejecutar casos de abuso de seguridad por requerimientos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Detección de errores de lógica de negocio de aplicación
+#Type Classification of the Document
+type: Activity

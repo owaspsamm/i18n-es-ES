@@ -1,0 +1,26 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 0e2c4c5620e24d7d8e979020ca414182
+#Link to the practice level that this activity belongs to
+level: 38f3a2f7633c42b98eb160f36a2c0a7b
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: ebd3782abc4343509981c52192904a42
+#The title of this activity
+title: Identificar campeones de seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Introducción básica de seguridad en la organización de desarrollo
+#A one sentence description of the activity
+shortDescription: Identificar un “Campeón de Seguridad” dentro de cada equipo de desarrollo.
+#A multi-paragraph description of the activity
+longDescription: |
+  Implementar un programa en el que cada equipo de desarrollo de software tenga un miembro considerado «Campeón de Seguridad» que sea el enlace entre la Seguridad de la Información y los desarrolladores. Dependiendo del tamaño y la estructura del equipo, el «Campeón de Seguridad» puede ser un desarrollador de software, un tester o un product manager. El «campeón de seguridad» dispone de un número determinado de horas semanales para actividades relacionadas con la seguridad de la información. Participan en sesiones informativas periódicas para aumentar su conocimiento y experiencia en diferentes disciplinas de seguridad. Los «campeones de seguridad» reciben formación adicional para ayudar a desarrollar estas funciones como expertos en seguridad del software. Es posible que tenga que personalizar la forma de crear y apoyar a los «Campeones de Seguridad» por razones culturales.
+
+  Los objetivos de esta posición son aumentar la eficacia y eficiencia de la seguridad y el cumplimiento de las aplicaciones y reforzar la relación entre los distintos equipos y la Seguridad de la Información. Para lograr estos objetivos, los «Campeones de Seguridad» ayudan a investigar, verificar y priorizar los defectos de software relacionados con la seguridad y el cumplimiento. Participan en todas las evaluaciones de riesgos, evaluaciones de amenazas y revisiones arquitectónicas para ayudar a identificar oportunidades de corregir defectos de seguridad haciendo que la arquitectura de la aplicación sea más resistente y reduciendo la superficie de amenaza de ataque.
+
+  Además de ayudar a la seguridad de la información, los «campeones de seguridad» realizan revisiones periódicas de todos los problemas relacionados con la seguridad para el equipo del proyecto, de modo que todo el mundo sea consciente de los problemas y de los esfuerzos de corrección actuales y futuros. Estas revisiones se aprovechan para ayudar a encontrar soluciones a problemas más complejos implicando a todo el equipo de desarrollo.
+#Type Classification of the Document
+type: Activity

@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2f1cac3c2e724823b3b48a7e797520b4
+#Link to the practice level that this activity belongs to
+level: 420074f071fb4ab6b6ee6ef44c4f4f1c
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 43d347fd280845718f16ccc811e5d942
+#The title of this activity
+title: Impulsar el programa de seguridad a través de métricas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Mejora continua de su programa de acuerdo a los resultados
+#A one sentence description of the activity
+shortDescription: Influenciar la estrategia basándose en las métricas y necesidades de la organización.
+#Type Classification of the Document
+type: Activity

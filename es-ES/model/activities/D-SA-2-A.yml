@@ -1,0 +1,19 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: 41c8e63716c34f1eaf09b8cad70cfbaf
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9b6a86278ba14a9098d3d60a9a78d6c5
+#The title of this activity
+title: Proveer soluciones de seguridad preferidas
+#Describe the benefit that is achieved by implementing this activity
+benefit: Servicios de seguridad reutilizables, disponibles para equipos de producción
+#A one sentence description of the activity
+shortDescription: Establecer patrones de diseño comunes y soluciones de seguridad para la adopción.
+#Type Classification of the Document
+type: Activity

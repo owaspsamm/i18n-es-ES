@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 253b012094cf4e0988e08fd22609227d
+#Link to the practice level that this activity belongs to
+level: a11b78917dec4cfdad983cf6d1d17b61
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 27bb61f3c6344359b021caeaef5ab07e
+#The title of this activity
+title: Adherirse a los principios básicos de la seguridad
+#Describe the benefit that is achieved by implementing this activity
+benefit: Conjunto de los principios básicos de seguridad disponibles para equipos de producción 
+#Type Classification of the Document
+type: Activity

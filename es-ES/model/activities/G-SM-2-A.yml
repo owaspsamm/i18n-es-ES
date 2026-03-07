@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 94bb47791e3d462cbf5f71ebb1a1327a
+#Link to the practice level that this activity belongs to
+level: 561e85a7fb114b1d976acce95d0b41ee
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: c1778728d66e4b83b59a42405a90598a
+#The title of this activity
+title: Definir la estrategia de seguridad
+#A one sentence description of the activity
+shortDescription: Publicar una estrategia unificada para la seguridad de las aplicaciones.
+#Type Classification of the Document
+type: Activity

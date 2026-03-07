@@ -1,0 +1,15 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 2919e1f19aec4f018da94a3e8733f37d
+#Link to the practice level that this activity belongs to
+level: 61ae1e4268b24d7986805658c89b5e54
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: e7ba346fabdc44beb47e2c67c14a6726
+#The title of this activity
+title: Mida el cumplimiento de requerimientos externos
+#Type Classification of the Document
+type: Activity

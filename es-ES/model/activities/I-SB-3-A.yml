@@ -1,0 +1,39 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: 8a870a9b26724b4ba0dff177028b474a
+#Link to the practice level that this activity belongs to
+level: 02e602c451d548e8a95433a46fe6b9d8
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 281369f491da4d4c84b0729e344e2c93
+#The title of this activity
+title: Forzar una línea base de seguridad durante la construcción
+#Describe the benefit that is achieved by implementing this activity
+benefit: Asegurar que usted construya software cumpliendo con una línea base de seguridad
+shortDescription: Defina comprobaciones de seguridad obligatorias en el proceso de compilación y asegúrese de que la compilación de artefactos no compatibles falle.
+#The output of this particular activity
+results:
+- result1
+- result2
+#The different metrics that can be used to measure the success of the activity
+metrics:
+- metric1
+- metric2
+#A description of the costs required to implement the activity
+costs: TBS.
+#The (standard) roles involved in the implementation of this activity
+personnel:
+- Desarrollador
+- Ingeniero de Seguridad
+#Internal notes that might help the author
+notes: Ninguno
+#References to other activities that are prerequisites to implement this one.
+relatedActivities:
+- 921ff24f0b9f4df9a5129aa2f8a4a570
+- fb6f258a2e424ee9a919341758222a7a
+- 4f6a06796d0840debcc775ea1af65679
+#Type Classification of the Document
+type: Activity

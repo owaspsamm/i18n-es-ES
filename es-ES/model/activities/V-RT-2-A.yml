@@ -1,0 +1,17 @@
+---
+# ===========================================================
+# OWASP SAMM Activity Description
+# ===========================================================
+#Link to the stream that this activity belongs to
+stream: efb5d1f275504173899da345ef5bbe8e
+#Link to the practice level that this activity belongs to
+level: 3e6e9a2b696e48018830b44fa96f98b5
+#Unique identifier (GUID) used to refer to this activity.
+#Please generate another identifier for your specific activity.
+id: 9951bda24b624cc684a2851f9d56c5d8
+#The title of this activity
+title: Definir y ejecutar casos de prueba de seguridad a partir de requisitos
+#Describe the benefit that is achieved by implementing this activity
+benefit: Integración de los requisitos de seguridad en escenarios de prueba
+#Type Classification of the Document
+type: Activity

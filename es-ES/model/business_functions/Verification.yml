@@ -1,0 +1,5 @@
+#Official name of the function
+name: Verificación
+#A multi-paragraph description of the function
+description: |
+  La verificación se centra en los procesos y actividades relacionadas con cómo una organización revisa y prueba los componentes producidos a lo largo del desarrollo del software. Esto, habitualmente, incluye verificaciones de calidad como las pruebas, pero también incluye otras actividades de revisión y evaluación.
