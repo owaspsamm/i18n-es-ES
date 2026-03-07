@@ -20,6 +20,6 @@ longDescription: |
   Las pruebas de seguridad validan los controles de seguridad del software relevantes. Realice pruebas de seguridad de verificación de control de forma manual o con herramientas, cada vez que la aplicación cambie su uso de los controles. Se pueden utilizar técnicas como alternancia de funciones y pruebas A/B para exponer progresivamente las funciones a un público más amplio a medida que estén suficientemente validadas. La verificación del control de software es obligatoria para todo el software que forma parte del programa SAMM.
 #References to other activities that are prerequisites to implement this one.
 dependencies:
-  - 5702908efca4499e87a0239f32920d9b
+- 5702908efca4499e87a0239f32920d9b
 #Type Classification of the Document
 type: Activity
