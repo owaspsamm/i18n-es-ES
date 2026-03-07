@@ -26,23 +26,23 @@ longDescription: |
   Finalmente, añada las comprobaciones de seguridad automatizadas apropiadas (por ejemplo, usando las herramientas SAST) en el tubo para aprovechar la automatización en beneficio de seguridad.
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Desarrollador
-  - Ingeniero de Seguridad
+- Desarrollador
+- Ingeniero de Seguridad
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 4f6a06796d0840debcc775ea1af65679
-  - 77a5f467ffe140e2a2839bb522e82c4e
+- 4f6a06796d0840debcc775ea1af65679
+- 77a5f467ffe140e2a2839bb522e82c4e
 #Type Classification of the Document
 type: Activity
