@@ -29,25 +29,25 @@ longDescription: |
   * Dotar de personal a su equipo de seguridad y establecer el presupuesto de seguridad
 #The output of this particular activity
 results:
-  - result1
-  - result2
+- result1
+- result2
 #The different metrics that can be used to measure the success of the activity
 metrics:
-  - metric1
-  - metric2
+- metric1
+- metric2
 #A description of the costs required to implement the activity
 costs: TBS.
 #The (standard) roles involved in the implementation of this activity
 personnel:
-  - Oficial de seguridad
-  - Ingeniero de Seguridad
-  - Administrador
+- Oficial de seguridad
+- Ingeniero de Seguridad
+- Administrador
 #Internal notes that might help the author
 notes: Ninguno
 #References to other activities that are prerequisites to implement this one.
 relatedActivities:
-  - 5bcb52375a0f4085bb12266c9ecfa84d
-  - 4f6a06796d0840debcc775ea1af65679
-  - a395d69917b947b28d5995738d716283
+- 5bcb52375a0f4085bb12266c9ecfa84d
+- 4f6a06796d0840debcc775ea1af65679
+- a395d69917b947b28d5995738d716283
 #Type Classification of the Document
 type: Activity
